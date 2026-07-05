@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Mao",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/3935/1.jpg",
         "link": "https://animeav1.com/media/mao/",
         "episodios": [
             "https://animeav1.com/media/mao/1",
@@ -22,7 +22,7 @@
     },
     {
         "nombre": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4393/1.jpg",
         "link": "https://animeav1.com/media/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita/",
         "episodios": [
             "https://animeav1.com/media/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita/1"
@@ -30,7 +30,7 @@
     },
     {
         "nombre": "Kabushikigaisha Magi-Lumière 2nd Season",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4394/1.jpg",
         "link": "https://animeav1.com/media/kabushikigaisha-magi-lumiere-2nd-season/",
         "episodios": [
             "https://animeav1.com/media/kabushikigaisha-magi-lumiere-2nd-season/1"
@@ -38,7 +38,7 @@
     },
     {
         "nombre": "Oni no Hanayome",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4390/1.jpg",
         "link": "https://animeav1.com/media/oni-no-hanayome/",
         "episodios": [
             "https://animeav1.com/media/oni-no-hanayome/1"
@@ -46,7 +46,7 @@
     },
     {
         "nombre": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4391/1.jpg",
         "link": "https://animeav1.com/media/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance/",
         "episodios": [
             "https://animeav1.com/media/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance/1"
@@ -54,7 +54,7 @@
     },
     {
         "nombre": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4392/1.jpg",
         "link": "https://animeav1.com/media/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu/",
         "episodios": [
             "https://animeav1.com/media/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu/1"
@@ -62,7 +62,7 @@
     },
     {
         "nombre": "Yomi no Tsugai",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/3933/1.jpg",
         "link": "https://animeav1.com/media/yomi-no-tsugai/",
         "episodios": [
             "https://animeav1.com/media/yomi-no-tsugai/1",
@@ -82,7 +82,7 @@
     },
     {
         "nombre": "Grow Up Show: Himawari no Circus-dan",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4389/1.jpg",
         "link": "https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/",
         "episodios": [
             "https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/1"
@@ -90,16 +90,7 @@
     },
     {
         "nombre": "Tenmaku no Jaadugar",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/tenmaku-no-jaadugar/",
-        "episodios": [
-            "https://animeav1.com/media/tenmaku-no-jaadugar/1",
-            "https://animeav1.com/media/tenmaku-no-jaadugar/2"
-        ]
-    },
-    {
-        "nombre": "Tenmaku no Jaadugar",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4388/1.jpg",
         "link": "https://animeav1.com/media/tenmaku-no-jaadugar/",
         "episodios": [
             "https://animeav1.com/media/tenmaku-no-jaadugar/1",
@@ -108,7 +99,7 @@
     },
     {
         "nombre": "Iwamoto-senpai no Suisen",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4387/1.jpg",
         "link": "https://animeav1.com/media/iwamoto-senpai-no-suisen/",
         "episodios": [
             "https://animeav1.com/media/iwamoto-senpai-no-suisen/1"
@@ -116,7 +107,7 @@
     },
     {
         "nombre": "Neko to Ryuu",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4367/1.jpg",
         "link": "https://animeav1.com/media/neko-to-ryuu/",
         "episodios": [
             "https://animeav1.com/media/neko-to-ryuu/1",
@@ -125,7 +116,7 @@
     },
     {
         "nombre": "Black Torch",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4386/1.jpg",
         "link": "https://animeav1.com/media/black-torch/",
         "episodios": [
             "https://animeav1.com/media/black-torch/1"
@@ -133,7 +124,7 @@
     },
     {
         "nombre": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4384/1.jpg",
         "link": "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/",
         "episodios": [
             "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/1",
@@ -142,24 +133,15 @@
     },
     {
         "nombre": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4385/1.jpg",
         "link": "https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/",
         "episodios": [
             "https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/1"
         ]
     },
     {
-        "nombre": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/",
-        "episodios": [
-            "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/1",
-            "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/2"
-        ]
-    },
-    {
         "nombre": "Mairimashita! Iruma-kun 4th Season",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/3929/1.jpg",
         "link": "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/",
         "episodios": [
             "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/1",
@@ -180,7 +162,7 @@
     },
     {
         "nombre": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4383/1.jpg",
         "link": "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/",
         "episodios": [
             "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/1"
@@ -188,7 +170,7 @@
     },
     {
         "nombre": "Uchi no Otouto-domo ga Sumimasen",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4382/1.jpg",
         "link": "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/",
         "episodios": [
             "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/1"
@@ -196,121 +178,7 @@
     },
     {
         "nombre": "Kore Kaite Shine",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/kore-kaite-shine/",
-        "episodios": [
-            "https://animeav1.com/media/kore-kaite-shine/1"
-        ]
-    },
-    {
-        "nombre": "Kabushikigaisha Magi-Lumière 2nd Season",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/kabushikigaisha-magi-lumiere-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/kabushikigaisha-magi-lumiere-2nd-season/1"
-        ]
-    },
-    {
-        "nombre": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita/",
-        "episodios": [
-            "https://animeav1.com/media/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita/1"
-        ]
-    },
-    {
-        "nombre": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu/",
-        "episodios": [
-            "https://animeav1.com/media/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu/1"
-        ]
-    },
-    {
-        "nombre": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance/",
-        "episodios": [
-            "https://animeav1.com/media/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance/1"
-        ]
-    },
-    {
-        "nombre": "Oni no Hanayome",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/oni-no-hanayome/",
-        "episodios": [
-            "https://animeav1.com/media/oni-no-hanayome/1"
-        ]
-    },
-    {
-        "nombre": "Grow Up Show: Himawari no Circus-dan",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/",
-        "episodios": [
-            "https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/1"
-        ]
-    },
-    {
-        "nombre": "Tenmaku no Jaadugar",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/tenmaku-no-jaadugar/",
-        "episodios": [
-            "https://animeav1.com/media/tenmaku-no-jaadugar/1",
-            "https://animeav1.com/media/tenmaku-no-jaadugar/2"
-        ]
-    },
-    {
-        "nombre": "Iwamoto-senpai no Suisen",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/iwamoto-senpai-no-suisen/",
-        "episodios": [
-            "https://animeav1.com/media/iwamoto-senpai-no-suisen/1"
-        ]
-    },
-    {
-        "nombre": "Black Torch",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/black-torch/",
-        "episodios": [
-            "https://animeav1.com/media/black-torch/1"
-        ]
-    },
-    {
-        "nombre": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/",
-        "episodios": [
-            "https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/1"
-        ]
-    },
-    {
-        "nombre": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/",
-        "episodios": [
-            "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/1",
-            "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/2"
-        ]
-    },
-    {
-        "nombre": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/1"
-        ]
-    },
-    {
-        "nombre": "Uchi no Otouto-domo ga Sumimasen",
-        "imagen": "/img/logo.svg",
-        "link": "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/",
-        "episodios": [
-            "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/1"
-        ]
-    },
-    {
-        "nombre": "Kore Kaite Shine",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4381/1.jpg",
         "link": "https://animeav1.com/media/kore-kaite-shine/",
         "episodios": [
             "https://animeav1.com/media/kore-kaite-shine/1"
@@ -318,7 +186,7 @@
     },
     {
         "nombre": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4380/1.jpg",
         "link": "https://animeav1.com/media/ryoumin-0-nin-start-no-henkyou-ryoushu-sama/",
         "episodios": [
             "https://animeav1.com/media/ryoumin-0-nin-start-no-henkyou-ryoushu-sama/1"
@@ -326,7 +194,7 @@
     },
     {
         "nombre": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4379/1.jpg",
         "link": "https://animeav1.com/media/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita/",
         "episodios": [
             "https://animeav1.com/media/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita/1"
@@ -334,7 +202,7 @@
     },
     {
         "nombre": "Bai Ri Cheng Wang",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4378/1.jpg",
         "link": "https://animeav1.com/media/bai-ri-cheng-wang/",
         "episodios": [
             "https://animeav1.com/media/bai-ri-cheng-wang/1",
@@ -343,7 +211,7 @@
     },
     {
         "nombre": "Yani Neko",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4377/1.jpg",
         "link": "https://animeav1.com/media/yani-neko/",
         "episodios": [
             "https://animeav1.com/media/yani-neko/1"
@@ -351,7 +219,7 @@
     },
     {
         "nombre": "Otome Kaijuu Caraméliser",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4376/1.jpg",
         "link": "https://animeav1.com/media/otome-kaijuu-carameliser/",
         "episodios": [
             "https://animeav1.com/media/otome-kaijuu-carameliser/1"
@@ -359,7 +227,7 @@
     },
     {
         "nombre": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-        "imagen": "/img/logo.svg",
+        "imagen": "https://cdn.animeav1.com/screenshots/4375/1.jpg",
         "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
         "episodios": [
             "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/1"
