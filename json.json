@@ -1,314 +1,325 @@
 [
-    {
-        "nombre": "Guimi Zhi Zhu Tebie Pian: Liewu",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/guimi-zhi-zhu-tebie-pian-liewu.jpg",
-        "link": "https://jkanime.net/guimi-zhi-zhu-tebie-pian-liewu/",
-        "episodios": [
-            "https://jkanime.net/guimi-zhi-zhu-tebie-pian-liewu/1/"
-        ]
-    },
-    {
-        "nombre": "Go! Go! Ackman",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/go-go-ackman.jpg",
-        "link": "https://jkanime.net/go-go-ackman/",
-        "episodios": [
-            "https://jkanime.net/go-go-ackman/1/"
-        ]
-    },
-    {
-        "nombre": "Darkside Blues",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/darkside-blues.jpg",
-        "link": "https://jkanime.net/darkside-blues/",
-        "episodios": [
-            "https://jkanime.net/darkside-blues/1/"
-        ]
-    },
-    {
-        "nombre": "Dragon Quest: Dai no Daibouken (TV)",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-quest-dai-no-daibouken-tv.jpg",
-        "link": "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/",
-        "episodios": [
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/1/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/2/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/3/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/4/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/5/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/6/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/7/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/8/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/9/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/10/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/11/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/12/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/13/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/14/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/15/",
-            "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/16/"
-        ]
-    },
-    {
-        "nombre": "Luca",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/luca.jpg",
-        "link": "https://jkanime.net/luca/",
-        "episodios": [
-            "https://jkanime.net/luca/1/"
-        ]
-    },
-    {
-        "nombre": "Baki-dou Part 2",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/baki-dou-part-2.jpg",
-        "link": "https://jkanime.net/baki-dou-part-2/",
-        "episodios": [
-            "https://jkanime.net/baki-dou-part-2/1/",
-            "https://jkanime.net/baki-dou-part-2/2/",
-            "https://jkanime.net/baki-dou-part-2/3/",
-            "https://jkanime.net/baki-dou-part-2/4/",
-            "https://jkanime.net/baki-dou-part-2/5/",
-            "https://jkanime.net/baki-dou-part-2/6/",
-            "https://jkanime.net/baki-dou-part-2/7/",
-            "https://jkanime.net/baki-dou-part-2/8/",
-            "https://jkanime.net/baki-dou-part-2/9/",
-            "https://jkanime.net/baki-dou-part-2/10/",
-            "https://jkanime.net/baki-dou-part-2/11/",
-            "https://jkanime.net/baki-dou-part-2/12/"
-        ]
-    },
-    {
-        "nombre": "Nanatsu no Bitoku Specials",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/nanatsu-no-bitoku-specials.jpg",
-        "link": "https://jkanime.net/nanatsu-no-bitoku-specials/",
-        "episodios": [
-            "https://jkanime.net/nanatsu-no-bitoku-specials/1/",
-            "https://jkanime.net/nanatsu-no-bitoku-specials/2/"
-        ]
-    },
-    {
-        "nombre": "Nanatsu no Bitoku",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/nanatsu-no-bitoku.jpg",
-        "link": "https://jkanime.net/nanatsu-no-bitoku/",
-        "episodios": [
-            "https://jkanime.net/nanatsu-no-bitoku/1/",
-            "https://jkanime.net/nanatsu-no-bitoku/2/",
-            "https://jkanime.net/nanatsu-no-bitoku/3/",
-            "https://jkanime.net/nanatsu-no-bitoku/4/",
-            "https://jkanime.net/nanatsu-no-bitoku/5/",
-            "https://jkanime.net/nanatsu-no-bitoku/6/",
-            "https://jkanime.net/nanatsu-no-bitoku/7/",
-            "https://jkanime.net/nanatsu-no-bitoku/8/",
-            "https://jkanime.net/nanatsu-no-bitoku/9/",
-            "https://jkanime.net/nanatsu-no-bitoku/10/"
-        ]
-    },
-    {
-        "nombre": "Kidou Keisatsu Patlabor: On Television",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/kidou-keisatsu-patlabor.jpg",
-        "link": "https://jkanime.net/kidou-keisatsu-patlabor/",
-        "episodios": [
-            "https://jkanime.net/kidou-keisatsu-patlabor/1/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/2/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/3/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/4/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/5/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/6/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/7/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/8/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/9/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/10/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/11/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/12/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/13/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/14/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/15/",
-            "https://jkanime.net/kidou-keisatsu-patlabor/16/"
-        ]
-    },
-    {
-        "nombre": "Suu-funkan no Yell wo",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/suu-funkan-no-yell-wo.jpg",
-        "link": "https://jkanime.net/suu-funkan-no-yell-wo/",
-        "episodios": [
-            "https://jkanime.net/suu-funkan-no-yell-wo/1/"
-        ]
-    },
-    {
-        "nombre": "Kidou Keisatsu Patlabor the Movie",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/kidou-keisatsu-patlabor-the-movie.jpg",
-        "link": "https://jkanime.net/kidou-keisatsu-patlabor-the-movie/",
-        "episodios": [
-            "https://jkanime.net/kidou-keisatsu-patlabor-the-movie/1/"
-        ]
-    },
-    {
-        "nombre": "Quanzhi Fashi VII",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/quanzhi-fashi-vii.jpg",
-        "link": "https://jkanime.net/quanzhi-fashi-vii/",
-        "episodios": [
-            "https://jkanime.net/quanzhi-fashi-vii/1/",
-            "https://jkanime.net/quanzhi-fashi-vii/2/",
-            "https://jkanime.net/quanzhi-fashi-vii/3/",
-            "https://jkanime.net/quanzhi-fashi-vii/4/",
-            "https://jkanime.net/quanzhi-fashi-vii/5/",
-            "https://jkanime.net/quanzhi-fashi-vii/6/",
-            "https://jkanime.net/quanzhi-fashi-vii/7/",
-            "https://jkanime.net/quanzhi-fashi-vii/8/"
-        ]
-    },
-    {
-        "nombre": "Oneechan Gokko",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/oneechan-gokko.jpg",
-        "link": "https://jkanime.net/oneechan-gokko/",
-        "episodios": [
-            "https://jkanime.net/oneechan-gokko/1/"
-        ]
-    },
-    {
-        "nombre": "Biao Ren Er",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/biao-ren-er.jpg",
-        "link": "https://jkanime.net/biao-ren-er/",
-        "episodios": [
-            "https://jkanime.net/biao-ren-er/1/"
-        ]
-    },
-    {
-        "nombre": "Isekai no Seikishi Monogatari",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/isekai-no-seikishi-monogatari.jpg",
-        "link": "https://jkanime.net/isekai-no-seikishi-monogatari/",
-        "episodios": [
-            "https://jkanime.net/isekai-no-seikishi-monogatari/1/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/2/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/3/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/4/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/5/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/6/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/7/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/8/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/9/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/10/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/11/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/12/",
-            "https://jkanime.net/isekai-no-seikishi-monogatari/13/"
-        ]
-    },
-    {
-        "nombre": "Shiguang Xiao Juchang",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/shiguang-xiao-juchang.jpg",
-        "link": "https://jkanime.net/shiguang-xiao-juchang/",
-        "episodios": [
-            "https://jkanime.net/shiguang-xiao-juchang/1/",
-            "https://jkanime.net/shiguang-xiao-juchang/2/",
-            "https://jkanime.net/shiguang-xiao-juchang/3/",
-            "https://jkanime.net/shiguang-xiao-juchang/4/",
-            "https://jkanime.net/shiguang-xiao-juchang/5/",
-            "https://jkanime.net/shiguang-xiao-juchang/6/",
-            "https://jkanime.net/shiguang-xiao-juchang/7/",
-            "https://jkanime.net/shiguang-xiao-juchang/8/"
-        ]
-    },
-    {
-        "nombre": "Ichigo 100% OVA",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-100-ova.jpg",
-        "link": "https://jkanime.net/ichigo-100-ova/",
-        "episodios": [
-            "https://jkanime.net/ichigo-100-ova/1/",
-            "https://jkanime.net/ichigo-100-ova/2/",
-            "https://jkanime.net/ichigo-100-ova/3/",
-            "https://jkanime.net/ichigo-100-ova/4/"
-        ]
-    },
-    {
-        "nombre": "Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-100-koi-ga-hajimaru-satsuei-gasshuku-yureru-kokoro-ga-higashi-e-nishi-e.jpg",
-        "link": "https://jkanime.net/ichigo-100-koi-ga-hajimaru-satsuei-gasshuku-yureru-kokoro-ga-higashi-e-nishi-e/",
-        "episodios": [
-            "https://jkanime.net/ichigo-100-koi-ga-hajimaru-satsuei-gasshuku-yureru-kokoro-ga-higashi-e-nishi-e/1/"
-        ]
-    },
-    {
-        "nombre": "Ichigo 100% Special 2",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-100-special-2.jpg",
-        "link": "https://jkanime.net/ichigo-100-special-2/",
-        "episodios": [
-            "https://jkanime.net/ichigo-100-special-2/1/"
-        ]
-    },
-    {
-        "nombre": "The iDOLM@STER Million Live! Itsuka, Mannaka de",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/the-idolm-at-ster-million-live-itsuka-mannaka-de.jpg",
-        "link": "https://jkanime.net/the-idolm-at-ster-million-live-itsuka-mannaka-de/",
-        "episodios": [
-            "https://jkanime.net/the-idolm-at-ster-million-live-itsuka-mannaka-de/1/"
-        ]
-    },
-    {
-        "nombre": "Yoroi Shin Den Samurai Troopers Part 2",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/yoroi-shin-den-samurai-troopers-part-2.jpg",
-        "link": "https://jkanime.net/yoroi-shin-den-samurai-troopers-part-2/",
-        "episodios": []
-    },
-    {
-        "nombre": "Perfect Addiction",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/perfect-addiction.jpg",
-        "link": "https://jkanime.net/perfect-addiction/",
-        "episodios": []
-    },
-    {
-        "nombre": "Mebius Dust",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/mebius-dust.jpg",
-        "link": "https://jkanime.net/mebius-dust/",
-        "episodios": []
-    },
-    {
-        "nombre": "Let's Go Kaiki-gumi",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/lets-go-kaiki-gumi.jpg",
-        "link": "https://jkanime.net/lets-go-kaiki-gumi/",
-        "episodios": []
-    },
-    {
-        "nombre": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita.jpg",
-        "link": "https://jkanime.net/migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita/",
-        "episodios": []
-    },
-    {
-        "nombre": "Tetsunabe no Jan!",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg",
-        "link": "https://jkanime.net/tetsunabe-no-jan/",
-        "episodios": []
-    },
-    {
-        "nombre": "Iwamoto-senpai no Suisen",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/iwamoto-senpai-no-suisen.jpg",
-        "link": "https://jkanime.net/iwamoto-senpai-no-suisen/",
-        "episodios": []
-    },
-    {
-        "nombre": "Grow Up Show: Himawari no Circus-dan",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/grow-up-show-himawari-no-circus-dan.jpg",
-        "link": "https://jkanime.net/grow-up-show-himawari-no-circus-dan/",
-        "episodios": []
-    },
-    {
-        "nombre": "Kore Kaite Shine",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg",
-        "link": "https://jkanime.net/kore-kaite-shine/",
-        "episodios": []
-    },
-    {
-        "nombre": "Reiwa no Dara-san",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/reiwa-no-dara-san.jpg",
-        "link": "https://jkanime.net/reiwa-no-dara-san/",
-        "episodios": []
-    },
-    {
-        "nombre": "Uchi no Otouto-domo ga Sumimasen",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/uchi-no-otouto-domo-ga-sumimasen.jpg",
-        "link": "https://jkanime.net/uchi-no-otouto-domo-ga-sumimasen/",
-        "episodios": []
-    },
-    {
-        "nombre": "BanG Dream! Yume∞Mita",
-        "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/bang-dream-yumemita.jpg",
-        "link": "https://jkanime.net/bang-dream-yumemita/",
-        "episodios": []
-    }
+  {
+    "nombre": "Yomi no Tsugai",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/guimi-zhi-zhu-tebie-pian-liewu.jpg",
+    "link": "https://animeav1.com/media/yomi-no-tsugai",
+    "episodios": [
+      {
+        "numero": 13,
+        "url": "https://animeav1.com/media/yomi-no-tsugai/13"
+      }
+    ]
+  },
+  {
+    "nombre": "Guimi Zhi Zhu Tebie Pian: Liewu",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/guimi-zhi-zhu-tebie-pian-liewu.jpg",
+    "link": "https://jkanime.net/guimi-zhi-zhu-tebie-pian-liewu/",
+    "episodios": [
+      "https://jkanime.net/guimi-zhi-zhu-tebie-pian-liewu/1/"
+    ]
+  },
+  {
+    "nombre": "Go! Go! Ackman",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/go-go-ackman.jpg",
+    "link": "https://jkanime.net/go-go-ackman/",
+    "episodios": [
+      "https://jkanime.net/go-go-ackman/1/"
+    ]
+  },
+  {
+    "nombre": "Darkside Blues",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/darkside-blues.jpg",
+    "link": "https://jkanime.net/darkside-blues/",
+    "episodios": [
+      "https://jkanime.net/darkside-blues/1/"
+    ]
+  },
+  {
+    "nombre": "Dragon Quest: Dai no Daibouken (TV)",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/dragon-quest-dai-no-daibouken-tv.jpg",
+    "link": "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/",
+    "episodios": [
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/1/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/2/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/3/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/4/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/5/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/6/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/7/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/8/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/9/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/10/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/11/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/12/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/13/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/14/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/15/",
+      "https://jkanime.net/dragon-quest-dai-no-daibouken-tv/16/"
+    ]
+  },
+  {
+    "nombre": "Luca",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/luca.jpg",
+    "link": "https://jkanime.net/luca/",
+    "episodios": [
+      "https://jkanime.net/luca/1/"
+    ]
+  },
+  {
+    "nombre": "Baki-dou Part 2",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/baki-dou-part-2.jpg",
+    "link": "https://jkanime.net/baki-dou-part-2/",
+    "episodios": [
+      "https://jkanime.net/baki-dou-part-2/1/",
+      "https://jkanime.net/baki-dou-part-2/2/",
+      "https://jkanime.net/baki-dou-part-2/3/",
+      "https://jkanime.net/baki-dou-part-2/4/",
+      "https://jkanime.net/baki-dou-part-2/5/",
+      "https://jkanime.net/baki-dou-part-2/6/",
+      "https://jkanime.net/baki-dou-part-2/7/",
+      "https://jkanime.net/baki-dou-part-2/8/",
+      "https://jkanime.net/baki-dou-part-2/9/",
+      "https://jkanime.net/baki-dou-part-2/10/",
+      "https://jkanime.net/baki-dou-part-2/11/",
+      "https://jkanime.net/baki-dou-part-2/12/"
+    ]
+  },
+  {
+    "nombre": "Nanatsu no Bitoku Specials",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/nanatsu-no-bitoku-specials.jpg",
+    "link": "https://jkanime.net/nanatsu-no-bitoku-specials/",
+    "episodios": [
+      "https://jkanime.net/nanatsu-no-bitoku-specials/1/",
+      "https://jkanime.net/nanatsu-no-bitoku-specials/2/"
+    ]
+  },
+  {
+    "nombre": "Nanatsu no Bitoku",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/nanatsu-no-bitoku.jpg",
+    "link": "https://jkanime.net/nanatsu-no-bitoku/",
+    "episodios": [
+      "https://jkanime.net/nanatsu-no-bitoku/1/",
+      "https://jkanime.net/nanatsu-no-bitoku/2/",
+      "https://jkanime.net/nanatsu-no-bitoku/3/",
+      "https://jkanime.net/nanatsu-no-bitoku/4/",
+      "https://jkanime.net/nanatsu-no-bitoku/5/",
+      "https://jkanime.net/nanatsu-no-bitoku/6/",
+      "https://jkanime.net/nanatsu-no-bitoku/7/",
+      "https://jkanime.net/nanatsu-no-bitoku/8/",
+      "https://jkanime.net/nanatsu-no-bitoku/9/",
+      "https://jkanime.net/nanatsu-no-bitoku/10/"
+    ]
+  },
+  {
+    "nombre": "Kidou Keisatsu Patlabor: On Television",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/kidou-keisatsu-patlabor.jpg",
+    "link": "https://jkanime.net/kidou-keisatsu-patlabor/",
+    "episodios": [
+      "https://jkanime.net/kidou-keisatsu-patlabor/1/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/2/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/3/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/4/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/5/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/6/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/7/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/8/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/9/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/10/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/11/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/12/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/13/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/14/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/15/",
+      "https://jkanime.net/kidou-keisatsu-patlabor/16/"
+    ]
+  },
+  {
+    "nombre": "Suu-funkan no Yell wo",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/suu-funkan-no-yell-wo.jpg",
+    "link": "https://jkanime.net/suu-funkan-no-yell-wo/",
+    "episodios": [
+      "https://jkanime.net/suu-funkan-no-yell-wo/1/"
+    ]
+  },
+  {
+    "nombre": "Kidou Keisatsu Patlabor the Movie",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/kidou-keisatsu-patlabor-the-movie.jpg",
+    "link": "https://jkanime.net/kidou-keisatsu-patlabor-the-movie/",
+    "episodios": [
+      "https://jkanime.net/kidou-keisatsu-patlabor-the-movie/1/"
+    ]
+  },
+  {
+    "nombre": "Quanzhi Fashi VII",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/quanzhi-fashi-vii.jpg",
+    "link": "https://jkanime.net/quanzhi-fashi-vii/",
+    "episodios": [
+      "https://jkanime.net/quanzhi-fashi-vii/1/",
+      "https://jkanime.net/quanzhi-fashi-vii/2/",
+      "https://jkanime.net/quanzhi-fashi-vii/3/",
+      "https://jkanime.net/quanzhi-fashi-vii/4/",
+      "https://jkanime.net/quanzhi-fashi-vii/5/",
+      "https://jkanime.net/quanzhi-fashi-vii/6/",
+      "https://jkanime.net/quanzhi-fashi-vii/7/",
+      "https://jkanime.net/quanzhi-fashi-vii/8/"
+    ]
+  },
+  {
+    "nombre": "Oneechan Gokko",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/oneechan-gokko.jpg",
+    "link": "https://jkanime.net/oneechan-gokko/",
+    "episodios": [
+      "https://jkanime.net/oneechan-gokko/1/"
+    ]
+  },
+  {
+    "nombre": "Biao Ren Er",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/biao-ren-er.jpg",
+    "link": "https://jkanime.net/biao-ren-er/",
+    "episodios": [
+      "https://jkanime.net/biao-ren-er/1/"
+    ]
+  },
+  {
+    "nombre": "Isekai no Seikishi Monogatari",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/isekai-no-seikishi-monogatari.jpg",
+    "link": "https://jkanime.net/isekai-no-seikishi-monogatari/",
+    "episodios": [
+      "https://jkanime.net/isekai-no-seikishi-monogatari/1/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/2/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/3/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/4/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/5/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/6/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/7/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/8/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/9/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/10/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/11/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/12/",
+      "https://jkanime.net/isekai-no-seikishi-monogatari/13/"
+    ]
+  },
+  {
+    "nombre": "Shiguang Xiao Juchang",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/shiguang-xiao-juchang.jpg",
+    "link": "https://jkanime.net/shiguang-xiao-juchang/",
+    "episodios": [
+      "https://jkanime.net/shiguang-xiao-juchang/1/",
+      "https://jkanime.net/shiguang-xiao-juchang/2/",
+      "https://jkanime.net/shiguang-xiao-juchang/3/",
+      "https://jkanime.net/shiguang-xiao-juchang/4/",
+      "https://jkanime.net/shiguang-xiao-juchang/5/",
+      "https://jkanime.net/shiguang-xiao-juchang/6/",
+      "https://jkanime.net/shiguang-xiao-juchang/7/",
+      "https://jkanime.net/shiguang-xiao-juchang/8/"
+    ]
+  },
+  {
+    "nombre": "Ichigo 100% OVA",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-100-ova.jpg",
+    "link": "https://jkanime.net/ichigo-100-ova/",
+    "episodios": [
+      "https://jkanime.net/ichigo-100-ova/1/",
+      "https://jkanime.net/ichigo-100-ova/2/",
+      "https://jkanime.net/ichigo-100-ova/3/",
+      "https://jkanime.net/ichigo-100-ova/4/"
+    ]
+  },
+  {
+    "nombre": "Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-100-koi-ga-hajimaru-satsuei-gasshuku-yureru-kokoro-ga-higashi-e-nishi-e.jpg",
+    "link": "https://jkanime.net/ichigo-100-koi-ga-hajimaru-satsuei-gasshuku-yureru-kokoro-ga-higashi-e-nishi-e/",
+    "episodios": [
+      "https://jkanime.net/ichigo-100-koi-ga-hajimaru-satsuei-gasshuku-yureru-kokoro-ga-higashi-e-nishi-e/1/"
+    ]
+  },
+  {
+    "nombre": "Ichigo 100% Special 2",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/ichigo-100-special-2.jpg",
+    "link": "https://jkanime.net/ichigo-100-special-2/",
+    "episodios": [
+      "https://jkanime.net/ichigo-100-special-2/1/"
+    ]
+  },
+  {
+    "nombre": "The iDOLM@STER Million Live! Itsuka, Mannaka de",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/the-idolm-at-ster-million-live-itsuka-mannaka-de.jpg",
+    "link": "https://jkanime.net/the-idolm-at-ster-million-live-itsuka-mannaka-de/",
+    "episodios": [
+      "https://jkanime.net/the-idolm-at-ster-million-live-itsuka-mannaka-de/1/"
+    ]
+  },
+  {
+    "nombre": "Yoroi Shin Den Samurai Troopers Part 2",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/yoroi-shin-den-samurai-troopers-part-2.jpg",
+    "link": "https://jkanime.net/yoroi-shin-den-samurai-troopers-part-2/",
+    "episodios": []
+  },
+  {
+    "nombre": "Perfect Addiction",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/perfect-addiction.jpg",
+    "link": "https://jkanime.net/perfect-addiction/",
+    "episodios": []
+  },
+  {
+    "nombre": "Mebius Dust",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/mebius-dust.jpg",
+    "link": "https://jkanime.net/mebius-dust/",
+    "episodios": []
+  },
+  {
+    "nombre": "Let's Go Kaiki-gumi",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/lets-go-kaiki-gumi.jpg",
+    "link": "https://jkanime.net/lets-go-kaiki-gumi/",
+    "episodios": []
+  },
+  {
+    "nombre": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita.jpg",
+    "link": "https://jkanime.net/migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita/",
+    "episodios": []
+  },
+  {
+    "nombre": "Tetsunabe no Jan!",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg",
+    "link": "https://jkanime.net/tetsunabe-no-jan/",
+    "episodios": []
+  },
+  {
+    "nombre": "Iwamoto-senpai no Suisen",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/iwamoto-senpai-no-suisen.jpg",
+    "link": "https://jkanime.net/iwamoto-senpai-no-suisen/",
+    "episodios": []
+  },
+  {
+    "nombre": "Grow Up Show: Himawari no Circus-dan",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/grow-up-show-himawari-no-circus-dan.jpg",
+    "link": "https://jkanime.net/grow-up-show-himawari-no-circus-dan/",
+    "episodios": []
+  },
+  {
+    "nombre": "Kore Kaite Shine",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg",
+    "link": "https://jkanime.net/kore-kaite-shine/",
+    "episodios": []
+  },
+  {
+    "nombre": "Reiwa no Dara-san",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/reiwa-no-dara-san.jpg",
+    "link": "https://jkanime.net/reiwa-no-dara-san/",
+    "episodios": []
+  },
+  {
+    "nombre": "Uchi no Otouto-domo ga Sumimasen",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/uchi-no-otouto-domo-ga-sumimasen.jpg",
+    "link": "https://jkanime.net/uchi-no-otouto-domo-ga-sumimasen/",
+    "episodios": []
+  },
+  {
+    "nombre": "BanG Dream! Yume∞Mita",
+    "imagen": "https://cdn.jkdesa.com/assets/images/animes/image/bang-dream-yumemita.jpg",
+    "link": "https://jkanime.net/bang-dream-yumemita/",
+    "episodios": []
+  }
 ]
