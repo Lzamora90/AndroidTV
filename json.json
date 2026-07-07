@@ -278,5 +278,50 @@
         "imagen": "https://cdn.animeav1.com/screenshots/4375/1.jpg",
         "link": "https://animeav1.com/media/tsuihou-sareta-ten",
         "episodios": []
+    },
+    {
+        "nombre": "Sora wa Akai Kawa no Hotori",
+        "sinopsis": "Yuri, una bonita chica japonesa, está emocionada después de aprobar su examen de entrada a la universidad y de tener su primer beso con su amigo de la infancia, que se ha convertido en su novio. Sin embargo, su suerte pronto cambia. Empieza a notar que el agua se agita cada vez que se acerca a ella. Una noche, manos aparecen de un charco en la calle y la arrastran hacia el agua. Transportada a una aldea antigua en el Medio Oriente, es capturada por tropas armadas y llevada al palacio de la Reina para un sacrificio humano.",
+        "imagen": "https://cdn.animeav1.com/screenshots/4412/1.jpg",
+        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
+        "episodios": ["https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/1"]
+    },
+    {
+        "nombre": "Yoroi Shin Den Samurai Troopers Part 2",
+        "sinopsis": "Segunda parte de Yoroi Shin Den Samurai Troopers.",
+        "imagen": "https://cdn.animeav1.com/screenshots/4411/1.jpg",
+        "link": "https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/",
+        "episodios": ["https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/1"]
+    },
+    {
+        "nombre": "Tefuda ga Oome no Victoria",
+        "sinopsis": "En una época en la que los espías actúan tras bambalinas en cada país, Chloe pasa sus días llevando a cabo con éxito incluso las misiones más difíciles, gracias a sus inigualables habilidades de disfraz y artes marciales. Sin embargo, tras la traición de su jefe, desaparece repentinamente, ya que Chloe planea rehacer su vida como la ciudadana ordinaria Victoria en el reino vecino de Ashberry, esforzándose por llevar una vida \"normal\". No obstante, la vida pacífica de Victoria se ve abruptamente interrumpida a medida que comienza a involucrarse con muchas personas. En esta nueva tierra, sus experiencias y habilidades de sus días como espía resultan ser mucho más útiles de lo que jamás imaginó. Por otro lado, el segundo príncipe y los perseguidores de la organización, entre otros, se interesan por la fortaleza de Victoria, y muchas sombras se ciernen sobre quien tiene todas las cartas en la mano...!",
+        "imagen": "https://cdn.animeav1.com/screenshots/4413/1.jpg",
+        "link": "https://animeav1.com/media/tefuda-ga-oome-no-victoria/",
+        "episodios": ["https://animeav1.com/media/tefuda-ga-oome-no-victoria/1"]
+    },
+    {
+        "nombre": "Koukaku Kidoutai (TV)",
+        "sinopsis": "En el año 2029, la ciudad de Niihama se ha convertido en una metrópolis tecnológicamente avanzada. Debido a grandes mejoras en cibernética, sus ciudadanos pueden reemplazar sus extremidades por partes robóticas. El mundo está ahora más interconectado que nunca, y la Sección de Seguridad Pública 9 de la ciudad es responsable de combatir la corrupción, el terrorismo y otras amenazas peligrosas tras este cambio hacia la globalización.\n\nLa decidida Mayor Motoko Kusanagi de la Sección 9 lidera un caso que involucra a un misterioso hacker conocido únicamente como el \"Maestro de Marionetas,\" que deja tras de sí un rastro de víctimas despojadas de sus recuerdos. Al igual que muchos en este mundo futurista, el cuerpo del Maestro de Marionetas es casi totalmente robótico, dándole un poder increíble.\n\nMientras Motoko y sus subordinados siguen el rastro del enigmático criminal, otras partes, incluida la Sección 6, comienzan a involucrarse, lo que obliga a Motoko a confrontar la naturaleza extremadamente complicada del caso. Reflexionando sobre diversas preguntas filosóficas, como el significado de su propia vida, Motoko pronto se da cuenta de que quien proporcionará estas respuestas no es otro que el Maestro de Marionetas en sí.",
+        "imagen": "https://cdn.animeav1.com/screenshots/4414/1.jpg",
+        "link": "https://animeav1.com/media/koukaku-kidoutai-tv/",
+        "episodios": ["https://animeav1.com/media/koukaku-kidoutai-tv/1"]
+    },
+    {
+        "nombre": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+        "sinopsis": "Lady Carolina, la hija olvidada de un poderoso duque, siempre se ha considerado la oveja negra en medio de su ilustre familia. Su padre es el distinguido primer ministro; su hermana mayor, una prodigiosa maga destinada a convertirse en la próxima Santa de su nación. En comparación, Carolina se resigna a una existencia tranquila a la sombra de ellos hasta que un decreto real repentino e inesperado altera su destino, empujándola a un matrimonio político con el formidable \"Príncipe Sediento de Sangre\" del vecino Imperio de Malcosias. Decidida a demostrar su valía, Carolina da un audaz paso hacia un mundo lleno de peligros tanto políticos como mortales. A medida que las obligaciones reales se entrelazan con destellos de verdadero amor y los movimientos de su propio poder latente, Carolina se aproxima cada vez más a comprender lo que realmente significa ser excepcional.",
+        "imagen": "https://cdn.animeav1.com/screenshots/4369/1.jpg",
+        "link": "https://animeav1.com/media/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/",
+        "episodios": [
+            "https://animeav1.com/media/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/1",
+            "https://animeav1.com/media/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/2"
+        ]
+    },
+    {
+        "nombre": "Kimi ga Shinu made Koi wo Shitai",
+        "sinopsis": "La muerte de la compañera de cuarto de Sheena Totsuki es anunciada de manera casual al inicio de la clase, y el día prosigue como de costumbre. En un orfanato que cría a los niños como soldados, la muerte no es nada nuevo para los residentes. Con su país natal envuelto en una guerra que se ha prolongado durante demasiados años y que no muestra signos de detenerse, los niños de la institución son enviados a morir en el campo de batalla todos los días. A diferencia de los otros huérfanos, Sheena está profundamente perturbada por el conflicto en curso y desea que termine.\n\nEn la noche de la muerte de su compañera de cuarto, Sheena conoció a una chica cubierta de sangre que permanecía alegre a pesar de su estado. Al día siguiente, la chica aparece como una nueva estudiante en la clase de Sheena y se presenta como Mimi Kagari. Inicialmente considerada un mito escolar, se dice que Mimi es el arma secreta del orfanato: una chica que no puede morir. Asignada como la nueva compañera de cuarto de Sheena, Mimi espera llevarse bien con ella y acostumbrarse a la vida escolar.\n\nSin embargo, perturbada por la actitud despreocupada de Mimi hacia la guerra, Sheena lucha por aceptar el mundo en el que viven, todo mientras su inusual amistad florece en medio de la sombría situación.",
+        "imagen": "",
+        "link": "",
+        "episodios": []
     }
 ]
