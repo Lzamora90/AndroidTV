@@ -1,327 +1,455 @@
 [
-    {
-        "nombre": "Nijusseiki Denki Mokuroku: Eureka Evrika",
-        "sinopsis": "En una versión alterna de principios del siglo XX, donde el progreso tecnológico evolucionó por un camino diferente moldeado por la energía del vapor, Kioto está cubierto de un humo constante.\n\nUn chico, endurecido por la pérdida de su hermano, se vuelve desconfiado después de que su sueño compartido de una \"Era de la Electricidad\" se ve truncado. Una chica profundamente devota oculta sus sueños y arrepentimientos por su madre fallecida en lo más profundo de su corazón. Cuando sus caminos se cruzan, se embarcan en la exploración de los secretos del Catálogo Eléctrico del siglo XX, un atisbo del futuro que tanto anhelan.\n\nJuntos, deben confrontar sus pasados y forjar un camino hacia el futuro en el que una vez creyeron.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4400/1.jpg",
-        "link": "https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/",
-        "episodios": ["https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/1"]
-    },
-    {
-        "nombre": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-        "sinopsis": "La muerte del esclavo corporativo Arihito Atobe en un extraño accidente de autobús marca el inicio de su nueva vida como una especie de aventurero llamado Buscador. Renacido en un mundo de fantasía, se adapta a una clase de trabajo previamente desconocida llamada \"retaguardia\", capaz de proporcionar a su grupo (todo femenino) un apoyo crítico en ataque, defensa y recuperación. Y viene con un beneficio adicional: ¡simplemente estar al final de la fila del grupo aumenta el cariño de sus compañeras hacia él! Liberado de las cadenas de la vida corporativa, Arihito está ansioso por empezar de nuevo como un recién convertido Buscador.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4398/1.jpg",
-        "link": "https://animeav1.com/media/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha/",
-        "episodios": ["https://animeav1.com/media/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha/1"]
-    },
-    {
-        "nombre": "Tetsunabe no Jan!",
-        "sinopsis": "El manga original de Iron Wok Jan! se centra en un joven chef brillante llamado Jan Akiyama, quien trabaja en un restaurante de primera clase donde constantemente desafía a Kiriko Gobanchou, la nieta del propietario del restaurante y una gran chef por derecho propio. Mientras Kiriko cree que la comida debe ser preparada pensando en el cliente, Jan opina que la cocina debe utilizarse para competir.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4397/1.jpg",
-        "link": "https://animeav1.com/media/tetsunabe-no-jan/",
-        "episodios": ["https://animeav1.com/media/tetsunabe-no-jan/1"]
-    },
-    {
-        "nombre": "Seihantai na Kimi to Boku 2nd Season",
-        "sinopsis": "Segunda temporada de Seihantai na Kimi to Boku.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4396/1.jpg",
-        "link": "https://animeav1.com/media/seihantai-na-kimi-to-boku-2nd-season/",
-        "episodios": ["https://animeav1.com/media/seihantai-na-kimi-to-boku-2nd-season/1"]
-    },
-    {
-        "nombre": "Let's Go Kaiki-gumi",
-        "sinopsis": "La historia de Let's Go Kaiki-gumi sigue a un protagonista sin nombre que es seis veces más vulnerable a los fenómenos espirituales que el ser humano promedio. Un día, el protagonista se encuentra con Mechako, una misteriosa chica que dirige el Kaiki-gumi, una organización que vigila el comportamiento de los fantasmas y monstruos que amenazan a los seres humanos. De alguna manera, se ve implicado en ayudar al Kaiki-gumi a restablecerse, lo que da lugar a todo tipo de extraños eventos y travesuras espeluznantes.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4395/1.jpg",
-        "link": "https://animeav1.com/media/lets-go-kaiki-gumi/",
-        "episodios": ["https://animeav1.com/media/lets-go-kaiki-gumi/1"]
-    },
-    {
-        "nombre": "Mao",
-        "sinopsis": "Nanoka atraviesa un portal hacia la era Taisho, donde el exorcista Mao, a regañadientes, la rescata de las garras de un grotesco yokai. Cuando Nanoka regresa al presente, descubre que tiene algunas nuevas y increíbles habilidades. Regresa al pasado en busca de respuestas, solo para verse envuelta en la investigación de Mao sobre una serie de asesinatos espeluznantes. A medida que sus preguntas sobre sí misma se multiplican, Nanoka descubre que Mao está maldito por un demonio gato llamado Byoki, y también lo está su espada. Si alguien que no sea Mao intenta empuñarla, está condenado. Pero cuando la vida de Mao está en peligro, ¡Nanoka toma su espada y ataca!",
-        "imagen": "https://cdn.animeav1.com/screenshots/3935/1.jpg",
-        "link": "https://animeav1.com/media/mao/",
-        "episodios": [
-            "https://animeav1.com/media/mao/1",
-            "https://animeav1.com/media/mao/2",
-            "https://animeav1.com/media/mao/3",
-            "https://animeav1.com/media/mao/4",
-            "https://animeav1.com/media/mao/5",
-            "https://animeav1.com/media/mao/6",
-            "https://animeav1.com/media/mao/7",
-            "https://animeav1.com/media/mao/8",
-            "https://animeav1.com/media/mao/9",
-            "https://animeav1.com/media/mao/10",
-            "https://animeav1.com/media/mao/11",
-            "https://animeav1.com/media/mao/12",
-            "https://animeav1.com/media/mao/13",
-            "https://animeav1.com/media/mao/14"
-        ]
-    },
-    {
-        "nombre": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-        "sinopsis": "Hinako Konohana es la joven perfecta: elegante, graciosa e impecable... o eso es lo que todos piensan. Detrás de puertas cerradas, es un completo desastre que no puede manejar las tareas básicas del hogar. Cuando el estudiante común Itsuki Tomonari se convierte en su cuidador, se ve sumido en un control de daños las 24 horas, manteniendo su imagen \"perfecta\". Es una situación incómoda y caótica, pero comienza a transformarse en algo que se siente como amor...",
-        "imagen": "https://cdn.animeav1.com/screenshots/4393/1.jpg",
-        "link": "https://animeav1.com/media/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita/",
-        "episodios": ["https://animeav1.com/media/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita/1"]
-    },
-    {
-        "nombre": "Kabushikigaisha Magi-Lumière 2nd Season",
-        "sinopsis": "Segunda temporada de Kabushikigaisha Magi-Lumière.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4394/1.jpg",
-        "link": "https://animeav1.com/media/kabushikigaisha-magi-lumiere-2nd-season/",
-        "episodios": ["https://animeav1.com/media/kabushikigaisha-magi-lumiere-2nd-season/1"]
-    },
-    {
-        "nombre": "Oni no Hanayome",
-        "sinopsis": "\"¡Eres la novia que he estado buscando todo este tiempo!\"\n\n¡Una historia de Cenicienta al estilo japonés! Los ayakashi y los humanos coexisten en armonía. Los ayakashi, que tienen habilidades superiores y apariencias hermosas, a veces encuentran a su pareja entre las mujeres humanas, convirtiéndolas en su \"novia\". A cambio de traer prosperidad, la novia recibe amor absoluto por parte del ayakashi.\n\nYuzu es constantemente comparada con su hermana, una novia de un zorro demonio, y su familia la resentía cada día. Un día, cuando Yuzu ya no podía soportar más las cosas, un hombre apareció ante ella en un puente. Este hombre es el más hermoso que Yuzu ha visto jamás... ¡y la está llamando su esposa?!\n\n\"Solo cállate y déjame abrazarte.\" ¿El ayakashi más poderoso y \"frío\" está derramando su corazón por Yuzu?!",
-        "imagen": "https://cdn.animeav1.com/screenshots/4390/1.jpg",
-        "link": "https://animeav1.com/media/oni-no-hanayome/",
-        "episodios": ["https://animeav1.com/media/oni-no-hanayome/1"]
-    },
-    {
-        "nombre": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-        "sinopsis": "Hace treinta años, la aparición repentina de formas de vida alienígenas invasoras desconocidas estuvo a punto de traer el fin del mundo.\n\nDesde entonces, la humanidad y estas criaturas, conocidas como Especies Invasoras, han continuado chocando por el territorio habitable. Aunque la seguridad humana apenas se mantiene, el mundo sigue al borde del colapso. Mientras la amenaza de muerte y destrucción persiste, la gente continúa con sus vidas diarias alejándose del peligro constante que los rodea. En respuesta, las Naciones Unidas establecen EXCEEDS, una organización encargada de investigar y combatir las amenazas causadas por las Especies Invasoras.\n\nLa historia comienza en la nación insular del Lejano Oriente llamada Mizuho, donde Shiina Kuze, una joven cazadora que extermina especies invasoras, vive en una isla remota. Deseando nada más que una vida tranquila con su única familia—su hermana menor, Setsuna—la rutina de Shiina se ve interrumpida cuando ocurre un incidente inesperado, involucrándola en un conflicto mucho más grande.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4391/1.jpg",
-        "link": "https://animeav1.com/media/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance/",
-        "episodios": ["https://animeav1.com/media/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance/1"]
-    },
-    {
-        "nombre": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
-        "sinopsis": "Un matrimonio arreglado. Dos completos desconocidos. ¡Un adorable romance! Cuando la alegre noble Elsa se casa de repente con el reservado duque en camino, Julius, ninguno de los dos espera que su matrimonio político despierte algo más. A medida que malentendidos incómodos, gestos dulces y sentimientos crecientes se acumulan, estos recién casados descubren que enamorarse podría ser la parte más fácil—y la más difícil—de la vida matrimonial.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4392/1.jpg",
-        "link": "https://animeav1.com/media/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu/",
-        "episodios": ["https://animeav1.com/media/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu/1"]
-    },
-    {
-        "nombre": "Yomi no Tsugai",
-        "sinopsis": "En un pueblo aislado, nacen dos gemelos, separados por el día y la noche. Años después, mientras el hermano mayor, Yuru, se ha convertido en un cazador de animales, su hermana Asa ha sido encerrada en una jaula, obligada a cumplir un deber especial que le prohíbe interactuar con más que unos pocos individuos seleccionados.\n\nEn un día que, de otro modo, sería inconspicuo, un grupo de hombres armados que llegan en helicópteros, conocidos como \"dragones\" por los ciudadanos, asalta el pueblo en busca de Yuru, matando a todos los adultos a la vista. Cuando Yuru intenta reunirse con Asa y huir, en su lugar encuentra un cadáver; además, la persona que la mató afirma ser la verdadera hermana gemela de Yuru.\n\nAntes de que la mujer pueda capturarlo, Yuru es rescatado por un hombre llamado Dera, un forastero que visita el pueblo con frecuencia. Sin embargo, no pasa mucho tiempo antes de que ambos queden acorralados. En un último esfuerzo, Dera hace que Yuru ofrezca un regalo a la deidad del pueblo, invocando un par de demonios cuya existencia está destinada a revelar la verdad detrás de estos caóticos eventos.",
-        "imagen": "https://cdn.animeav1.com/screenshots/3933/1.jpg",
-        "link": "https://animeav1.com/media/yomi-no-tsugai/",
-        "episodios": [
-            "https://animeav1.com/media/yomi-no-tsugai/1",
-            "https://animeav1.com/media/yomi-no-tsugai/2",
-            "https://animeav1.com/media/yomi-no-tsugai/3",
-            "https://animeav1.com/media/yomi-no-tsugai/4",
-            "https://animeav1.com/media/yomi-no-tsugai/5",
-            "https://animeav1.com/media/yomi-no-tsugai/6",
-            "https://animeav1.com/media/yomi-no-tsugai/7",
-            "https://animeav1.com/media/yomi-no-tsugai/8",
-            "https://animeav1.com/media/yomi-no-tsugai/9",
-            "https://animeav1.com/media/yomi-no-tsugai/10",
-            "https://animeav1.com/media/yomi-no-tsugai/11",
-            "https://animeav1.com/media/yomi-no-tsugai/12",
-            "https://animeav1.com/media/yomi-no-tsugai/13"
-        ]
-    },
-    {
-        "nombre": "Grow Up Show: Himawari no Circus-dan",
-        "sinopsis": "En Japón, durante el apogeo de su boom económico a mediados de la década de 1950, el circo era una forma de entretenimiento que se convirtió en una parte central de la vida de muchas personas. Las mejores compañías tienen permiso para participar en el festival \"Circus Collection\", de renombre mundial, y muchos vienen de todo Japón para competir diariamente.\n\nLa historia se centra en la luchadora compañía \"Circo Girasol\", dirigida por la maestra de ceremonias María, y una nueva prodigio que se une a sus filas por razones desconocidas: Mizuka Tsurumaki.\n\n¿Es su encuentro con los miembros tan singulares de la compañía Circo Girasol una coincidencia o un destino? ¡Comienza este espectáculo circense único que muestra a jóvenes persiguiendo sus sueños!",
-        "imagen": "https://cdn.animeav1.com/screenshots/4389/1.jpg",
-        "link": "https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/",
-        "episodios": ["https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/1"]
-    },
-    {
-        "nombre": "Tenmaku no Jaadugar",
-        "sinopsis": "En el harén del Kan, la sabiduría es belleza. La época: el siglo XIII. El lugar: Yeke Mongol Ulus, el mayor imperio que el mundo ha conocido. La mujer: Fatima, proveniente de Persia, donde la técnica médica y el conocimiento científico se han perfeccionado más allá de todo precedente. El deseo de Fatima por un escenario donde pueda aplicar su conocimiento la ha llevado al palacio de los mongoles, donde cae bajo la protección de Töregene, la sexta esposa de Ögedei, el segundo Gran Kan—una mujer poderosa con sentimientos complicados sobre la dirección del imperio. Estas dos mujeres son el eje sobre el cual girarán la política del palacio y, pronto, del mundo entero...",
-        "imagen": "https://cdn.animeav1.com/screenshots/4388/1.jpg",
-        "link": "https://animeav1.com/media/tenmaku-no-jaadugar/",
-        "episodios": [
-            "https://animeav1.com/media/tenmaku-no-jaadugar/1",
-            "https://animeav1.com/media/tenmaku-no-jaadugar/2"
-        ]
-    },
-    {
-        "nombre": "Iwamoto-senpai no Suisen",
-        "sinopsis": "La década de 1910. Iwamoto Kodo, un estudiante de la Escuela Secundaria Suho bajo el mando directo del ejército, está investigando fenómenos paranormales en todo el país según las instrucciones militares. En un pueblo del que se rumorea que tiene \"nieve negra,\" conoce a un niño con poderes especiales que cree que son una enfermedad; a través del apoyo de Iwamoto, se da cuenta de que podrían tener algo en común y recibe una recomendación para la escuela. ¡Los misterios aguardan a Iwamoto en cada lugar que visita, mientras se comienza a desvelar una historia de amor de esta época!",
-        "imagen": "https://cdn.animeav1.com/screenshots/4387/1.jpg",
-        "link": "https://animeav1.com/media/iwamoto-senpai-no-suisen/",
-        "episodios": ["https://animeav1.com/media/iwamoto-senpai-no-suisen/1"]
-    },
-    {
-        "nombre": "Neko to Ryuu",
-        "sinopsis": "En lo profundo del bosque donde habitan bestias feroces y criaturas mágicas, una gata acoge a un dragón bebé huérfano como si fuera uno de los suyos.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4367/1.jpg",
-        "link": "https://animeav1.com/media/neko-to-ryuu/",
-        "episodios": [
-            "https://animeav1.com/media/neko-to-ryuu/1",
-            "https://animeav1.com/media/neko-to-ryuu/2"
-        ]
-    },
-    {
-        "nombre": "Black Torch",
-        "sinopsis": "Jirou Azuma, un adolescente de diecisiete años, lleva una vida tranquila con su abuelo, utilizando su habilidad sobrenatural de hablar con los animales para hacer amigos y protegerlos. Tanto Jirou como su abuelo son descendientes de un antiguo clan shinobi, entrenando en combate para mantener el arte de la batalla vivo en su familia. La vida de Jirou se ve sacudida después de rescatar a un aparentemente normal gato negro, Ragou, solo para descubrir que el gato es en realidad un mononoke—un espíritu demoníaco que ha estado en guerra con la humanidad durante mucho tiempo. Cuando un mononoke hostil viene en busca de Ragou, Jirou utiliza su entrenamiento shinobi para defender al gato, pero sufre inmediatamente una herida mortal.\n\nFrente a la decisión de devorar la energía menguante de Jirou y restaurarse a su plena potencia, Ragou elige en su lugar darle su energía restante a Jirou. Al revivir al chico, la transferencia también le concede grandes poderes sobrenaturales que complementan su propio estilo de lucha shinobi. Este acto es presenciado por Ryousuke Shiba, un oficial de la Oficina de Espionaje cuyo trabajo gira en torno a despachar mononoke agresivos. Shiba extiende a Jirou y su abuelo una oferta: unirse al nuevo escuadrón de la Oficina, Black Torch, y ayudarles a combatir poderosos mononoke que buscan devorar a personas inocentes.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4386/1.jpg",
-        "link": "https://animeav1.com/media/black-torch/",
-        "episodios": ["https://animeav1.com/media/black-torch/1"]
-    },
-    {
-        "nombre": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-        "sinopsis": "Tercera temporada de Mushoku Tensei: Isekai Ittara Honki Dasu.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4384/1.jpg",
-        "link": "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/",
-        "episodios": [
-            "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/1",
-            "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/2"
-        ]
-    },
-    {
-        "nombre": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
-        "sinopsis": "Segunda temporada de Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4385/1.jpg",
-        "link": "https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/",
-        "episodios": ["https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/1"]
-    },
-    {
-        "nombre": "Azur Lane: Bisoku Zenshin! Ni!!",
-        "sinopsis": "Segunda temporada de Azur Lane: Bisoku Zenshin!.",
-        "imagen": "",
-        "link": "https://animeav1.com/media/azur-lane-bisoku-zenshin-ni/",
-        "episodios": []
-    },
-    {
-        "nombre": "Sayonara Lara",
-        "sinopsis": "Hace mucho, mucho tiempo, vivía una princesa sirena llamada Lara. Fue criada con amor por su padre, el rey del mar, y sus hermanas. Un día, Lara se enamoró de un príncipe humano que vivía en la tierra. Era un amor prohibido, uno que no estaba permitido en el mundo de las sirenas. Aun así, Lara viajó a la superficie. Con una poción, que le dio la bruja Grace, se convirtió en humana. Pero la poción tenía un precio: si no encontraba el amor verdadero, se convertiría en espuma y desaparecería en el océano. Aunque era una princesa del mar, Lara eligió el amor. Sin embargo, su deseo no se cumplió y ella desapareció en el mar. Doscientos años después, Lara despierta una vez más, en el Lago Biwa, para finalmente buscar a su verdadero amor.",
-        "imagen": "",
-        "link": "https://animeav1.com/media/sayonara-lara/",
-        "episodios": []
-    },
-    {
-        "nombre": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
-        "sinopsis": "Tercera temporada de Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
-        "imagen": "",
-        "link": "https://animeav1.com/media/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season/",
-        "episodios": []
-    },
-    {
-        "nombre": "Mairimashita! Iruma-kun 4th Season",
-        "sinopsis": "",
-        "imagen": "https://cdn.animeav1.com/screenshots/3929/1.jpg",
-        "link": "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/",
-        "episodios": [
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/1",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/2",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/3",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/4",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/5",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/6",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/7",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/8",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/9",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/10",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/11",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/12",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/13",
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/14"
-        ]
-    },
-    {
-        "nombre": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
-        "sinopsis": "Segunda temporada de Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4383/1.jpg",
-        "link": "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/",
-        "episodios": ["https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/1"]
-    },
-    {
-        "nombre": "Uchi no Otouto-domo ga Sumimasen",
-        "sinopsis": "",
-        "imagen": "https://cdn.animeav1.com/screenshots/4382/1.jpg",
-        "link": "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/",
-        "episodios": ["https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/1"]
-    },
-    {
-        "nombre": "Kore Kaite Shine",
-        "sinopsis": "",
-        "imagen": "https://cdn.animeav1.com/screenshots/4381/1.jpg",
-        "link": "https://animeav1.com/media/kore-kaite-shine/",
-        "episodios": ["https://animeav1.com/media/kore-kaite-shine/1"]
-    },
-    {
-        "nombre": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
-        "sinopsis": "",
-        "imagen": "https://cdn.animeav1.com/screenshots/4380/1.jpg",
-        "link": "https://animeav1.com/media/ryoumin-0-nin-start-no-henkyou-ryoushu-sama/",
-        "episodios": ["https://animeav1.com/media/ryoumin-0-nin-start-no-henkyou-ryoushu-sama/1"]
-    },
-    {
-        "nombre": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
-        "sinopsis": "",
-        "imagen": "https://cdn.animeav1.com/screenshots/4379/1.jpg",
-        "link": "https://animeav1.com/media/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita/",
-        "episodios": ["https://animeav1.com/media/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita/1"]
-    },
-    {
-        "nombre": "Bai Ri Cheng Wang",
-        "sinopsis": "",
-        "imagen": "https://cdn.animeav1.com/screenshots/4378/1.jpg",
-        "link": "https://animeav1.com/media/bai-ri-cheng-wang/",
-        "episodios": [
-            "https://animeav1.com/media/bai-ri-cheng-wang/1",
-            "https://animeav1.com/media/bai-ri-cheng-wang/2"
-        ]
-    },
-    {
-        "nombre": "Yani Neko",
-        "sinopsis": "",
-        "imagen": "https://cdn.animeav1.com/screenshots/4377/1.jpg",
-        "link": "https://animeav1.com/media/yani-neko/",
-        "episodios": ["https://animeav1.com/media/yani-neko/1"]
-    },
-    {
-        "nombre": "Otome Kaijuu Caraméliser",
-        "sinopsis": "",
-        "imagen": "https://cdn.animeav1.com/screenshots/4376/1.jpg",
-        "link": "https://animeav1.com/media/otome-kaijuu-carameliser/",
-        "episodios": ["https://animeav1.com/media/otome-kaijuu-carameliser/1"]
-    },
-    {
-        "nombre": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
-        "sinopsis": "",
-        "imagen": "https://cdn.animeav1.com/screenshots/4375/1.jpg",
-        "link": "https://animeav1.com/media/tsuihou-sareta-ten",
-        "episodios": []
-    },
-    {
-        "nombre": "Sora wa Akai Kawa no Hotori",
-        "sinopsis": "Yuri, una bonita chica japonesa, está emocionada después de aprobar su examen de entrada a la universidad y de tener su primer beso con su amigo de la infancia, que se ha convertido en su novio. Sin embargo, su suerte pronto cambia. Empieza a notar que el agua se agita cada vez que se acerca a ella. Una noche, manos aparecen de un charco en la calle y la arrastran hacia el agua. Transportada a una aldea antigua en el Medio Oriente, es capturada por tropas armadas y llevada al palacio de la Reina para un sacrificio humano.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4412/1.jpg",
-        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
-        "episodios": ["https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/1"]
-    },
-    {
-        "nombre": "Yoroi Shin Den Samurai Troopers Part 2",
-        "sinopsis": "Segunda parte de Yoroi Shin Den Samurai Troopers.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4411/1.jpg",
-        "link": "https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/",
-        "episodios": ["https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/1"]
-    },
-    {
-        "nombre": "Tefuda ga Oome no Victoria",
-        "sinopsis": "En una época en la que los espías actúan tras bambalinas en cada país, Chloe pasa sus días llevando a cabo con éxito incluso las misiones más difíciles, gracias a sus inigualables habilidades de disfraz y artes marciales. Sin embargo, tras la traición de su jefe, desaparece repentinamente, ya que Chloe planea rehacer su vida como la ciudadana ordinaria Victoria en el reino vecino de Ashberry, esforzándose por llevar una vida \"normal\". No obstante, la vida pacífica de Victoria se ve abruptamente interrumpida a medida que comienza a involucrarse con muchas personas. En esta nueva tierra, sus experiencias y habilidades de sus días como espía resultan ser mucho más útiles de lo que jamás imaginó. Por otro lado, el segundo príncipe y los perseguidores de la organización, entre otros, se interesan por la fortaleza de Victoria, y muchas sombras se ciernen sobre quien tiene todas las cartas en la mano...!",
-        "imagen": "https://cdn.animeav1.com/screenshots/4413/1.jpg",
-        "link": "https://animeav1.com/media/tefuda-ga-oome-no-victoria/",
-        "episodios": ["https://animeav1.com/media/tefuda-ga-oome-no-victoria/1"]
-    },
-    {
-        "nombre": "Koukaku Kidoutai (TV)",
-        "sinopsis": "En el año 2029, la ciudad de Niihama se ha convertido en una metrópolis tecnológicamente avanzada. Debido a grandes mejoras en cibernética, sus ciudadanos pueden reemplazar sus extremidades por partes robóticas. El mundo está ahora más interconectado que nunca, y la Sección de Seguridad Pública 9 de la ciudad es responsable de combatir la corrupción, el terrorismo y otras amenazas peligrosas tras este cambio hacia la globalización.\n\nLa decidida Mayor Motoko Kusanagi de la Sección 9 lidera un caso que involucra a un misterioso hacker conocido únicamente como el \"Maestro de Marionetas,\" que deja tras de sí un rastro de víctimas despojadas de sus recuerdos. Al igual que muchos en este mundo futurista, el cuerpo del Maestro de Marionetas es casi totalmente robótico, dándole un poder increíble.\n\nMientras Motoko y sus subordinados siguen el rastro del enigmático criminal, otras partes, incluida la Sección 6, comienzan a involucrarse, lo que obliga a Motoko a confrontar la naturaleza extremadamente complicada del caso. Reflexionando sobre diversas preguntas filosóficas, como el significado de su propia vida, Motoko pronto se da cuenta de que quien proporcionará estas respuestas no es otro que el Maestro de Marionetas en sí.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4414/1.jpg",
-        "link": "https://animeav1.com/media/koukaku-kidoutai-tv/",
-        "episodios": ["https://animeav1.com/media/koukaku-kidoutai-tv/1"]
-    },
-    {
-        "nombre": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-        "sinopsis": "Lady Carolina, la hija olvidada de un poderoso duque, siempre se ha considerado la oveja negra en medio de su ilustre familia. Su padre es el distinguido primer ministro; su hermana mayor, una prodigiosa maga destinada a convertirse en la próxima Santa de su nación. En comparación, Carolina se resigna a una existencia tranquila a la sombra de ellos hasta que un decreto real repentino e inesperado altera su destino, empujándola a un matrimonio político con el formidable \"Príncipe Sediento de Sangre\" del vecino Imperio de Malcosias. Decidida a demostrar su valía, Carolina da un audaz paso hacia un mundo lleno de peligros tanto políticos como mortales. A medida que las obligaciones reales se entrelazan con destellos de verdadero amor y los movimientos de su propio poder latente, Carolina se aproxima cada vez más a comprender lo que realmente significa ser excepcional.",
-        "imagen": "https://cdn.animeav1.com/screenshots/4369/1.jpg",
-        "link": "https://animeav1.com/media/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/",
-        "episodios": [
-            "https://animeav1.com/media/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/1",
-            "https://animeav1.com/media/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/2"
-        ]
-    },
-    {
-        "nombre": "Kimi ga Shinu made Koi wo Shitai",
-        "sinopsis": "La muerte de la compañera de cuarto de Sheena Totsuki es anunciada de manera casual al inicio de la clase, y el día prosigue como de costumbre. En un orfanato que cría a los niños como soldados, la muerte no es nada nuevo para los residentes. Con su país natal envuelto en una guerra que se ha prolongado durante demasiados años y que no muestra signos de detenerse, los niños de la institución son enviados a morir en el campo de batalla todos los días. A diferencia de los otros huérfanos, Sheena está profundamente perturbada por el conflicto en curso y desea que termine.\n\nEn la noche de la muerte de su compañera de cuarto, Sheena conoció a una chica cubierta de sangre que permanecía alegre a pesar de su estado. Al día siguiente, la chica aparece como una nueva estudiante en la clase de Sheena y se presenta como Mimi Kagari. Inicialmente considerada un mito escolar, se dice que Mimi es el arma secreta del orfanato: una chica que no puede morir. Asignada como la nueva compañera de cuarto de Sheena, Mimi espera llevarse bien con ella y acostumbrarse a la vida escolar.\n\nSin embargo, perturbada por la actitud despreocupada de Mimi hacia la guerra, Sheena lucha por aceptar el mundo en el que viven, todo mientras su inusual amistad florece en medio de la sombría situación.",
-        "imagen": "",
-        "link": "",
-        "episodios": []
-    }
+  {
+    "nombre": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+    "sinopsis": "En una versión alterna de principios del siglo XX, donde el progreso tecnológico evolucionó por un camino diferente moldeado por la energía del vapor, Kioto está cubierto de un humo constante.\n\nUn chico, endurecido por la pérdida de su hermano, se vuelve desconfiado después de que su sueño compartido de una \"Era de la Electricidad\" se ve truncado. Una chica profundamente devota oculta sus sueños y arrepentimientos por su madre fallecida en lo más profundo de su corazón. Cuando sus caminos se cruzan, se embarcan en la exploración de los secretos del Catálogo Eléctrico del siglo XX, un atisbo del futuro que tanto anhelan.\n\nJuntos, deben confrontar sus pasados y forjar un camino hacia el futuro en el que una vez creyeron.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4400/1.jpg",
+    "link": "https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/",
+    "episodios": ["https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/1"]
+  },
+  {
+    "nombre": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+    "sinopsis": "La muerte del esclavo corporativo Arihito Atobe en un extraño accidente de autobús marca el inicio de su nueva vida como una especie de aventurero llamado Buscador. Renacido en un mundo de fantasía, se adapta a una clase de trabajo previamente desconocida llamada \"retaguardia\", capaz de proporcionar a su grupo (todo femenino) un apoyo crítico en ataque, defensa y recuperación. Y viene con un beneficio adicional: ¡simplemente estar al final de la fila del grupo aumenta el cariño de sus compañeras hacia él! Liberado de las cadenas de la vida corporativa, Arihito está ansioso por empezar de nuevo como un recién convertido Buscador.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4398/1.jpg",
+    "link": "https://animeav1.com/media/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha/",
+    "episodios": ["https://animeav1.com/media/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha/1"]
+  },
+  {
+    "nombre": "Tetsunabe no Jan!",
+    "sinopsis": "El manga original de Iron Wok Jan! se centra en un joven chef brillante llamado Jan Akiyama, quien trabaja en un restaurante de primera clase donde constantemente desafía a Kiriko Gobanchou, la nieta del propietario del restaurante y una gran chef por derecho propio. Mientras Kiriko cree que la comida debe ser preparada pensando en el cliente, Jan opina que la cocina debe utilizarse para competir.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4397/1.jpg",
+    "link": "https://animeav1.com/media/tetsunabe-no-jan/",
+    "episodios": ["https://animeav1.com/media/tetsunabe-no-jan/1"]
+  },
+  {
+    "nombre": "Seihantai na Kimi to Boku 2nd Season",
+    "sinopsis": "Segunda temporada de Seihantai na Kimi to Boku.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4396/1.jpg",
+    "link": "https://animeav1.com/media/seihantai-na-kimi-to-boku-2nd-season/",
+    "episodios": ["https://animeav1.com/media/seihantai-na-kimi-to-boku-2nd-season/1"]
+  },
+  {
+    "nombre": "Let's Go Kaiki-gumi",
+    "sinopsis": "La historia de Let's Go Kaiki-gumi sigue a un protagonista sin nombre que es seis veces más vulnerable a los fenómenos espirituales que el ser humano promedio. Un día, el protagonista se encuentra con Mechako, una misteriosa chica que dirige el Kaiki-gumi, una organización que vigila el comportamiento de los fantasmas y monstruos que amenazan a los seres humanos. De alguna manera, se ve implicado en ayudar al Kaiki-gumi a restablecerse, lo que da lugar a todo tipo de extraños eventos y travesuras espeluznantes.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4395/1.jpg",
+    "link": "https://animeav1.com/media/lets-go-kaiki-gumi/",
+    "episodios": ["https://animeav1.com/media/lets-go-kaiki-gumi/1"]
+  },
+  {
+    "nombre": "Mao",
+    "sinopsis": "Nanoka atraviesa un portal hacia la era Taisho, donde el exorcista Mao, a regañadientes, la rescata de las garras de un grotesco yokai. Cuando Nanoka regresa al presente, descubre que tiene algunas nuevas y increíbles habilidades. Regresa al pasado en busca de respuestas, solo para verse envuelta en la investigación de Mao sobre una serie de asesinatos espeluznantes. A medida que sus preguntas sobre sí misma se multiplican, Nanoka descubre que Mao está maldito por un demonio gato llamado Byoki, y también lo está su espada. Si alguien que no sea Mao intenta empuñarla, está condenado. Pero cuando la vida de Mao está en peligro, ¡Nanoka toma su espada y ataca!",
+    "imagen": "https://cdn.animeav1.com/screenshots/3935/1.jpg",
+    "link": "https://animeav1.com/media/mao/",
+    "episodios": [
+      "https://animeav1.com/media/mao/1",
+      "https://animeav1.com/media/mao/2",
+      "https://animeav1.com/media/mao/3",
+      "https://animeav1.com/media/mao/4",
+      "https://animeav1.com/media/mao/5",
+      "https://animeav1.com/media/mao/6",
+      "https://animeav1.com/media/mao/7",
+      "https://animeav1.com/media/mao/8",
+      "https://animeav1.com/media/mao/9",
+      "https://animeav1.com/media/mao/10",
+      "https://animeav1.com/media/mao/11",
+      "https://animeav1.com/media/mao/12",
+      "https://animeav1.com/media/mao/13",
+      "https://animeav1.com/media/mao/14"
+    ]
+  },
+  {
+    "nombre": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+    "sinopsis": "Hinako Konohana es la joven perfecta: elegante, graciosa e impecable... o eso es lo que todos piensan. Detrás de puertas cerradas, es un completo desastre que no puede manejar las tareas básicas del hogar. Cuando el estudiante común Itsuki Tomonari se convierte en su cuidador, se ve sumido en un control de daños las 24 horas, manteniendo su imagen \"perfecta\". Es una situación incómoda y caótica, pero comienza a transformarse en algo que se siente como amor...",
+    "imagen": "https://cdn.animeav1.com/screenshots/4393/1.jpg",
+    "link": "https://animeav1.com/media/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita/",
+    "episodios": ["https://animeav1.com/media/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita/1"]
+  },
+  {
+    "nombre": "Kabushikigaisha Magi-Lumière 2nd Season",
+    "sinopsis": "Segunda temporada de Kabushikigaisha Magi-Lumière.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4394/1.jpg",
+    "link": "https://animeav1.com/media/kabushikigaisha-magi-lumiere-2nd-season/",
+    "episodios": ["https://animeav1.com/media/kabushikigaisha-magi-lumiere-2nd-season/1"]
+  },
+  {
+    "nombre": "Oni no Hanayome",
+    "sinopsis": "\"¡Eres la novia que he estado buscando todo este tiempo!\"\n\n¡Una historia de Cenicienta al estilo japonés! Los ayakashi y los humanos coexisten en armonía. Los ayakashi, que tienen habilidades superiores y apariencias hermosas, a veces encuentran a su pareja entre las mujeres humanas, convirtiéndolas en su \"novia\". A cambio de traer prosperidad, la novia recibe amor absoluto por parte del ayakashi.\n\nYuzu es constantemente comparada con su hermana, una novia de un zorro demonio, y su familia la resentía cada día. Un día, cuando Yuzu ya no podía soportar más las cosas, un hombre apareció ante ella en un puente. Este hombre es el más hermoso que Yuzu ha visto jamás... ¡y la está llamando su esposa?!\n\n\"Solo cállate y déjame abrazarte.\" ¿El ayakashi más poderoso y \"frío\" está derramando su corazón por Yuzu?!",
+    "imagen": "https://cdn.animeav1.com/screenshots/4390/1.jpg",
+    "link": "https://animeav1.com/media/oni-no-hanayome/",
+    "episodios": ["https://animeav1.com/media/oni-no-hanayome/1"]
+  },
+  {
+    "nombre": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+    "sinopsis": "Hace treinta años, la aparición repentina de formas de vida alienígenas invasoras desconocidas estuvo a punto de traer el fin del mundo.\n\nDesde entonces, la humanidad y estas criaturas, conocidas como Especies Invasoras, han continuado chocando por el territorio habitable. Aunque la seguridad humana apenas se mantiene, el mundo sigue al borde del colapso. Mientras la amenaza de muerte y destrucción persiste, la gente continúa con sus vidas diarias alejándose del peligro constante que los rodea. En respuesta, las Naciones Unidas establecen EXCEEDS, una organización encargada de investigar y combatir las amenazas causadas por las Especies Invasoras.\n\nLa historia comienza en la nación insular del Lejano Oriente llamada Mizuho, donde Shiina Kuze, una joven cazadora que extermina especies invasoras, vive en una isla remota. Deseando nada más que una vida tranquila con su única familia—su hermana menor, Setsuna—la rutina de Shiina se ve interrumpida cuando ocurre un incidente inesperado, involucrándola en un conflicto mucho más grande.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4391/1.jpg",
+    "link": "https://animeav1.com/media/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance/",
+    "episodios": ["https://animeav1.com/media/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance/1"]
+  },
+  {
+    "nombre": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
+    "sinopsis": "Un matrimonio arreglado. Dos completos desconocidos. ¡Un adorable romance! Cuando la alegre noble Elsa se casa de repente con el reservado duque en camino, Julius, ninguno de los dos espera que su matrimonio político despierte algo más. A medida que malentendidos incómodos, gestos dulces y sentimientos crecientes se acumulan, estos recién casados descubren que enamorarse podría ser la parte más fácil—y la más difícil—de la vida matrimonial.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4392/1.jpg",
+    "link": "https://animeav1.com/media/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu/",
+    "episodios": ["https://animeav1.com/media/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu/1"]
+  },
+  {
+    "nombre": "Yomi no Tsugai",
+    "sinopsis": "En un pueblo aislado, nacen dos gemelos, separados por el día y la noche. Años después, mientras el hermano mayor, Yuru, se ha convertido en un cazador de animales, su hermana Asa ha sido encerrada en una jaula, obligada a cumplir un deber especial que le prohíbe interactuar con más que unos pocos individuos seleccionados.\n\nEn un día que, de otro modo, sería inconspicuo, un grupo de hombres armados que llegan en helicópteros, conocidos como \"dragones\" por los ciudadanos, asalta el pueblo en busca de Yuru, matando a todos los adultos a la vista. Cuando Yuru intenta reunirse con Asa y huir, en su lugar encuentra un cadáver; además, la persona que la mató afirma ser la verdadera hermana gemela de Yuru.\n\nAntes de que la mujer pueda capturarlo, Yuru es rescatado por un hombre llamado Dera, un forastero que visita el pueblo con frecuencia. Sin embargo, no pasa mucho tiempo antes de que ambos queden acorralados. En un último esfuerzo, Dera hace que Yuru ofrezca un regalo a la deidad del pueblo, invocando un par de demonios cuya existencia está destinada a revelar la verdad detrás de estos caóticos eventos.",
+    "imagen": "https://cdn.animeav1.com/screenshots/3933/1.jpg",
+    "link": "https://animeav1.com/media/yomi-no-tsugai/",
+    "episodios": [
+      "https://animeav1.com/media/yomi-no-tsugai/1",
+      "https://animeav1.com/media/yomi-no-tsugai/2",
+      "https://animeav1.com/media/yomi-no-tsugai/3",
+      "https://animeav1.com/media/yomi-no-tsugai/4",
+      "https://animeav1.com/media/yomi-no-tsugai/5",
+      "https://animeav1.com/media/yomi-no-tsugai/6",
+      "https://animeav1.com/media/yomi-no-tsugai/7",
+      "https://animeav1.com/media/yomi-no-tsugai/8",
+      "https://animeav1.com/media/yomi-no-tsugai/9",
+      "https://animeav1.com/media/yomi-no-tsugai/10",
+      "https://animeav1.com/media/yomi-no-tsugai/11",
+      "https://animeav1.com/media/yomi-no-tsugai/12",
+      "https://animeav1.com/media/yomi-no-tsugai/13"
+    ]
+  },
+  {
+    "nombre": "Grow Up Show: Himawari no Circus-dan",
+    "sinopsis": "En Japón, durante el apogeo de su boom económico a mediados de la década de 1950, el circo era una forma de entretenimiento que se convirtió en una parte central de la vida de muchas personas. Las mejores compañías tienen permiso para participar en el festival \"Circus Collection\", de renombre mundial, y muchos vienen de todo Japón para competir diariamente.\n\nLa historia se centra en la luchadora compañía \"Circo Girasol\", dirigida por la maestra de ceremonias María, y una nueva prodigio que se une a sus filas por razones desconocidas: Mizuka Tsurumaki.\n\n¿Es su encuentro con los miembros tan singulares de la compañía Circo Girasol una coincidencia o un destino? ¡Comienza este espectáculo circense único que muestra a jóvenes persiguiendo sus sueños!",
+    "imagen": "https://cdn.animeav1.com/screenshots/4389/1.jpg",
+    "link": "https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/",
+    "episodios": ["https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/1"]
+  },
+  {
+    "nombre": "Tenmaku no Jaadugar",
+    "sinopsis": "En el harén del Kan, la sabiduría es belleza. La época: el siglo XIII. El lugar: Yeke Mongol Ulus, el mayor imperio que el mundo ha conocido. La mujer: Fatima, proveniente de Persia, donde la técnica médica y el conocimiento científico se han perfeccionado más allá de todo precedente. El deseo de Fatima por un escenario donde pueda aplicar su conocimiento la ha llevado al palacio de los mongoles, donde cae bajo la protección de Töregene, la sexta esposa de Ögedei, el segundo Gran Kan—una mujer poderosa con sentimientos complicados sobre la dirección del imperio. Estas dos mujeres son el eje sobre el cual girarán la política del palacio y, pronto, del mundo entero...",
+    "imagen": "https://cdn.animeav1.com/screenshots/4388/1.jpg",
+    "link": "https://animeav1.com/media/tenmaku-no-jaadugar/",
+    "episodios": [
+      "https://animeav1.com/media/tenmaku-no-jaadugar/1",
+      "https://animeav1.com/media/tenmaku-no-jaadugar/2"
+    ]
+  },
+  {
+    "nombre": "Iwamoto-senpai no Suisen",
+    "sinopsis": "La década de 1910. Iwamoto Kodo, un estudiante de la Escuela Secundaria Suho bajo el mando directo del ejército, está investigando fenómenos paranormales en todo el país según las instrucciones militares. En un pueblo del que se rumorea que tiene \"nieve negra,\" conoce a un niño con poderes especiales que cree que son una enfermedad; a través del apoyo de Iwamoto, se da cuenta de que podrían tener algo en común y recibe una recomendación para la escuela. ¡Los misterios aguardan a Iwamoto en cada lugar que visita, mientras se comienza a desvelar una historia de amor de esta época!",
+    "imagen": "https://cdn.animeav1.com/screenshots/4387/1.jpg",
+    "link": "https://animeav1.com/media/iwamoto-senpai-no-suisen/",
+    "episodios": ["https://animeav1.com/media/iwamoto-senpai-no-suisen/1"]
+  },
+  {
+    "nombre": "Neko to Ryuu",
+    "sinopsis": "En lo profundo del bosque donde habitan bestias feroces y criaturas mágicas, una gata acoge a un dragón bebé huérfano como si fuera uno de los suyos.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4367/1.jpg",
+    "link": "https://animeav1.com/media/neko-to-ryuu/",
+    "episodios": [
+      "https://animeav1.com/media/neko-to-ryuu/1",
+      "https://animeav1.com/media/neko-to-ryuu/2"
+    ]
+  },
+  {
+    "nombre": "Black Torch",
+    "sinopsis": "Jirou Azuma, un adolescente de diecisiete años, lleva una vida tranquila con su abuelo, utilizando su habilidad sobrenatural de hablar con los animales para hacer amigos y protegerlos. Tanto Jirou como su abuelo son descendientes de un antiguo clan shinobi, entrenando en combate para mantener el arte de la batalla vivo en su familia. La vida de Jirou se ve sacudida después de rescatar a un aparentemente normal gato negro, Ragou, solo para descubrir que el gato es en realidad un mononoke—un espíritu demoníaco que ha estado en guerra con la humanidad durante mucho tiempo. Cuando un mononoke hostil viene en busca de Ragou, Jirou utiliza su entrenamiento shinobi para defender al gato, pero sufre inmediatamente una herida mortal.\n\nFrente a la decisión de devorar la energía menguante de Jirou y restaurarse a su plena potencia, Ragou elige en su lugar darle su energía restante a Jirou. Al revivir al chico, la transferencia también le concede grandes poderes sobrenaturales que complementan su propio estilo de lucha shinobi. Este acto es presenciado por Ryousuke Shiba, un oficial de la Oficina de Espionaje cuyo trabajo gira en torno a despachar mononoke agresivos. Shiba extiende a Jirou y su abuelo una oferta: unirse al nuevo escuadrón de la Oficina, Black Torch, y ayudarles a combatir poderosos mononoke que buscan devorar a personas inocentes.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4386/1.jpg",
+    "link": "https://animeav1.com/media/black-torch/",
+    "episodios": ["https://animeav1.com/media/black-torch/1"]
+  },
+  {
+    "nombre": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "sinopsis": "Tercera temporada de Mushoku Tensei: Isekai Ittara Honki Dasu.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4384/1.jpg",
+    "link": "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/",
+    "episodios": [
+      "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/1",
+      "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/2"
+    ]
+  },
+  {
+    "nombre": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "sinopsis": "Segunda temporada de Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4385/1.jpg",
+    "link": "https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/",
+    "episodios": ["https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/1"]
+  },
+  {
+    "nombre": "Azur Lane: Bisoku Zenshin! Ni!!",
+    "sinopsis": "Segunda temporada de Azur Lane: Bisoku Zenshin!.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4402/1.jpg",
+    "link": "https://animeav1.com/media/azur-lane-bisoku-zenshin-ni/",
+    "episodios": ["https://animeav1.com/media/azur-lane-bisoku-zenshin-ni/1"]
+  },
+  {
+    "nombre": "Sayonara Lara",
+    "sinopsis": "Hace mucho, mucho tiempo, vivía una princesa sirena llamada Lara. Fue criada con amor por su padre, el rey del mar, y sus hermanas. Un día, Lara se enamoró de un príncipe humano que vivía en la tierra. Era un amor prohibido, uno que no estaba permitido en el mundo de las sirenas. Aun así, Lara viajó a la superficie. Con una poción, que le dio la bruja Grace, se convirtió en humana. Pero la poción tenía un precio: si no encontraba el amor verdadero, se convertiría en espuma y desaparecería en el océano. Aunque era una princesa del mar, Lara eligió el amor. Sin embargo, su deseo no se cumplió y ella desapareció en el mar. Doscientos años después, Lara despierta una vez más, en el Lago Biwa, para finalmente buscar a su verdadero amor.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4401/1.jpg",
+    "link": "https://animeav1.com/media/sayonara-lara/",
+    "episodios": ["https://animeav1.com/media/sayonara-lara/1"]
+  },
+  {
+    "nombre": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+    "sinopsis": "Tercera temporada de Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
+    "imagen": "",
+    "link": "https://animeav1.com/media/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season/",
+    "episodios": []
+  },
+  {
+    "nombre": "Mairimashita! Iruma-kun 4th Season",
+    "sinopsis": "",
+    "imagen": "https://cdn.animeav1.com/screenshots/3929/1.jpg",
+    "link": "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/",
+    "episodios": [
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/1",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/2",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/3",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/4",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/5",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/6",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/7",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/8",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/9",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/10",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/11",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/12",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/13",
+      "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/14"
+    ]
+  },
+  {
+    "nombre": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+    "sinopsis": "Segunda temporada de Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4383/1.jpg",
+    "link": "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/",
+    "episodios": ["https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/1"]
+  },
+  {
+    "nombre": "Uchi no Otouto-domo ga Sumimasen",
+    "sinopsis": "",
+    "imagen": "https://cdn.animeav1.com/screenshots/4382/1.jpg",
+    "link": "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/",
+    "episodios": ["https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/1"]
+  },
+  {
+    "nombre": "Kore Kaite Shine",
+    "sinopsis": "",
+    "imagen": "https://cdn.animeav1.com/screenshots/4381/1.jpg",
+    "link": "https://animeav1.com/media/kore-kaite-shine/",
+    "episodios": ["https://animeav1.com/media/kore-kaite-shine/1"]
+  },
+  {
+    "nombre": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+    "sinopsis": "",
+    "imagen": "https://cdn.animeav1.com/screenshots/4380/1.jpg",
+    "link": "https://animeav1.com/media/ryoumin-0-nin-start-no-henkyou-ryoushu-sama/",
+    "episodios": ["https://animeav1.com/media/ryoumin-0-nin-start-no-henkyou-ryoushu-sama/1"]
+  },
+  {
+    "nombre": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.",
+    "sinopsis": "",
+    "imagen": "https://cdn.animeav1.com/screenshots/4379/1.jpg",
+    "link": "https://animeav1.com/media/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita/",
+    "episodios": ["https://animeav1.com/media/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita/1"]
+  },
+  {
+    "nombre": "Bai Ri Cheng Wang",
+    "sinopsis": "Un segundo, el restaurante estaba lleno de alegría; al siguiente, se convirtió en un río de sangre... El rey, que claramente amaba a su pueblo, de pronto se convirtió en una bestia sedienta de sangre... \"Ming\" ha perdido a todos los que le importaban; ¡este terrible rey es realmente horrible! ¡Tomaré mi venganza! Espera, ¿quieres decir que el alma frente a mí, que solo tiene 100 días para vivir, es el verdadero \"Lie\"? ¡Está bien, está bien! 100 días—¡coronémonos reyes juntos!",
+    "imagen": "https://cdn.animeav1.com/screenshots/4378/1.jpg",
+    "link": "https://animeav1.com/media/bai-ri-cheng-wang/",
+    "episodios": [
+      "https://animeav1.com/media/bai-ri-cheng-wang/1",
+      "https://animeav1.com/media/bai-ri-cheng-wang/2",
+      "https://animeav1.com/media/bai-ri-cheng-wang/3",
+      "https://animeav1.com/media/bai-ri-cheng-wang/4"
+    ]
+  },
+  {
+    "nombre": "Yani Neko",
+    "sinopsis": "",
+    "imagen": "https://cdn.animeav1.com/screenshots/4377/1.jpg",
+    "link": "https://animeav1.com/media/yani-neko/",
+    "episodios": ["https://animeav1.com/media/yani-neko/1"]
+  },
+  {
+    "nombre": "Otome Kaijuu Caraméliser",
+    "sinopsis": "",
+    "imagen": "https://cdn.animeav1.com/screenshots/4376/1.jpg",
+    "link": "https://animeav1.com/media/otome-kaijuu-carameliser/",
+    "episodios": ["https://animeav1.com/media/otome-kaijuu-carameliser/1"]
+  },
+  {
+    "nombre": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+    "sinopsis": "",
+    "imagen": "https://cdn.animeav1.com/screenshots/4375/1.jpg",
+    "link": "https://animeav1.com/media/tsuihou-sareta-ten",
+    "episodios": []
+  },
+  {
+    "nombre": "Sora wa Akai Kawa no Hotori",
+    "sinopsis": "Yuri, una bonita chica japonesa, está emocionada después de aprobar su examen de entrada a la universidad y de tener su primer beso con su amigo de la infancia, que se ha convertido en su novio. Sin embargo, su suerte pronto cambia. Empieza a notar que el agua se agita cada vez que se acerca a ella. Una noche, manos aparecen de un charco en la calle y la arrastran hacia el agua. Transportada a una aldea antigua en el Medio Oriente, es capturada por tropas armadas y llevada al palacio de la Reina para un sacrificio humano.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4412/1.jpg",
+    "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
+    "episodios": ["https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/1"]
+  },
+  {
+    "nombre": "Yoroi Shin Den Samurai Troopers Part 2",
+    "sinopsis": "Segunda parte de Yoroi Shin Den Samurai Troopers.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4411/1.jpg",
+    "link": "https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/",
+    "episodios": ["https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/1"]
+  },
+  {
+    "nombre": "Tefuda ga Oome no Victoria",
+    "sinopsis": "En una época en la que los espías actúan tras bambalinas en cada país, Chloe pasa sus días llevando a cabo con éxito incluso las misiones más difíciles, gracias a sus inigualables habilidades de disfraz y artes marciales. Sin embargo, tras la traición de su jefe, desaparece repentinamente, ya que Chloe planea rehacer su vida como la ciudadana ordinaria Victoria en el reino vecino de Ashberry, esforzándose por llevar una vida \"normal\". No obstante, la vida pacífica de Victoria se ve abruptamente interrumpida a medida que comienza a involucrarse con muchas personas. En esta nueva tierra, sus experiencias y habilidades de sus días como espía resultan ser mucho más útiles de lo que jamás imaginó. Por otro lado, el segundo príncipe y los perseguidores de la organización, entre otros, se interesan por la fortaleza de Victoria, y muchas sombras se ciernen sobre quien tiene todas las cartas en la mano...!",
+    "imagen": "https://cdn.animeav1.com/screenshots/4413/1.jpg",
+    "link": "https://animeav1.com/media/tefuda-ga-oome-no-victoria/",
+    "episodios": ["https://animeav1.com/media/tefuda-ga-oome-no-victoria/1"]
+  },
+  {
+    "nombre": "Koukaku Kidoutai (TV)",
+    "sinopsis": "En el año 2029, la ciudad de Niihama se ha convertido en una metrópolis tecnológicamente avanzada. Debido a grandes mejoras en cibernética, sus ciudadanos pueden reemplazar sus extremidades por partes robóticas. El mundo está ahora más interconectado que nunca, y la Sección de Seguridad Pública 9 de la ciudad es responsable de combatir la corrupción, el terrorismo y otras amenazas peligrosas tras este cambio hacia la globalización.\n\nLa decidida Mayor Motoko Kusanagi de la Sección 9 lidera un caso que involucra a un misterioso hacker conocido únicamente como el \"Maestro de Marionetas,\" que deja tras de sí un rastro de víctimas despojadas de sus recuerdos. Al igual que muchos en este mundo futurista, el cuerpo del Maestro de Marionetas es casi totalmente robótico, dándole un poder increíble.\n\nMientras Motoko y sus subordinados siguen el rastro del enigmático criminal, otras partes, incluida la Sección 6, comienzan a involucrarse, lo que obliga a Motoko a confrontar la naturaleza extremadamente complicada del caso. Reflexionando sobre diversas preguntas filosóficas, como el significado de su propia vida, Motoko pronto se da cuenta de que quien proporcionará estas respuestas no es otro que el Maestro de Marionetas en sí.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4414/1.jpg",
+    "link": "https://animeav1.com/media/koukaku-kidoutai-tv/",
+    "episodios": ["https://animeav1.com/media/koukaku-kidoutai-tv/1"]
+  },
+  {
+    "nombre": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+    "sinopsis": "Lady Carolina, la hija olvidada de un poderoso duque, siempre se ha considerado la oveja negra en medio de su ilustre familia. Su padre es el distinguido primer ministro; su hermana mayor, una prodigiosa maga destinada a convertirse en la próxima Santa de su nación. En comparación, Carolina se resigna a una existencia tranquila a la sombra de ellos hasta que un decreto real repentino e inesperado altera su destino, empujándola a un matrimonio político con el formidable \"Príncipe Sediento de Sangre\" del vecino Imperio de Malcosias. Decidida a demostrar su valía, Carolina da un audaz paso hacia un mundo lleno de peligros tanto políticos como mortales. A medida que las obligaciones reales se entrelazan con destellos de verdadero amor y los movimientos de su propio poder latente, Carolina se aproxima cada vez más a comprender lo que realmente significa ser excepcional.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4369/1.jpg",
+    "link": "https://animeav1.com/media/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/",
+    "episodios": [
+      "https://animeav1.com/media/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/1",
+      "https://animeav1.com/media/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/2"
+    ]
+  },
+  {
+    "nombre": "Kimi ga Shinu made Koi wo Shitai",
+    "sinopsis": "La muerte de la compañera de cuarto de Sheena Totsuki es anunciada de manera casual al inicio de la clase, y el día prosigue como de costumbre. En un orfanato que cría a los niños como soldados, la muerte no es nada nuevo para los residentes. Con su país natal envuelto en una guerra que se ha prolongado durante demasiados años y que no muestra signos de detenerse, los niños de la institución son enviados a morir en el campo de batalla todos los días. A diferencia de los otros huérfanos, Sheena está profundamente perturbada por el conflicto en curso y desea que termine.\n\nEn la noche de la muerte de su compañera de cuarto, Sheena conoció a una chica cubierta de sangre que permanecía alegre a pesar de su estado. Al día siguiente, la chica aparece como una nueva estudiante en la clase de Sheena y se presenta como Mimi Kagari. Inicialmente considerada un mito escolar, se dice que Mimi es el arma secreta del orfanato: una chica que no puede morir. Asignada como la nueva compañera de cuarto de Sheena, Mimi espera llevarse bien con ella y acostumbrarse a la vida escolar.\n\nSin embargo, perturbada por la actitud despreocupada de Mimi hacia la guerra, Sheena lucha por aceptar el mundo en el que viven, todo mientras su inusual amistad florece en medio de la sombría situación.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4410/1.jpg",
+    "link": "https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/",
+    "episodios": ["https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/1"]
+  },
+  {
+    "nombre": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
+    "sinopsis": "¡Un emocionante juego de lucha en la escuela de chicas!\n\nAya se mudó a la Academia de Chicas Kuromi hace un mes con el objetivo de transformarse en una dama adecuada. Después de conocer a la deslumbrante Shirayuri, Aya queda impresionada por su elegancia y porte. ¡Imagina su sorpresa cuando encuentra a Shirayuri después de la escuela jugando... ¡un juego de lucha?! Y si eso no fuera lo suficientemente desconcertante, ¡es retada a un duelo por la poco femenina Shirayuri!",
+    "imagen": "https://cdn.animeav1.com/screenshots/4409/1.jpg",
+    "link": "https://animeav1.com/media/tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai/",
+    "episodios": ["https://animeav1.com/media/tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai/1"]
+  },
+  {
+    "nombre": "Liar Game",
+    "sinopsis": "La estudiante universitaria Nao Kanzaki siempre se ha adherido al significado de su nombre: \"deshonestidad tonta\". Sin embargo, después de abrir un paquete no solicitado que contiene cien millones de yenes, acepta inadvertidamente una invitación para el \"Juego del Mentiroso\". En este torneo, se anima a los concursantes a traicionar y engañar a sus oponentes para obtener una enorme suma de dinero; por el contrario, perder conlleva una deuda de por vida. Con todas sus esperanzas perdidas, su única opción es buscar ayuda de un estafador.\n\nEse mismo día, el infame timador Shinichi Akiyama es finalmente liberado de la cárcel. Este exestudiante de psicología es conocido por haber arruinado por sí solo a una empresa entera, y Nao cree que él es su única oportunidad de escapar de su situación desesperada. Al principio, Shinichi es reacio a cometer otro crimen, ignorando a Nao y su solicitud. Pero después de ver su desesperación y persistencia, acepta ayudarla.\n\nEn este mundo fraudulento, Nao y Shinichi tienen sus propios motivos. Sin embargo, pronto ven la verdadera naturaleza no solo del juego, sino también de todos los involucrados.",
+    "imagen": "https://cdn.animeav1.com/screenshots/3941/1.jpg",
+    "link": "https://animeav1.com/media/liar-game/",
+    "episodios": [
+      "https://animeav1.com/media/liar-game/1",
+      "https://animeav1.com/media/liar-game/2",
+      "https://animeav1.com/media/liar-game/3",
+      "https://animeav1.com/media/liar-game/4",
+      "https://animeav1.com/media/liar-game/5",
+      "https://animeav1.com/media/liar-game/6",
+      "https://animeav1.com/media/liar-game/7",
+      "https://animeav1.com/media/liar-game/8",
+      "https://animeav1.com/media/liar-game/9",
+      "https://animeav1.com/media/liar-game/10",
+      "https://animeav1.com/media/liar-game/11",
+      "https://animeav1.com/media/liar-game/12",
+      "https://animeav1.com/media/liar-game/13",
+      "https://animeav1.com/media/liar-game/14"
+    ]
+  },
+  {
+    "nombre": "Grand Blue Season 3",
+    "sinopsis": "Tercera temporada de Grand Blue.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4408/1.jpg",
+    "link": "https://animeav1.com/media/grand-blue-season-3/",
+    "episodios": ["https://animeav1.com/media/grand-blue-season-3/1"]
+  },
+  {
+    "nombre": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+    "sinopsis": "Rin Takanashi, una cuidadora en sus treintas, fue desechada sin ceremonias como \"basura\" a pesar de haber sido convocada como una santa.\n\nSin embargo, como amante del aire libre y de todo lo relacionado con el camping, fue bendecida con una habilidad especial, [Supervivencia], así como otra habilidad única. Así comienza una emocionante historia: una de sudor, lágrimas y hambre insaciable, mientras Rin, junto a sus compañeros que encontró en el camino, explora este mundo paralelo a su ritmo y saborea la cocina gourmet a su antojo...\n\nO al menos así debería haber ido la historia, pero parece que su camino va en una dirección inesperada...",
+    "imagen": "https://cdn.animeav1.com/screenshots/4406/1.jpg",
+    "link": "https://animeav1.com/media/suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita/",
+    "episodios": ["https://animeav1.com/media/suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita/1"]
+  },
+  {
+    "nombre": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+    "sinopsis": "Volví a encontrarme con mi amiga de la infancia, y ella se había convertido en una hermosa e inocente chica.\n\n\"Ha pasado un tiempo, Hayato.\"\n\"¿Haruki, verdad?\"\n\nEn el pasado, solía jugar en el barro con mi amiga de la infancia en el campo, y cuando la volví a ver, no había rastro del niño travieso que pensé que era en ese entonces. Solo frente a Hayato, ella se quitó el abrigo que llevaba y reaccionó de la misma manera grosera que lo hacía en aquel entonces. La distancia entre tú y yo no ha cambiado.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4407/1.jpg",
+    "link": "https://animeav1.com/media/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken/",
+    "episodios": ["https://animeav1.com/media/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken/1"]
+  },
+  {
+    "nombre": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+    "sinopsis": "Elizabeth Leiston, la hija del poderoso primer ministro de Haldoria, es la imagen de una noble dama refinada y la futura reina perfecta. Pero cuando su prometido la humilla públicamente, cancela su compromiso y empieza a difundir rumores desagradables sobre ella, Elizabeth llega a su punto de quiebre. ¿Por qué debería su único amigo ser su leal sirvienta, y por qué debería seguir sirviendo a un país que no la respeta? Elizabeth concluye que no lo soportará más y que derribará el reino, ¡aunque sea lo último que haga! Así, utiliza su aguda inteligencia y, lo más importante, sus siete grimorios mágicos para embarcarse en una búsqueda de venganza. ¡Y que le digan, habrá un precio muy alto que pagar!",
+    "imagen": "https://cdn.animeav1.com/screenshots/4405/1.jpg",
+    "link": "https://animeav1.com/media/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu/",
+    "episodios": ["https://animeav1.com/media/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu/1"]
+  },
+  {
+    "nombre": "World Is Dancing",
+    "sinopsis": "No se necesita la danza para vivir.\n\nEn 1374, durante la turbulenta época en que las Cortes del Norte y del Sur estaban en conflicto, el shogun de la Corte del Norte, Ashikaga Yoshimitsu, se estaba convirtiendo en una fuerza cada vez más dominante.\n\nNacido como hijo de Kanami, líder de la troupe de sarugaku Kanze, Oniyasha atraviesa sus días con una pregunta vaga anidada en su corazón: ¿Por qué la gente baila? Su espíritu permanece nublado, hasta que un día se encuentra con una danza que es verdaderamente \"buena.\"\n\nCurioso, sensible y sorprendentemente bello, el chico conoce a gente, ríe, llora, enfrenta sus propias debilidades, y poco a poco comienza a dar forma a una nueva forma de danza para un mundo sumido en la impermanencia.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4368/1.jpg",
+    "link": "https://animeav1.com/media/world-is-dancing/",
+    "episodios": [
+      "https://animeav1.com/media/world-is-dancing/1",
+      "https://animeav1.com/media/world-is-dancing/2"
+    ]
+  },
+  {
+    "nombre": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+    "sinopsis": "El imperio Adrasia en el continente Vogel. Hay una batalla por el trono de un imperio que posee un poderoso ejército y un vasto territorio. Con el sucesor aún sin decidir, los hijos del emperador luchan por expandir su poder. Sin embargo, hay un príncipe que todos dicen que definitivamente no se convertirá en emperador: el séptimo príncipe, Arnold Lakes Adler. El joven que es inferior a su hermano gemelo menor en todos los aspectos, el príncipe aburrido. Incompetente y perezoso, Arnold desperdicia cada día simplemente divirtiéndose. Sin embargo, tras bambalinas, es uno de los cinco aventureros de Clase SS llamados \"Plata\". Al ver la intensificación de la batalla por el trono, decidió: \"No quiero morir, así que dejemos que mi hermano menor se convierta en el emperador...\" Esta es la historia de los absurdos movimientos secretos del príncipe que no está interesado en el título de emperador.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4403/1.jpg",
+    "link": "https://animeav1.com/media/saikyou-degarashi-ouji-no-anyaku-teii-arasoi/",
+    "episodios": ["https://animeav1.com/media/saikyou-degarashi-ouji-no-anyaku-teii-arasoi/1"]
+  },
+  {
+    "nombre": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+    "sinopsis": "En una noche de abril en Tokio, aún demasiado temprano para los fuegos artificiales, el estudiante universitario Kakeru Mano conoce a una mujer llamada Koharu Fuyutsuki. Ella es una chica hermosa que se destaca entre la multitud, ríe mucho y irradia una calidez que contrasta marcadamente con la propia introversión de Kakeru. Pero había algo que Kakeru no sabía al principio: ella no puede ver. A diferencia de Kakeru, Koharu no ha renunciado a nada, incluso con su ceguera. Asiste a la universidad todos los días, muestra interés en los clubes, hace amigos, y sueña con lanzar fuegos artificiales algún día. Kakeru se pregunta por qué, si no puede verlos... pero tal vez no importa. Y tal vez él también puede comenzar a avanzar, por la chica que siempre ha estado a su lado.",
+    "imagen": "https://cdn.animeav1.com/screenshots/4404/1.jpg",
+    "link": "https://animeav1.com/media/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita/",
+    "episodios": ["https://animeav1.com/media/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita/1"]
+  },
+  {
+    "nombre": "Digimon Beatbreak",
+    "sinopsis": "\"e-Pulse,\" que es generado por los pensamientos y emociones humanas, se utilizó como fuente de energía para el dispositivo de apoyo de IA \"Sapotama.\" Desde las sombras de este notable desarrollo, aparecen aterradores monstruos. Los Digimon son seres vivos que evolucionan al consumir e-Pulse.\n\nTomoro Tenma se ve envuelto en una experiencia extraordinaria después de conocer a Gekkomon, quien aparece de repente de su Sapotama. Mientras vive junto a Kyo Sawashiro y otros miembros del equipo de caza recompensas \"Golden Dawn,\" Tomoro renueva su determinación. ¿Qué nuevo futuro forjarán los humanos y los Digimon?\n\n(Fuente: Sitio oficial)",
+    "imagen": "https://cdn.animeav1.com/screenshots/2901/1.jpg",
+    "link": "https://animeav1.com/media/digimon-beatbreak/",
+    "episodios": [
+      "https://animeav1.com/media/digimon-beatbreak/1",
+      "https://animeav1.com/media/digimon-beatbreak/2",
+      "https://animeav1.com/media/digimon-beatbreak/3",
+      "https://animeav1.com/media/digimon-beatbreak/4",
+      "https://animeav1.com/media/digimon-beatbreak/5",
+      "https://animeav1.com/media/digimon-beatbreak/6",
+      "https://animeav1.com/media/digimon-beatbreak/7",
+      "https://animeav1.com/media/digimon-beatbreak/8",
+      "https://animeav1.com/media/digimon-beatbreak/9",
+      "https://animeav1.com/media/digimon-beatbreak/10",
+      "https://animeav1.com/media/digimon-beatbreak/11",
+      "https://animeav1.com/media/digimon-beatbreak/12",
+      "https://animeav1.com/media/digimon-beatbreak/13",
+      "https://animeav1.com/media/digimon-beatbreak/14",
+      "https://animeav1.com/media/digimon-beatbreak/15",
+      "https://animeav1.com/media/digimon-beatbreak/16",
+      "https://animeav1.com/media/digimon-beatbreak/17",
+      "https://animeav1.com/media/digimon-beatbreak/18",
+      "https://animeav1.com/media/digimon-beatbreak/19",
+      "https://animeav1.com/media/digimon-beatbreak/20",
+      "https://animeav1.com/media/digimon-beatbreak/21",
+      "https://animeav1.com/media/digimon-beatbreak/22",
+      "https://animeav1.com/media/digimon-beatbreak/23",
+      "https://animeav1.com/media/digimon-beatbreak/24",
+      "https://animeav1.com/media/digimon-beatbreak/25",
+      "https://animeav1.com/media/digimon-beatbreak/26",
+      "https://animeav1.com/media/digimon-beatbreak/27",
+      "https://animeav1.com/media/digimon-beatbreak/28",
+      "https://animeav1.com/media/digimon-beatbreak/29",
+      "https://animeav1.com/media/digimon-beatbreak/30",
+      "https://animeav1.com/media/digimon-beatbreak/31",
+      "https://animeav1.com/media/digimon-beatbreak/32",
+      "https://animeav1.com/media/digimon-beatbreak/33",
+      "https://animeav1.com/media/digimon-beatbreak/34",
+      "https://animeav1.com/media/digimon-beatbreak/35",
+      "https://animeav1.com/media/digimon-beatbreak/36",
+      "https://animeav1.com/media/digimon-beatbreak/37"
+    ]
+  }
 ]
