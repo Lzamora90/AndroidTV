@@ -3,6 +3,56 @@
         "nombre": "backdrop",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4400.jpg",
+        "link": "https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/",
+        "episodios": [
+            "https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/12"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4399.jpg",
+        "link": "https://animeav1.com/media/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season/12"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4398.jpg",
+        "link": "https://animeav1.com/media/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha/",
+        "episodios": [
+            "https://animeav1.com/media/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha/12"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4397.jpg",
+        "link": "https://animeav1.com/media/tetsunabe-no-jan/",
+        "episodios": [
+            "https://animeav1.com/media/tetsunabe-no-jan/12"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/2901.jpg",
+        "link": "https://animeav1.com/media/digimon-beatbreak/",
+        "episodios": [
+            "https://animeav1.com/media/digimon-beatbreak/48"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
         "imagen": "https://cdn.animeav1.com/thumbnails/3935.jpg",
         "link": "https://animeav1.com/media/mao/",
         "episodios": [
@@ -150,56 +200,6 @@
         ]
     },
     {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4382.jpg",
-        "link": "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/",
-        "episodios": [
-            "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/12"
-        ]
-    },
-    {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4427.jpg",
-        "link": "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/10"
-        ]
-    },
-    {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4381.jpg",
-        "link": "https://animeav1.com/media/kore-kaite-shine/",
-        "episodios": [
-            "https://animeav1.com/media/kore-kaite-shine/11"
-        ]
-    },
-    {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3977.jpg",
-        "link": "https://animeav1.com/media/kami-no-shizuku/",
-        "episodios": [
-            "https://animeav1.com/media/kami-no-shizuku/24"
-        ]
-    },
-    {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3926.jpg",
-        "link": "https://animeav1.com/media/tensei-shitara-slime-datta-ken-4th-season/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-shitara-slime-datta-ken-4th-season/23"
-        ]
-    },
-    {
         "nombre": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -287,6 +287,16 @@
         "link": "https://animeav1.com/media/ansatsu-kyoushitsu-movie-minna-no-jikan/",
         "episodios": [
             "https://animeav1.com/media/ansatsu-kyoushitsu-movie-minna-no-jikan"
+        ]
+    },
+    {
+        "nombre": "Nige Jouzu no Wakagimi 2nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4427.jpg",
+        "link": "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season"
         ]
     },
     {
