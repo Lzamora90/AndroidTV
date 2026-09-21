@@ -3,6 +3,66 @@
         "nombre": "backdrop",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4402.jpg",
+        "link": "https://animeav1.com/media/azur-lane-bisoku-zenshin-ni/",
+        "episodios": [
+            "https://animeav1.com/media/azur-lane-bisoku-zenshin-ni/12"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/197.jpg",
+        "link": "https://animeav1.com/media/one-piece/",
+        "episodios": [
+            "https://animeav1.com/media/one-piece/1179"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4426.jpg",
+        "link": "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/",
+        "episodios": [
+            "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/11"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4401.jpg",
+        "link": "https://animeav1.com/media/sayonara-lara/",
+        "episodios": [
+            "https://animeav1.com/media/sayonara-lara/12"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/3987.jpg",
+        "link": "https://animeav1.com/media/kuroneko-to-majo-no-kyoushitsu/",
+        "episodios": [
+            "https://animeav1.com/media/kuroneko-to-majo-no-kyoushitsu/24"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4384.jpg",
+        "link": "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/",
+        "episodios": [
+            "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/13"
+        ]
+    },
+    {
+        "nombre": "backdrop",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
         "imagen": "https://cdn.animeav1.com/thumbnails/4400.jpg",
         "link": "https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/",
         "episodios": [
@@ -140,63 +200,13 @@
         ]
     },
     {
-        "nombre": "backdrop",
+        "nombre": "Kaijuu 8-gou: Narumi no Heijitsu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4387.jpg",
-        "link": "https://animeav1.com/media/iwamoto-senpai-no-suisen/",
-        "episodios": [
-            "https://animeav1.com/media/iwamoto-senpai-no-suisen/12"
-        ]
-    },
-    {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4386.jpg",
-        "link": "https://animeav1.com/media/black-torch/",
-        "episodios": [
-            "https://animeav1.com/media/black-torch/12"
-        ]
-    },
-    {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3929.jpg",
-        "link": "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/",
-        "episodios": [
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/23"
-        ]
-    },
-    {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4437.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4437.jpg",
         "link": "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/",
         "episodios": [
-            "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/3"
-        ]
-    },
-    {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3928.jpg",
-        "link": "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/",
-        "episodios": [
-            "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/22"
-        ]
-    },
-    {
-        "nombre": "backdrop",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4383.jpg",
-        "link": "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/12"
+            "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu"
         ]
     },
     {
@@ -297,16 +307,6 @@
         "link": "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/",
         "episodios": [
             "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season"
-        ]
-    },
-    {
-        "nombre": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4426.jpg",
-        "link": "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/",
-        "episodios": [
-            "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
         ]
     },
     {
