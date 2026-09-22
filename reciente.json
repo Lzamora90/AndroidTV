@@ -1,5 +1,35 @@
 [
     {
+        "nombre": "Yoroi Shin Den Samurai Troopers Part 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4411.jpg",
+        "link": "https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/",
+        "episodios": [
+            "https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/12"
+        ]
+    },
+    {
+        "nombre": "Kimi Ga Shinu Made Koi Wo Shitai",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4410.jpg",
+        "link": "https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/",
+        "episodios": [
+            "https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/12"
+        ]
+    },
+    {
+        "nombre": "Tai Ari Deshita Ojousama Wa Kakutou Game Nante Shinai",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4409.jpg",
+        "link": "https://animeav1.com/media/tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai/",
+        "episodios": [
+            "https://animeav1.com/media/tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai/12"
+        ]
+    },
+    {
         "nombre": "Suterare Seijo No Isekai Gohan Tabi Kakure Skill De Camping Car Wo Shoukan Shimashita",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -167,36 +197,6 @@
         "link": "https://animeav1.com/media/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season/",
         "episodios": [
             "https://animeav1.com/media/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season/12"
-        ]
-    },
-    {
-        "nombre": "Sekai Saikyou No Kouei Meikyuukoku No Shinjin Tansakusha",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4398.jpg",
-        "link": "https://animeav1.com/media/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha/",
-        "episodios": [
-            "https://animeav1.com/media/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha/12"
-        ]
-    },
-    {
-        "nombre": "Tetsunabe No Jan",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4397.jpg",
-        "link": "https://animeav1.com/media/tetsunabe-no-jan/",
-        "episodios": [
-            "https://animeav1.com/media/tetsunabe-no-jan/12"
-        ]
-    },
-    {
-        "nombre": "Digimon Beatbreak",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/2901.jpg",
-        "link": "https://animeav1.com/media/digimon-beatbreak/",
-        "episodios": [
-            "https://animeav1.com/media/digimon-beatbreak/48"
         ]
     },
     {
