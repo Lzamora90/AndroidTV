@@ -1,5 +1,55 @@
 [
     {
+        "nombre": "Otome Game Sekai Wa Mob Ni Kibishii Sekai Desu 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4419.jpg",
+        "link": "https://animeav1.com/media/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2/",
+        "episodios": [
+            "https://animeav1.com/media/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2/12"
+        ]
+    },
+    {
+        "nombre": "Katainaka No Ossan Kensei Ni Naru Ii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4420.jpg",
+        "link": "https://animeav1.com/media/katainaka-no-ossan-kensei-ni-naru-ii/",
+        "episodios": [
+            "https://animeav1.com/media/katainaka-no-ossan-kensei-ni-naru-ii/12"
+        ]
+    },
+    {
+        "nombre": "Youjo Senki Ii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4417.jpg",
+        "link": "https://animeav1.com/media/youjo-senki-ii/",
+        "episodios": [
+            "https://animeav1.com/media/youjo-senki-ii/12"
+        ]
+    },
+    {
+        "nombre": "Rezero Kara Hajimeru Isekai Seikatsu 4Th Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/3968.jpg",
+        "link": "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/",
+        "episodios": [
+            "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/18"
+        ]
+    },
+    {
+        "nombre": "Clevatess Ii Majuu No Ou To Itsuwari No Yuusha Denshou",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4416.jpg",
+        "link": "https://animeav1.com/media/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou/",
+        "episodios": [
+            "https://animeav1.com/media/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou/12"
+        ]
+    },
+    {
         "nombre": "Sora Wa Akai Kawa No Hotori",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -150,56 +200,6 @@
         ]
     },
     {
-        "nombre": "Futsutsuka Na Akujo Dewa Gozaimasu Ga Suuguu Chouso Torikae Den",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4426.jpg",
-        "link": "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/",
-        "episodios": [
-            "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/11"
-        ]
-    },
-    {
-        "nombre": "Sayonara Lara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4401.jpg",
-        "link": "https://animeav1.com/media/sayonara-lara/",
-        "episodios": [
-            "https://animeav1.com/media/sayonara-lara/12"
-        ]
-    },
-    {
-        "nombre": "Kuroneko To Majo No Kyoushitsu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3987.jpg",
-        "link": "https://animeav1.com/media/kuroneko-to-majo-no-kyoushitsu/",
-        "episodios": [
-            "https://animeav1.com/media/kuroneko-to-majo-no-kyoushitsu/24"
-        ]
-    },
-    {
-        "nombre": "Mushoku Tensei Iii Isekai Ittara Honki Dasu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4384.jpg",
-        "link": "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/",
-        "episodios": [
-            "https://animeav1.com/media/mushoku-tensei-iii-isekai-ittara-honki-dasu/13"
-        ]
-    },
-    {
-        "nombre": "Nijusseiki Denki Mokuroku Eureka Evrika",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4400.jpg",
-        "link": "https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/",
-        "episodios": [
-            "https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/12"
-        ]
-    },
-    {
         "nombre": "Kaijuu 8-gou: Narumi no Heijitsu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -310,6 +310,16 @@
         ]
     },
     {
+        "nombre": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4426.jpg",
+        "link": "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/",
+        "episodios": [
+            "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
+        ]
+    },
+    {
         "nombre": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -357,26 +367,6 @@
         "link": "https://animeav1.com/media/dogulwang/",
         "episodios": [
             "https://animeav1.com/media/dogulwang"
-        ]
-    },
-    {
-        "nombre": "Katainaka no Ossan, Kensei ni Naru II",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4420.jpg",
-        "link": "https://animeav1.com/media/katainaka-no-ossan-kensei-ni-naru-ii/",
-        "episodios": [
-            "https://animeav1.com/media/katainaka-no-ossan-kensei-ni-naru-ii"
-        ]
-    },
-    {
-        "nombre": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4419.jpg",
-        "link": "https://animeav1.com/media/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2/",
-        "episodios": [
-            "https://animeav1.com/media/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2"
         ]
     },
     {
