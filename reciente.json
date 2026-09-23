@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Sora Wa Akai Kawa No Hotori",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4412.jpg",
+        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
+        "episodios": [
+            "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/12"
+        ]
+    },
+    {
         "nombre": "Yoroi Shin Den Samurai Troopers Part 2",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -187,16 +197,6 @@
         "link": "https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/",
         "episodios": [
             "https://animeav1.com/media/nijusseiki-denki-mokuroku-eureka-evrika/12"
-        ]
-    },
-    {
-        "nombre": "Kimi No Koto Ga Daidaidaidaidaisuki Na 100 Nin No Kanojo 3Rd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4399.jpg",
-        "link": "https://animeav1.com/media/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season/",
-        "episodios": [
-            "https://animeav1.com/media/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season/12"
         ]
     },
     {
