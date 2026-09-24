@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Reiwa No Dara San",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4372.jpg",
+        "link": "https://animeav1.com/media/reiwa-no-dara-san/",
+        "episodios": [
+            "https://animeav1.com/media/reiwa-no-dara-san/13"
+        ]
+    },
+    {
         "nombre": "Otome Game Sekai Wa Mob Ni Kibishii Sekai Desu 2",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -187,16 +197,6 @@
         "link": "https://animeav1.com/media/azur-lane-bisoku-zenshin-ni/",
         "episodios": [
             "https://animeav1.com/media/azur-lane-bisoku-zenshin-ni/12"
-        ]
-    },
-    {
-        "nombre": "One Piece",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/197.jpg",
-        "link": "https://animeav1.com/media/one-piece/",
-        "episodios": [
-            "https://animeav1.com/media/one-piece/1179"
         ]
     },
     {
