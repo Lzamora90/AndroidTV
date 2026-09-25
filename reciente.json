@@ -1,5 +1,35 @@
 [
     {
+        "nombre": "Mebius Dust",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4423.jpg",
+        "link": "https://animeav1.com/media/mebius-dust/",
+        "episodios": [
+            "https://animeav1.com/media/mebius-dust/12"
+        ]
+    },
+    {
+        "nombre": "Tsuihou Sareta Tensei Juukishi Wa Game Chishiki De Musou Suru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4375.jpg",
+        "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
+        "episodios": [
+            "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/13"
+        ]
+    },
+    {
+        "nombre": "Super No Ura De Yani Suu Futari",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4424.jpg",
+        "link": "https://animeav1.com/media/super-no-ura-de-yani-suu-futari/",
+        "episodios": [
+            "https://animeav1.com/media/super-no-ura-de-yani-suu-futari/12"
+        ]
+    },
+    {
         "nombre": "Reiwa No Dara San",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -170,36 +200,6 @@
         ]
     },
     {
-        "nombre": "Gaikotsu Kishi Sama Tadaima Isekai E Odekakechuu Ii",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4385.jpg",
-        "link": "https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/",
-        "episodios": [
-            "https://animeav1.com/media/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii/12"
-        ]
-    },
-    {
-        "nombre": "Toumei Na Yoru Ni Kakeru Kimi To Me Ni Mienai Koi Wo Shita",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4404.jpg",
-        "link": "https://animeav1.com/media/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita/",
-        "episodios": [
-            "https://animeav1.com/media/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita/12"
-        ]
-    },
-    {
-        "nombre": "Azur Lane Bisoku Zenshin Ni",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4402.jpg",
-        "link": "https://animeav1.com/media/azur-lane-bisoku-zenshin-ni/",
-        "episodios": [
-            "https://animeav1.com/media/azur-lane-bisoku-zenshin-ni/12"
-        ]
-    },
-    {
         "nombre": "Kaijuu 8-gou: Narumi no Heijitsu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -327,26 +327,6 @@
         "link": "https://animeav1.com/media/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai/",
         "episodios": [
             "https://animeav1.com/media/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai"
-        ]
-    },
-    {
-        "nombre": "Super no Ura de Yani Suu Futari",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4424.jpg",
-        "link": "https://animeav1.com/media/super-no-ura-de-yani-suu-futari/",
-        "episodios": [
-            "https://animeav1.com/media/super-no-ura-de-yani-suu-futari"
-        ]
-    },
-    {
-        "nombre": "Mebius Dust",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4423.jpg",
-        "link": "https://animeav1.com/media/mebius-dust/",
-        "episodios": [
-            "https://animeav1.com/media/mebius-dust"
         ]
     },
     {
