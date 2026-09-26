@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "Yasei No Last Boss Ga Arawareta 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4438.jpg",
+        "link": "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/1"
+        ]
+    },
+    {
+        "nombre": "Mairimashita Iruma Kun 4Th Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/3929.jpg",
+        "link": "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/",
+        "episodios": [
+            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/24"
+        ]
+    },
+    {
+        "nombre": "Kaijuu 8 Gou Narumi No Heijitsu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4437.jpg",
+        "link": "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/",
+        "episodios": [
+            "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/4"
+        ]
+    },
+    {
+        "nombre": "Honzuki No Gekokujou Shisho Ni Naru Tame Ni Wa Shudan Wo Erandeiraremasen Ryoushu No Youjo",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/3928.jpg",
+        "link": "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/",
+        "episodios": [
+            "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/23"
+        ]
+    },
+    {
         "nombre": "Hell Mode Yarikomizuki No Gamer Wa Hai Settei No Isekai De Musou Suru 2Nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -160,56 +200,6 @@
         ]
     },
     {
-        "nombre": "Sora Wa Akai Kawa No Hotori",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4412.jpg",
-        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
-        "episodios": [
-            "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/12"
-        ]
-    },
-    {
-        "nombre": "Yoroi Shin Den Samurai Troopers Part 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4411.jpg",
-        "link": "https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/",
-        "episodios": [
-            "https://animeav1.com/media/yoroi-shin-den-samurai-troopers-part-2/12"
-        ]
-    },
-    {
-        "nombre": "Kimi Ga Shinu Made Koi Wo Shitai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4410.jpg",
-        "link": "https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/",
-        "episodios": [
-            "https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/12"
-        ]
-    },
-    {
-        "nombre": "Tai Ari Deshita Ojousama Wa Kakutou Game Nante Shinai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4409.jpg",
-        "link": "https://animeav1.com/media/tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai/",
-        "episodios": [
-            "https://animeav1.com/media/tai-ari-deshita-ojousama-wa-kakutou-game-nante-shinai/12"
-        ]
-    },
-    {
-        "nombre": "Kaijuu 8-gou: Narumi no Heijitsu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4437.jpg",
-        "link": "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/",
-        "episodios": [
-            "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu"
-        ]
-    },
-    {
         "nombre": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -327,16 +317,6 @@
         "link": "https://animeav1.com/media/dogulwang/",
         "episodios": [
             "https://animeav1.com/media/dogulwang"
-        ]
-    },
-    {
-        "nombre": "Ibitte Konai Gibo to Gishi",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4418.jpg",
-        "link": "https://animeav1.com/media/ibitte-konai-gibo-to-gishi/",
-        "episodios": [
-            "https://animeav1.com/media/ibitte-konai-gibo-to-gishi"
         ]
     }
 ]
