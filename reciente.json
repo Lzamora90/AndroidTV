@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Liar Game",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/3941.jpg",
+        "link": "https://animeav1.com/media/liar-game/",
+        "episodios": [
+            "https://animeav1.com/media/liar-game/26"
+        ]
+    },
+    {
         "nombre": "One Piece",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -187,16 +197,6 @@
         "link": "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/",
         "episodios": [
             "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/11"
-        ]
-    },
-    {
-        "nombre": "Kore Kaite Shine",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4381.jpg",
-        "link": "https://animeav1.com/media/kore-kaite-shine/",
-        "episodios": [
-            "https://animeav1.com/media/kore-kaite-shine/12"
         ]
     },
     {
