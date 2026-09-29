@@ -1,5 +1,25 @@
 [
     {
+        "nombre": "Mononoke Movie 3 Hebigami",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4441.jpg",
+        "link": "https://animeav1.com/media/mononoke-movie-3-hebigami/",
+        "episodios": [
+            "https://animeav1.com/media/mononoke-movie-3-hebigami/1"
+        ]
+    },
+    {
+        "nombre": "Kimi Ga Shinu Made Koi Wo Shitai",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4410.jpg",
+        "link": "https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/",
+        "episodios": [
+            "https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/13"
+        ]
+    },
+    {
         "nombre": "Liar Game",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -180,26 +200,6 @@
         ]
     },
     {
-        "nombre": "Hell Mode Yarikomizuki No Gamer Wa Hai Settei No Isekai De Musou Suru 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4383.jpg",
-        "link": "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season/13"
-        ]
-    },
-    {
-        "nombre": "Nige Jouzu No Wakagimi 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4427.jpg",
-        "link": "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/11"
-        ]
-    },
-    {
         "nombre": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -290,6 +290,16 @@
         ]
     },
     {
+        "nombre": "Nige Jouzu no Wakagimi 2nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4427.jpg",
+        "link": "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season"
+        ]
+    },
+    {
         "nombre": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -327,16 +337,6 @@
         "link": "https://animeav1.com/media/thunder-3/",
         "episodios": [
             "https://animeav1.com/media/thunder-3"
-        ]
-    },
-    {
-        "nombre": "Dogulwang",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4421.jpg",
-        "link": "https://animeav1.com/media/dogulwang/",
-        "episodios": [
-            "https://animeav1.com/media/dogulwang"
         ]
     }
 ]
