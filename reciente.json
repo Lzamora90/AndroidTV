@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Sora Wa Akai Kawa No Hotori",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4412.jpg",
+        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
+        "episodios": [
+            "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/13"
+        ]
+    },
+    {
         "nombre": "Mononoke Movie 3 Hebigami",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -187,16 +197,6 @@
         "link": "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/",
         "episodios": [
             "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/4"
-        ]
-    },
-    {
-        "nombre": "Honzuki No Gekokujou Shisho Ni Naru Tame Ni Wa Shudan Wo Erandeiraremasen Ryoushu No Youjo",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3928.jpg",
-        "link": "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/",
-        "episodios": [
-            "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/23"
         ]
     },
     {
