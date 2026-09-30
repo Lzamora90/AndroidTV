@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "Thunder 3",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4422.jpg",
+        "link": "https://animeav1.com/media/thunder-3/",
+        "episodios": [
+            "https://animeav1.com/media/thunder-3/12"
+        ]
+    },
+    {
+        "nombre": "Shin Tennis No Oujisama U 17 World Cup Kesshou Member Ketteisen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4443.jpg",
+        "link": "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/",
+        "episodios": [
+            "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/1"
+        ]
+    },
+    {
+        "nombre": "Rezero Kara Hajimeru Isekai Seikatsu 4Th Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/3968.jpg",
+        "link": "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/",
+        "episodios": [
+            "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/19"
+        ]
+    },
+    {
+        "nombre": "Clevatess Ii Majuu No Ou To Itsuwari No Yuusha Denshou",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4416.jpg",
+        "link": "https://animeav1.com/media/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou/",
+        "episodios": [
+            "https://animeav1.com/media/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou/13"
+        ]
+    },
+    {
         "nombre": "Sora Wa Akai Kawa No Hotori",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -160,43 +200,33 @@
         ]
     },
     {
-        "nombre": "Grow Up Show Himawari No Circus Dan",
+        "nombre": "Tensei shitara Ken deshita II",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4389.jpg",
-        "link": "https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/",
+        "imagen": "https://cdn.animeav1.com/covers/4442.jpg",
+        "link": "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/",
         "episodios": [
-            "https://animeav1.com/media/grow-up-show-himawari-no-circus-dan/13"
+            "https://animeav1.com/media/tensei-shitara-ken-deshita-ii"
         ]
     },
     {
-        "nombre": "Yasei No Last Boss Ga Arawareta 2Nd Season",
+        "nombre": "Yasei no Last Boss ga Arawareta! 2nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4438.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4438.jpg",
         "link": "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/",
         "episodios": [
-            "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/1"
+            "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season"
         ]
     },
     {
-        "nombre": "Mairimashita Iruma Kun 4Th Season",
+        "nombre": "Kaijuu 8-gou: Narumi no Heijitsu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3929.jpg",
-        "link": "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/",
-        "episodios": [
-            "https://animeav1.com/media/mairimashita-iruma-kun-4th-season/24"
-        ]
-    },
-    {
-        "nombre": "Kaijuu 8 Gou Narumi No Heijitsu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4437.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4437.jpg",
         "link": "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/",
         "episodios": [
-            "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/4"
+            "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu"
         ]
     },
     {
@@ -317,26 +347,6 @@
         "link": "https://animeav1.com/media/super-no-ura-de-yani-suu-futari/",
         "episodios": [
             "https://animeav1.com/media/super-no-ura-de-yani-suu-futari"
-        ]
-    },
-    {
-        "nombre": "Mebius Dust",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4423.jpg",
-        "link": "https://animeav1.com/media/mebius-dust/",
-        "episodios": [
-            "https://animeav1.com/media/mebius-dust"
-        ]
-    },
-    {
-        "nombre": "Thunder 3",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4422.jpg",
-        "link": "https://animeav1.com/media/thunder-3/",
-        "episodios": [
-            "https://animeav1.com/media/thunder-3"
         ]
     }
 ]
