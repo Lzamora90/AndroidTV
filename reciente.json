@@ -1,5 +1,35 @@
 [
     {
+        "nombre": "Tsuihou Sareta Tensei Juukishi Wa Game Chishiki De Musou Suru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4375.jpg",
+        "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
+        "episodios": [
+            "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/14"
+        ]
+    },
+    {
+        "nombre": "Koori No Jouheki 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4445.jpg",
+        "link": "https://animeav1.com/media/koori-no-jouheki-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/koori-no-jouheki-2nd-season/1"
+        ]
+    },
+    {
+        "nombre": "Fx Senshi Kurumi Chan",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4444.jpg",
+        "link": "https://animeav1.com/media/fx-senshi-kurumi-chan/",
+        "episodios": [
+            "https://animeav1.com/media/fx-senshi-kurumi-chan/1"
+        ]
+    },
+    {
         "nombre": "Tensei Shitara Ken Deshita Ii",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -170,36 +200,6 @@
         ]
     },
     {
-        "nombre": "Digimon Beatbreak",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/2901.jpg",
-        "link": "https://animeav1.com/media/digimon-beatbreak/",
-        "episodios": [
-            "https://animeav1.com/media/digimon-beatbreak/49"
-        ]
-    },
-    {
-        "nombre": "Mao",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3935.jpg",
-        "link": "https://animeav1.com/media/mao/",
-        "episodios": [
-            "https://animeav1.com/media/mao/26"
-        ]
-    },
-    {
-        "nombre": "Ibitte Konai Gibo To Gishi",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4418.jpg",
-        "link": "https://animeav1.com/media/ibitte-konai-gibo-to-gishi/",
-        "episodios": [
-            "https://animeav1.com/media/ibitte-konai-gibo-to-gishi/12"
-        ]
-    },
-    {
         "nombre": "Yasei no Last Boss ga Arawareta! 2nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -327,26 +327,6 @@
         "link": "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/",
         "episodios": [
             "https://animeav1.com/media/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den"
-        ]
-    },
-    {
-        "nombre": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4425.jpg",
-        "link": "https://animeav1.com/media/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai/",
-        "episodios": [
-            "https://animeav1.com/media/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai"
-        ]
-    },
-    {
-        "nombre": "Super no Ura de Yani Suu Futari",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4424.jpg",
-        "link": "https://animeav1.com/media/super-no-ura-de-yani-suu-futari/",
-        "episodios": [
-            "https://animeav1.com/media/super-no-ura-de-yani-suu-futari"
         ]
     }
 ]
