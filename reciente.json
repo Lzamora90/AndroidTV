@@ -1,5 +1,55 @@
 [
     {
+        "nombre": "Zombie Sagashitemasu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4455.jpg",
+        "link": "https://animeav1.com/media/zombie-sagashitemasu/",
+        "episodios": [
+            "https://animeav1.com/media/zombie-sagashitemasu/1"
+        ]
+    },
+    {
+        "nombre": "Romelia Senki",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4450.jpg",
+        "link": "https://animeav1.com/media/romelia-senki/",
+        "episodios": [
+            "https://animeav1.com/media/romelia-senki/1"
+        ]
+    },
+    {
+        "nombre": "Tensei Shita Daiseijo Wa Seijo De Aru Koto Wo Hitakakusu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4451.jpg",
+        "link": "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/2"
+        ]
+    },
+    {
+        "nombre": "Yasei No Last Boss Ga Arawareta 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4438.jpg",
+        "link": "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/2"
+        ]
+    },
+    {
+        "nombre": "Honzuki No Gekokujou Shisho Ni Naru Tame Ni Wa Shudan Wo Erandeiraremasen Ryoushu No Youjo",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/3928.jpg",
+        "link": "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/",
+        "episodios": [
+            "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/24"
+        ]
+    },
+    {
         "nombre": "Keroro Gunsou",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -140,63 +190,73 @@
         ]
     },
     {
-        "nombre": "Shin Tennis No Oujisama U 17 World Cup Kesshou Member Ketteisen",
+        "nombre": "Marronnier Oukoku no Shichinin no Kishi",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4443.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4457.jpg",
+        "link": "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/",
+        "episodios": [
+            "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi"
+        ]
+    },
+    {
+        "nombre": "Ranma ½ (2024) 3rd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4456.jpg",
+        "link": "https://animeav1.com/media/ranma-2024-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/ranma-2024-3rd-season"
+        ]
+    },
+    {
+        "nombre": "Black Clover 2nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4454.jpg",
+        "link": "https://animeav1.com/media/black-clover-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/black-clover-2nd-season"
+        ]
+    },
+    {
+        "nombre": "Magical★Explorer",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4453.jpg",
+        "link": "https://animeav1.com/media/magicalexplorer/",
+        "episodios": [
+            "https://animeav1.com/media/magicalexplorer"
+        ]
+    },
+    {
+        "nombre": "Vertex Force",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4452.jpg",
+        "link": "https://animeav1.com/media/vertex-force/",
+        "episodios": [
+            "https://animeav1.com/media/vertex-force"
+        ]
+    },
+    {
+        "nombre": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4443.jpg",
         "link": "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/",
         "episodios": [
-            "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/1"
+            "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen"
         ]
     },
     {
-        "nombre": "Rezero Kara Hajimeru Isekai Seikatsu 4Th Season",
+        "nombre": "Mononoke Movie 3: Hebigami",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3968.jpg",
-        "link": "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/",
-        "episodios": [
-            "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/19"
-        ]
-    },
-    {
-        "nombre": "Clevatess Ii Majuu No Ou To Itsuwari No Yuusha Denshou",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4416.jpg",
-        "link": "https://animeav1.com/media/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou/",
-        "episodios": [
-            "https://animeav1.com/media/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou/13"
-        ]
-    },
-    {
-        "nombre": "Sora Wa Akai Kawa No Hotori",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4412.jpg",
-        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
-        "episodios": [
-            "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/13"
-        ]
-    },
-    {
-        "nombre": "Mononoke Movie 3 Hebigami",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4441.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4441.jpg",
         "link": "https://animeav1.com/media/mononoke-movie-3-hebigami/",
         "episodios": [
-            "https://animeav1.com/media/mononoke-movie-3-hebigami/1"
-        ]
-    },
-    {
-        "nombre": "Kimi Ga Shinu Made Koi Wo Shitai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4410.jpg",
-        "link": "https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/",
-        "episodios": [
-            "https://animeav1.com/media/kimi-ga-shinu-made-koi-wo-shitai/13"
+            "https://animeav1.com/media/mononoke-movie-3-hebigami"
         ]
     },
     {
@@ -217,86 +277,6 @@
         "link": "https://animeav1.com/media/tempal-item-no-chikara/",
         "episodios": [
             "https://animeav1.com/media/tempal-item-no-chikara"
-        ]
-    },
-    {
-        "nombre": "Yasei no Last Boss ga Arawareta! 2nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4438.jpg",
-        "link": "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season"
-        ]
-    },
-    {
-        "nombre": "Kaijuu 8-gou: Narumi no Heijitsu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4437.jpg",
-        "link": "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu/",
-        "episodios": [
-            "https://animeav1.com/media/kaijuu-8-gou-narumi-no-heijitsu"
-        ]
-    },
-    {
-        "nombre": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4436.jpg",
-        "link": "https://animeav1.com/media/kidou-senshi-gundam-senkou-no-hathaway-circe-no-majo/",
-        "episodios": [
-            "https://animeav1.com/media/kidou-senshi-gundam-senkou-no-hathaway-circe-no-majo"
-        ]
-    },
-    {
-        "nombre": "Gintama Movie 3: Yoshiwara Daienjou",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4435.jpg",
-        "link": "https://animeav1.com/media/gintama-movie-3-yoshiwara-daienjou/",
-        "episodios": [
-            "https://animeav1.com/media/gintama-movie-3-yoshiwara-daienjou"
-        ]
-    },
-    {
-        "nombre": "The Ribbon Hero",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4433.jpg",
-        "link": "https://animeav1.com/media/the-ribbon-hero/",
-        "episodios": [
-            "https://animeav1.com/media/the-ribbon-hero"
-        ]
-    },
-    {
-        "nombre": "Boku no Hero Academia: I Am a Hero Too",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4432.jpg",
-        "link": "https://animeav1.com/media/boku-no-hero-academia-i-am-a-hero-too/",
-        "episodios": [
-            "https://animeav1.com/media/boku-no-hero-academia-i-am-a-hero-too"
-        ]
-    },
-    {
-        "nombre": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4431.jpg",
-        "link": "https://animeav1.com/media/tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen"
-        ]
-    },
-    {
-        "nombre": "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4430.jpg",
-        "link": "https://animeav1.com/media/kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai/",
-        "episodios": [
-            "https://animeav1.com/media/kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai"
         ]
     }
 ]
