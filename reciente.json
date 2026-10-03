@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Keroro Gunsou",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4449.jpg",
+        "link": "https://animeav1.com/media/keroro-gunsou/",
+        "episodios": [
+            "https://animeav1.com/media/keroro-gunsou/1"
+        ]
+    },
+    {
         "nombre": "Uchi No Otouto Domo Ga Sumimasen",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -190,16 +200,6 @@
         ]
     },
     {
-        "nombre": "Liar Game",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3941.jpg",
-        "link": "https://animeav1.com/media/liar-game/",
-        "episodios": [
-            "https://animeav1.com/media/liar-game/26"
-        ]
-    },
-    {
         "nombre": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -297,16 +297,6 @@
         "link": "https://animeav1.com/media/kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai/",
         "episodios": [
             "https://animeav1.com/media/kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai"
-        ]
-    },
-    {
-        "nombre": "Bleach: Sennen Kessen-hen - Kashin-tan",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4429.jpg",
-        "link": "https://animeav1.com/media/bleach-sennen-kessen-hen-kashin-tan/",
-        "episodios": [
-            "https://animeav1.com/media/bleach-sennen-kessen-hen-kashin-tan"
         ]
     }
 ]
