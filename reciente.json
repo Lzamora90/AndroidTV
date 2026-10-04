@@ -1,5 +1,105 @@
 [
     {
+        "nombre": "Hotel Inhumans 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4467.jpg",
+        "link": "https://animeav1.com/media/hotel-inhumans-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/hotel-inhumans-2nd-season/1"
+        ]
+    },
+    {
+        "nombre": "Tensei Kizoku Kantei Skill De Nariagaru 3Rd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4440.jpg",
+        "link": "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/2"
+        ]
+    },
+    {
+        "nombre": "Yowaki Max Reijou Nanoni Ratsuwan Konyakusha Sama No Kake Ni Notte Shimatta",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4466.jpg",
+        "link": "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/",
+        "episodios": [
+            "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/1"
+        ]
+    },
+    {
+        "nombre": "Ojisan Wa Kawaii Mono Ga Osuki",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4464.jpg",
+        "link": "https://animeav1.com/media/ojisan-wa-kawaii-mono-ga-osuki/",
+        "episodios": [
+            "https://animeav1.com/media/ojisan-wa-kawaii-mono-ga-osuki/1"
+        ]
+    },
+    {
+        "nombre": "Mezametara Saikyou Soubi To Uchuusenmochi Datta Node Ikkodate Mezashite Youhei Toshite Jiyuu Ni Ikitai",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4465.jpg",
+        "link": "https://animeav1.com/media/mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai/",
+        "episodios": [
+            "https://animeav1.com/media/mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai/1"
+        ]
+    },
+    {
+        "nombre": "Tempal Item No Chikara",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4439.jpg",
+        "link": "https://animeav1.com/media/tempal-item-no-chikara/",
+        "episodios": [
+            "https://animeav1.com/media/tempal-item-no-chikara/2"
+        ]
+    },
+    {
+        "nombre": "Tank Chair",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4463.jpg",
+        "link": "https://animeav1.com/media/tank-chair/",
+        "episodios": [
+            "https://animeav1.com/media/tank-chair/1"
+        ]
+    },
+    {
+        "nombre": "Ao Ashi Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4462.jpg",
+        "link": "https://animeav1.com/media/ao-ashi-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/ao-ashi-season-2/1"
+        ]
+    },
+    {
+        "nombre": "Ao No Hako Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4461.jpg",
+        "link": "https://animeav1.com/media/ao-no-hako-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/ao-no-hako-season-2/1"
+        ]
+    },
+    {
+        "nombre": "Seihantai Na Kimi To Boku 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4396.jpg",
+        "link": "https://animeav1.com/media/seihantai-na-kimi-to-boku-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/seihantai-na-kimi-to-boku-2nd-season/13"
+        ]
+    },
+    {
         "nombre": "Seitokai Ni Mo Ana Wa Aru",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -90,153 +190,43 @@
         ]
     },
     {
+        "nombre": "Kanata kara",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4468.jpg",
+        "link": "https://animeav1.com/media/kanata-kara/",
+        "episodios": [
+            "https://animeav1.com/media/kanata-kara"
+        ]
+    },
+    {
+        "nombre": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4451.jpg",
+        "link": "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu"
+        ]
+    },
+    {
         "nombre": "Romelia Senki",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4450.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4450.jpg",
         "link": "https://animeav1.com/media/romelia-senki/",
         "episodios": [
-            "https://animeav1.com/media/romelia-senki/1"
+            "https://animeav1.com/media/romelia-senki"
         ]
     },
     {
-        "nombre": "Tensei Shita Daiseijo Wa Seijo De Aru Koto Wo Hitakakusu",
+        "nombre": "Keroro Gunsou☆",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4451.jpg",
-        "link": "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/2"
-        ]
-    },
-    {
-        "nombre": "Yasei No Last Boss Ga Arawareta 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4438.jpg",
-        "link": "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/2"
-        ]
-    },
-    {
-        "nombre": "Honzuki No Gekokujou Shisho Ni Naru Tame Ni Wa Shudan Wo Erandeiraremasen Ryoushu No Youjo",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3928.jpg",
-        "link": "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/",
-        "episodios": [
-            "https://animeav1.com/media/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo/24"
-        ]
-    },
-    {
-        "nombre": "Keroro Gunsou",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4449.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4449.jpg",
         "link": "https://animeav1.com/media/keroro-gunsou/",
         "episodios": [
-            "https://animeav1.com/media/keroro-gunsou/1"
-        ]
-    },
-    {
-        "nombre": "Uchi No Otouto Domo Ga Sumimasen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4382.jpg",
-        "link": "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/",
-        "episodios": [
-            "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/13"
-        ]
-    },
-    {
-        "nombre": "Nige Jouzu No Wakagimi 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4427.jpg",
-        "link": "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/nige-jouzu-no-wakagimi-2nd-season/12"
-        ]
-    },
-    {
-        "nombre": "Tougen Anki Nikko Kegon No Taki Hen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4448.jpg",
-        "link": "https://animeav1.com/media/tougen-anki-nikko-kegon-no-taki-hen/",
-        "episodios": [
-            "https://animeav1.com/media/tougen-anki-nikko-kegon-no-taki-hen/1"
-        ]
-    },
-    {
-        "nombre": "Kusuriya No Hitorigoto 3Rd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4447.jpg",
-        "link": "https://animeav1.com/media/kusuriya-no-hitorigoto-3rd-season/",
-        "episodios": [
-            "https://animeav1.com/media/kusuriya-no-hitorigoto-3rd-season/1"
-        ]
-    },
-    {
-        "nombre": "Tokyo Revengers: Santen Sensou-hen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4446.jpg",
-        "link": "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/",
-        "episodios": [
-            "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen"
-        ]
-    },
-    {
-        "nombre": "Koori no Jouheki 2nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4445.jpg",
-        "link": "https://animeav1.com/media/koori-no-jouheki-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/koori-no-jouheki-2nd-season"
-        ]
-    },
-    {
-        "nombre": "FX Senshi Kurumi-chan",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4444.jpg",
-        "link": "https://animeav1.com/media/fx-senshi-kurumi-chan/",
-        "episodios": [
-            "https://animeav1.com/media/fx-senshi-kurumi-chan"
-        ]
-    },
-    {
-        "nombre": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4443.jpg",
-        "link": "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/",
-        "episodios": [
-            "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen"
-        ]
-    },
-    {
-        "nombre": "Tensei shitara Ken deshita II",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4442.jpg",
-        "link": "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-shitara-ken-deshita-ii"
-        ]
-    },
-    {
-        "nombre": "Mononoke Movie 3: Hebigami",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4441.jpg",
-        "link": "https://animeav1.com/media/mononoke-movie-3-hebigami/",
-        "episodios": [
-            "https://animeav1.com/media/mononoke-movie-3-hebigami"
+            "https://animeav1.com/media/keroro-gunsou"
         ]
     }
 ]
