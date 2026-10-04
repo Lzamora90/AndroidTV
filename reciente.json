@@ -1,5 +1,85 @@
 [
     {
+        "nombre": "Seitokai Ni Mo Ana Wa Aru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4460.jpg",
+        "link": "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/",
+        "episodios": [
+            "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/1"
+        ]
+    },
+    {
+        "nombre": "Gensou Suikoden",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4459.jpg",
+        "link": "https://animeav1.com/media/gensou-suikoden/",
+        "episodios": [
+            "https://animeav1.com/media/gensou-suikoden/1"
+        ]
+    },
+    {
+        "nombre": "Kashita Maryoku Wa Revo Barai De Kyousei Choushuu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4458.jpg",
+        "link": "https://animeav1.com/media/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/",
+        "episodios": [
+            "https://animeav1.com/media/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/1"
+        ]
+    },
+    {
+        "nombre": "Ranma 2024 3Rd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4456.jpg",
+        "link": "https://animeav1.com/media/ranma-2024-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/ranma-2024-3rd-season/1"
+        ]
+    },
+    {
+        "nombre": "Magicalexplorer",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4453.jpg",
+        "link": "https://animeav1.com/media/magicalexplorer/",
+        "episodios": [
+            "https://animeav1.com/media/magicalexplorer/2"
+        ]
+    },
+    {
+        "nombre": "Vertex Force",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4452.jpg",
+        "link": "https://animeav1.com/media/vertex-force/",
+        "episodios": [
+            "https://animeav1.com/media/vertex-force/1"
+        ]
+    },
+    {
+        "nombre": "Black Clover 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4454.jpg",
+        "link": "https://animeav1.com/media/black-clover-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/black-clover-2nd-season/1"
+        ]
+    },
+    {
+        "nombre": "Marronnier Oukoku No Shichinin No Kishi",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4457.jpg",
+        "link": "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/",
+        "episodios": [
+            "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/1"
+        ]
+    },
+    {
         "nombre": "Zombie Sagashitemasu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -100,143 +180,33 @@
         ]
     },
     {
-        "nombre": "Steel Ball Run Jojo No Kimyou Na Bouken",
+        "nombre": "Tokyo Revengers: Santen Sensou-hen",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3833.jpg",
-        "link": "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/",
-        "episodios": [
-            "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/3"
-        ]
-    },
-    {
-        "nombre": "Tokyo Revengers Santen Sensou Hen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4446.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4446.jpg",
         "link": "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/",
         "episodios": [
-            "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/1"
+            "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen"
         ]
     },
     {
-        "nombre": "Shiguang Dailiren Iii",
+        "nombre": "Koori no Jouheki 2nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4434.jpg",
-        "link": "https://animeav1.com/media/shiguang-dailiren-iii/",
-        "episodios": [
-            "https://animeav1.com/media/shiguang-dailiren-iii/9"
-        ]
-    },
-    {
-        "nombre": "Tsuihou Sareta Tensei Juukishi Wa Game Chishiki De Musou Suru",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4375.jpg",
-        "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
-        "episodios": [
-            "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/14"
-        ]
-    },
-    {
-        "nombre": "Koori No Jouheki 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4445.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4445.jpg",
         "link": "https://animeav1.com/media/koori-no-jouheki-2nd-season/",
         "episodios": [
-            "https://animeav1.com/media/koori-no-jouheki-2nd-season/1"
+            "https://animeav1.com/media/koori-no-jouheki-2nd-season"
         ]
     },
     {
-        "nombre": "Fx Senshi Kurumi Chan",
+        "nombre": "FX Senshi Kurumi-chan",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4444.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4444.jpg",
         "link": "https://animeav1.com/media/fx-senshi-kurumi-chan/",
         "episodios": [
-            "https://animeav1.com/media/fx-senshi-kurumi-chan/1"
-        ]
-    },
-    {
-        "nombre": "Tensei Shitara Ken Deshita Ii",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4442.jpg",
-        "link": "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/1"
-        ]
-    },
-    {
-        "nombre": "Dogulwang",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4421.jpg",
-        "link": "https://animeav1.com/media/dogulwang/",
-        "episodios": [
-            "https://animeav1.com/media/dogulwang/12"
-        ]
-    },
-    {
-        "nombre": "Thunder 3",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4422.jpg",
-        "link": "https://animeav1.com/media/thunder-3/",
-        "episodios": [
-            "https://animeav1.com/media/thunder-3/12"
-        ]
-    },
-    {
-        "nombre": "Marronnier Oukoku no Shichinin no Kishi",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4457.jpg",
-        "link": "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/",
-        "episodios": [
-            "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi"
-        ]
-    },
-    {
-        "nombre": "Ranma ½ (2024) 3rd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4456.jpg",
-        "link": "https://animeav1.com/media/ranma-2024-3rd-season/",
-        "episodios": [
-            "https://animeav1.com/media/ranma-2024-3rd-season"
-        ]
-    },
-    {
-        "nombre": "Black Clover 2nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4454.jpg",
-        "link": "https://animeav1.com/media/black-clover-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/black-clover-2nd-season"
-        ]
-    },
-    {
-        "nombre": "Magical★Explorer",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4453.jpg",
-        "link": "https://animeav1.com/media/magicalexplorer/",
-        "episodios": [
-            "https://animeav1.com/media/magicalexplorer"
-        ]
-    },
-    {
-        "nombre": "Vertex Force",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4452.jpg",
-        "link": "https://animeav1.com/media/vertex-force/",
-        "episodios": [
-            "https://animeav1.com/media/vertex-force"
+            "https://animeav1.com/media/fx-senshi-kurumi-chan"
         ]
     },
     {
@@ -250,6 +220,16 @@
         ]
     },
     {
+        "nombre": "Tensei shitara Ken deshita II",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4442.jpg",
+        "link": "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-shitara-ken-deshita-ii"
+        ]
+    },
+    {
         "nombre": "Mononoke Movie 3: Hebigami",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -257,26 +237,6 @@
         "link": "https://animeav1.com/media/mononoke-movie-3-hebigami/",
         "episodios": [
             "https://animeav1.com/media/mononoke-movie-3-hebigami"
-        ]
-    },
-    {
-        "nombre": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4440.jpg",
-        "link": "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season"
-        ]
-    },
-    {
-        "nombre": "Tempal: Item no Chikara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4439.jpg",
-        "link": "https://animeav1.com/media/tempal-item-no-chikara/",
-        "episodios": [
-            "https://animeav1.com/media/tempal-item-no-chikara"
         ]
     }
 ]
