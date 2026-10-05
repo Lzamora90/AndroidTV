@@ -1,5 +1,25 @@
 [
     {
+        "nombre": "Dark Summoner To Dekiteiru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4469.jpg",
+        "link": "https://animeav1.com/media/dark-summoner-to-dekiteiru/",
+        "episodios": [
+            "https://animeav1.com/media/dark-summoner-to-dekiteiru/1"
+        ]
+    },
+    {
+        "nombre": "Kanata Kara",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4468.jpg",
+        "link": "https://animeav1.com/media/kanata-kara/",
+        "episodios": [
+            "https://animeav1.com/media/kanata-kara/1"
+        ]
+    },
+    {
         "nombre": "Hotel Inhumans 2Nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -170,33 +190,33 @@
         ]
     },
     {
-        "nombre": "Marronnier Oukoku No Shichinin No Kishi",
+        "nombre": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4457.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4470.jpg",
+        "link": "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu/",
+        "episodios": [
+            "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu"
+        ]
+    },
+    {
+        "nombre": "Marronnier Oukoku no Shichinin no Kishi",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4457.jpg",
         "link": "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/",
         "episodios": [
-            "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/1"
+            "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi"
         ]
     },
     {
-        "nombre": "Zombie Sagashitemasu",
+        "nombre": "#Zombie Sagashitemasu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4455.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4455.jpg",
         "link": "https://animeav1.com/media/zombie-sagashitemasu/",
         "episodios": [
-            "https://animeav1.com/media/zombie-sagashitemasu/1"
-        ]
-    },
-    {
-        "nombre": "Kanata kara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4468.jpg",
-        "link": "https://animeav1.com/media/kanata-kara/",
-        "episodios": [
-            "https://animeav1.com/media/kanata-kara"
+            "https://animeav1.com/media/zombie-sagashitemasu"
         ]
     },
     {
@@ -207,26 +227,6 @@
         "link": "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/",
         "episodios": [
             "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu"
-        ]
-    },
-    {
-        "nombre": "Romelia Senki",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4450.jpg",
-        "link": "https://animeav1.com/media/romelia-senki/",
-        "episodios": [
-            "https://animeav1.com/media/romelia-senki"
-        ]
-    },
-    {
-        "nombre": "Keroro Gunsou☆",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4449.jpg",
-        "link": "https://animeav1.com/media/keroro-gunsou/",
-        "episodios": [
-            "https://animeav1.com/media/keroro-gunsou"
         ]
     }
 ]
