@@ -1,5 +1,65 @@
 [
     {
+        "nombre": "Juuou Mujin Dandivine",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4484.jpg",
+        "link": "https://animeav1.com/media/juuou-mujin-dandivine/",
+        "episodios": [
+            "https://animeav1.com/media/juuou-mujin-dandivine/1"
+        ]
+    },
+    {
+        "nombre": "Shin Tennis No Oujisama U 17 World Cup Kesshou Member Ketteisen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4443.jpg",
+        "link": "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/",
+        "episodios": [
+            "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/2"
+        ]
+    },
+    {
+        "nombre": "Magic Knight Rayearth 2026",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4483.jpg",
+        "link": "https://animeav1.com/media/magic-knight-rayearth-2026/",
+        "episodios": [
+            "https://animeav1.com/media/magic-knight-rayearth-2026/1"
+        ]
+    },
+    {
+        "nombre": "Sekai Saikyou No Majo Hajimemashita",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4482.jpg",
+        "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
+        "episodios": [
+            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/1"
+        ]
+    },
+    {
+        "nombre": "Tantei Wa Mou Shindeiru Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4480.jpg",
+        "link": "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/1"
+        ]
+    },
+    {
+        "nombre": "Sasaki To Pii Chan Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4481.jpg",
+        "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/sasaki-to-pii-chan-season-2/1"
+        ]
+    },
+    {
         "nombre": "Sora Wa Akai Kawa No Hotori",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -130,63 +190,13 @@
         ]
     },
     {
-        "nombre": "Tensei Kizoku Kantei Skill De Nariagaru 3Rd Season",
+        "nombre": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4440.jpg",
-        "link": "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/",
+        "imagen": "https://cdn.animeav1.com/covers/4485.jpg",
+        "link": "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/",
         "episodios": [
-            "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/2"
-        ]
-    },
-    {
-        "nombre": "Yowaki Max Reijou Nanoni Ratsuwan Konyakusha Sama No Kake Ni Notte Shimatta",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4466.jpg",
-        "link": "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/",
-        "episodios": [
-            "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/1"
-        ]
-    },
-    {
-        "nombre": "Ojisan Wa Kawaii Mono Ga Osuki",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4464.jpg",
-        "link": "https://animeav1.com/media/ojisan-wa-kawaii-mono-ga-osuki/",
-        "episodios": [
-            "https://animeav1.com/media/ojisan-wa-kawaii-mono-ga-osuki/1"
-        ]
-    },
-    {
-        "nombre": "Mezametara Saikyou Soubi To Uchuusenmochi Datta Node Ikkodate Mezashite Youhei Toshite Jiyuu Ni Ikitai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4465.jpg",
-        "link": "https://animeav1.com/media/mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai/",
-        "episodios": [
-            "https://animeav1.com/media/mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai/1"
-        ]
-    },
-    {
-        "nombre": "Tempal Item No Chikara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4439.jpg",
-        "link": "https://animeav1.com/media/tempal-item-no-chikara/",
-        "episodios": [
-            "https://animeav1.com/media/tempal-item-no-chikara/2"
-        ]
-    },
-    {
-        "nombre": "Tank Chair",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4463.jpg",
-        "link": "https://animeav1.com/media/tank-chair/",
-        "episodios": [
-            "https://animeav1.com/media/tank-chair/1"
+            "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
         ]
     },
     {
@@ -200,33 +210,13 @@
         ]
     },
     {
-        "nombre": "Ao Ashi Season 2",
+        "nombre": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4462.jpg",
-        "link": "https://animeav1.com/media/ao-ashi-season-2/",
+        "imagen": "https://cdn.animeav1.com/covers/4466.jpg",
+        "link": "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/",
         "episodios": [
-            "https://animeav1.com/media/ao-ashi-season-2"
-        ]
-    },
-    {
-        "nombre": "Ao no Hako Season 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4461.jpg",
-        "link": "https://animeav1.com/media/ao-no-hako-season-2/",
-        "episodios": [
-            "https://animeav1.com/media/ao-no-hako-season-2"
-        ]
-    },
-    {
-        "nombre": "Seitokai ni mo Ana wa Aru!",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4460.jpg",
-        "link": "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/",
-        "episodios": [
-            "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru"
+            "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta"
         ]
     }
 ]
