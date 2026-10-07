@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Sora Wa Akai Kawa No Hotori",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4412.jpg",
+        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
+        "episodios": [
+            "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/14"
+        ]
+    },
+    {
         "nombre": "Kyouran Reijou Nia Liston Byoujaku Reijou Ni Tensei Shita Kamigoroshi No Bujin No Karei Naru Musouroku",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -180,16 +190,6 @@
         ]
     },
     {
-        "nombre": "Ao Ashi Season 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4462.jpg",
-        "link": "https://animeav1.com/media/ao-ashi-season-2/",
-        "episodios": [
-            "https://animeav1.com/media/ao-ashi-season-2/1"
-        ]
-    },
-    {
         "nombre": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -197,6 +197,16 @@
         "link": "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu/",
         "episodios": [
             "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu"
+        ]
+    },
+    {
+        "nombre": "Ao Ashi Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4462.jpg",
+        "link": "https://animeav1.com/media/ao-ashi-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/ao-ashi-season-2"
         ]
     },
     {
