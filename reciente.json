@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "Hyouken No Majutsushi Ga Sekai Wo Suberu Ii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4487.jpg",
+        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
+        "episodios": [
+            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/1"
+        ]
+    },
+    {
+        "nombre": "Tsuihou Sareta Tensei Juukishi Wa Game Chishiki De Musou Suru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4375.jpg",
+        "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
+        "episodios": [
+            "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/15"
+        ]
+    },
+    {
+        "nombre": "Koori No Jouheki 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4445.jpg",
+        "link": "https://animeav1.com/media/koori-no-jouheki-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/koori-no-jouheki-2nd-season/2"
+        ]
+    },
+    {
+        "nombre": "Fx Senshi Kurumi Chan",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4444.jpg",
+        "link": "https://animeav1.com/media/fx-senshi-kurumi-chan/",
+        "episodios": [
+            "https://animeav1.com/media/fx-senshi-kurumi-chan/2"
+        ]
+    },
+    {
         "nombre": "Tensei Shitara Ken Deshita Ii",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -160,33 +200,33 @@
         ]
     },
     {
-        "nombre": "Doumo Suki Na Hito Ni Horegusuri Wo Irai Sareta Majo Desu",
+        "nombre": "Tetsuryou! Meet with Tetsudou Musume",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4472.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4486.jpg",
+        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
+        "episodios": [
+            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume"
+        ]
+    },
+    {
+        "nombre": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4472.jpg",
         "link": "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/",
         "episodios": [
-            "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/1"
+            "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu"
         ]
     },
     {
-        "nombre": "Tensei Goblin Dakedo Shitsumon Aru",
+        "nombre": "Tensei Goblin dakedo Shitsumon Aru?",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4471.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4471.jpg",
         "link": "https://animeav1.com/media/tensei-goblin-dakedo-shitsumon-aru/",
         "episodios": [
-            "https://animeav1.com/media/tensei-goblin-dakedo-shitsumon-aru/2"
-        ]
-    },
-    {
-        "nombre": "Dark Summoner To Dekiteiru",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4469.jpg",
-        "link": "https://animeav1.com/media/dark-summoner-to-dekiteiru/",
-        "episodios": [
-            "https://animeav1.com/media/dark-summoner-to-dekiteiru/1"
+            "https://animeav1.com/media/tensei-goblin-dakedo-shitsumon-aru"
         ]
     },
     {
@@ -200,6 +240,16 @@
         ]
     },
     {
+        "nombre": "Dark Summoner to Dekiteiru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4469.jpg",
+        "link": "https://animeav1.com/media/dark-summoner-to-dekiteiru/",
+        "episodios": [
+            "https://animeav1.com/media/dark-summoner-to-dekiteiru"
+        ]
+    },
+    {
         "nombre": "Kanata kara",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -207,26 +257,6 @@
         "link": "https://animeav1.com/media/kanata-kara/",
         "episodios": [
             "https://animeav1.com/media/kanata-kara"
-        ]
-    },
-    {
-        "nombre": "Hotel Inhumans 2nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4467.jpg",
-        "link": "https://animeav1.com/media/hotel-inhumans-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/hotel-inhumans-2nd-season"
-        ]
-    },
-    {
-        "nombre": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4466.jpg",
-        "link": "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/",
-        "episodios": [
-            "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta"
         ]
     }
 ]
