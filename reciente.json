@@ -1,5 +1,25 @@
 [
     {
+        "nombre": "Tensei Shitara Ken Deshita Ii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4442.jpg",
+        "link": "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/2"
+        ]
+    },
+    {
+        "nombre": "Kikansha No Mahou Wa Tokubetsu Desu 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4485.jpg",
+        "link": "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/1"
+        ]
+    },
+    {
         "nombre": "Juuou Mujin Dandivine",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -170,36 +190,6 @@
         ]
     },
     {
-        "nombre": "Kanata Kara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4468.jpg",
-        "link": "https://animeav1.com/media/kanata-kara/",
-        "episodios": [
-            "https://animeav1.com/media/kanata-kara/1"
-        ]
-    },
-    {
-        "nombre": "Hotel Inhumans 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4467.jpg",
-        "link": "https://animeav1.com/media/hotel-inhumans-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/hotel-inhumans-2nd-season/1"
-        ]
-    },
-    {
-        "nombre": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4485.jpg",
-        "link": "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
-        ]
-    },
-    {
         "nombre": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -207,6 +197,26 @@
         "link": "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu/",
         "episodios": [
             "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu"
+        ]
+    },
+    {
+        "nombre": "Kanata kara",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4468.jpg",
+        "link": "https://animeav1.com/media/kanata-kara/",
+        "episodios": [
+            "https://animeav1.com/media/kanata-kara"
+        ]
+    },
+    {
+        "nombre": "Hotel Inhumans 2nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4467.jpg",
+        "link": "https://animeav1.com/media/hotel-inhumans-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/hotel-inhumans-2nd-season"
         ]
     },
     {
