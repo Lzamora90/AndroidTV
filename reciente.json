@@ -1,5 +1,25 @@
 [
     {
+        "nombre": "Shiguang Dailiren Iii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4434.jpg",
+        "link": "https://animeav1.com/media/shiguang-dailiren-iii/",
+        "episodios": [
+            "https://animeav1.com/media/shiguang-dailiren-iii/10"
+        ]
+    },
+    {
+        "nombre": "Tetsuryou Meet With Tetsudou Musume",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4486.jpg",
+        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
+        "episodios": [
+            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/1"
+        ]
+    },
+    {
         "nombre": "Hyouken No Majutsushi Ga Sekai Wo Suberu Ii",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -180,33 +200,23 @@
         ]
     },
     {
-        "nombre": "Mahou Shoujo Ikusei Keikaku Restart",
+        "nombre": "Mahou Shoujo Ikusei Keikaku: Restart",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4474.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4474.jpg",
         "link": "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/",
         "episodios": [
-            "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/1"
+            "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart"
         ]
     },
     {
         "nombre": "Psyren",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4473.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4473.jpg",
         "link": "https://animeav1.com/media/psyren/",
         "episodios": [
-            "https://animeav1.com/media/psyren/1"
-        ]
-    },
-    {
-        "nombre": "Tetsuryou! Meet with Tetsudou Musume",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4486.jpg",
-        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
-        "episodios": [
-            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume"
+            "https://animeav1.com/media/psyren"
         ]
     },
     {
