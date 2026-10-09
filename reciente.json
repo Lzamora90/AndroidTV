@@ -1,5 +1,75 @@
 [
     {
+        "nombre": "Uchi No Otouto Domo Ga Sumimasen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4382.jpg",
+        "link": "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/",
+        "episodios": [
+            "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/14"
+        ]
+    },
+    {
+        "nombre": "Tougen Anki Nikko Kegon No Taki Hen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4448.jpg",
+        "link": "https://animeav1.com/media/tougen-anki-nikko-kegon-no-taki-hen/",
+        "episodios": [
+            "https://animeav1.com/media/tougen-anki-nikko-kegon-no-taki-hen/2"
+        ]
+    },
+    {
+        "nombre": "Hotaru No Yomeiri",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4489.jpg",
+        "link": "https://animeav1.com/media/hotaru-no-yomeiri/",
+        "episodios": [
+            "https://animeav1.com/media/hotaru-no-yomeiri/1"
+        ]
+    },
+    {
+        "nombre": "Toaru Anbu No Item",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4488.jpg",
+        "link": "https://animeav1.com/media/toaru-anbu-no-item/",
+        "episodios": [
+            "https://animeav1.com/media/toaru-anbu-no-item/1"
+        ]
+    },
+    {
+        "nombre": "Kusuriya No Hitorigoto 3Rd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4447.jpg",
+        "link": "https://animeav1.com/media/kusuriya-no-hitorigoto-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/kusuriya-no-hitorigoto-3rd-season/2"
+        ]
+    },
+    {
+        "nombre": "Steel Ball Run Jojo No Kimyou Na Bouken",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/3833.jpg",
+        "link": "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/",
+        "episodios": [
+            "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/4"
+        ]
+    },
+    {
+        "nombre": "Tokyo Revengers Santen Sensou Hen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4446.jpg",
+        "link": "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/",
+        "episodios": [
+            "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/2"
+        ]
+    },
+    {
         "nombre": "Shiguang Dailiren Iii",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -130,73 +200,63 @@
         ]
     },
     {
-        "nombre": "Sasaki To Pii Chan Season 2",
+        "nombre": "Sasaki to Pii-chan Season 2",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4481.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4481.jpg",
         "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
         "episodios": [
-            "https://animeav1.com/media/sasaki-to-pii-chan-season-2/1"
+            "https://animeav1.com/media/sasaki-to-pii-chan-season-2"
         ]
     },
     {
-        "nombre": "Sora Wa Akai Kawa No Hotori",
+        "nombre": "Battle Spirits [Re]: Zekkai no Kuu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4412.jpg",
-        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
-        "episodios": [
-            "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/14"
-        ]
-    },
-    {
-        "nombre": "Kyouran Reijou Nia Liston Byoujaku Reijou Ni Tensei Shita Kamigoroshi No Bujin No Karei Naru Musouroku",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4475.jpg",
-        "link": "https://animeav1.com/media/kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku/",
-        "episodios": [
-            "https://animeav1.com/media/kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku/1"
-        ]
-    },
-    {
-        "nombre": "Tsuihou Sareta Cheat Fuyo Majutsushi Wa Kimama Na Second Life Wo Ouka Suru Ore Wa Buki Dake Ja Naku Arayuru Mono Ni Kyouka Point Wo Fuyo Dekiru Shi Ore No Ishi De Itsudemo Kouka Wo Kaijo Dekiru Kedo Nokotta Hitotachi Daijoubu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4477.jpg",
-        "link": "https://animeav1.com/media/tsuihou-sareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-ouka-suru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hitotachi-daijoubu/",
-        "episodios": [
-            "https://animeav1.com/media/tsuihou-sareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-ouka-suru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hitotachi-daijoubu/1"
-        ]
-    },
-    {
-        "nombre": "Battle Spirits Re Zekkai No Kuu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4479.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4479.jpg",
         "link": "https://animeav1.com/media/battle-spirits-re-zekkai-no-kuu/",
         "episodios": [
-            "https://animeav1.com/media/battle-spirits-re-zekkai-no-kuu/1"
+            "https://animeav1.com/media/battle-spirits-re-zekkai-no-kuu"
         ]
     },
     {
-        "nombre": "Choujun Choujou Senpai",
+        "nombre": "Choujun! Choujou-senpai",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4478.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4478.jpg",
         "link": "https://animeav1.com/media/choujun-choujou-senpai/",
         "episodios": [
-            "https://animeav1.com/media/choujun-choujou-senpai/1"
+            "https://animeav1.com/media/choujun-choujou-senpai"
         ]
     },
     {
-        "nombre": "Shiotaiou No Satou San Ga Ore Ni Dake Amai",
+        "nombre": "Chii Fuyo",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4476.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4477.jpg",
+        "link": "https://animeav1.com/media/tsuihou-sareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-ouka-suru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hitotachi-daijoubu/",
+        "episodios": [
+            "https://animeav1.com/media/tsuihou-sareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-ouka-suru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hitotachi-daijoubu"
+        ]
+    },
+    {
+        "nombre": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4476.jpg",
         "link": "https://animeav1.com/media/shiotaiou-no-satou-san-ga-ore-ni-dake-amai/",
         "episodios": [
-            "https://animeav1.com/media/shiotaiou-no-satou-san-ga-ore-ni-dake-amai/1"
+            "https://animeav1.com/media/shiotaiou-no-satou-san-ga-ore-ni-dake-amai"
+        ]
+    },
+    {
+        "nombre": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4475.jpg",
+        "link": "https://animeav1.com/media/kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku/",
+        "episodios": [
+            "https://animeav1.com/media/kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku"
         ]
     },
     {
@@ -247,26 +307,6 @@
         "link": "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu/",
         "episodios": [
             "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu"
-        ]
-    },
-    {
-        "nombre": "Dark Summoner to Dekiteiru",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4469.jpg",
-        "link": "https://animeav1.com/media/dark-summoner-to-dekiteiru/",
-        "episodios": [
-            "https://animeav1.com/media/dark-summoner-to-dekiteiru"
-        ]
-    },
-    {
-        "nombre": "Kanata kara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4468.jpg",
-        "link": "https://animeav1.com/media/kanata-kara/",
-        "episodios": [
-            "https://animeav1.com/media/kanata-kara"
         ]
     }
 ]
