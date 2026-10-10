@@ -1,5 +1,85 @@
 [
     {
+        "nombre": "Vertex Force",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4452.jpg",
+        "link": "https://animeav1.com/media/vertex-force/",
+        "episodios": [
+            "https://animeav1.com/media/vertex-force/2"
+        ]
+    },
+    {
+        "nombre": "Marronnier Oukoku No Shichinin No Kishi",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4457.jpg",
+        "link": "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/",
+        "episodios": [
+            "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/2"
+        ]
+    },
+    {
+        "nombre": "Black Clover 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4454.jpg",
+        "link": "https://animeav1.com/media/black-clover-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/black-clover-2nd-season/2"
+        ]
+    },
+    {
+        "nombre": "Zombie Sagashitemasu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4455.jpg",
+        "link": "https://animeav1.com/media/zombie-sagashitemasu/",
+        "episodios": [
+            "https://animeav1.com/media/zombie-sagashitemasu/2"
+        ]
+    },
+    {
+        "nombre": "Yasei No Last Boss Ga Arawareta 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4438.jpg",
+        "link": "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/3"
+        ]
+    },
+    {
+        "nombre": "Romelia Senki",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4450.jpg",
+        "link": "https://animeav1.com/media/romelia-senki/",
+        "episodios": [
+            "https://animeav1.com/media/romelia-senki/2"
+        ]
+    },
+    {
+        "nombre": "Tensei Shita Daiseijo Wa Seijo De Aru Koto Wo Hitakakusu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4451.jpg",
+        "link": "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/3"
+        ]
+    },
+    {
+        "nombre": "Shuiro No Kamen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4490.jpg",
+        "link": "https://animeav1.com/media/shuiro-no-kamen/",
+        "episodios": [
+            "https://animeav1.com/media/shuiro-no-kamen/1"
+        ]
+    },
+    {
         "nombre": "Keroro Gunsou",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -120,83 +200,53 @@
         ]
     },
     {
-        "nombre": "Koori No Jouheki 2Nd Season",
+        "nombre": "Kyoufu Collector",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4445.jpg",
-        "link": "https://animeav1.com/media/koori-no-jouheki-2nd-season/",
+        "imagen": "https://cdn.animeav1.com/covers/4491.jpg",
+        "link": "https://animeav1.com/media/kyoufu-collector/",
         "episodios": [
-            "https://animeav1.com/media/koori-no-jouheki-2nd-season/2"
+            "https://animeav1.com/media/kyoufu-collector"
         ]
     },
     {
-        "nombre": "Fx Senshi Kurumi Chan",
+        "nombre": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4444.jpg",
-        "link": "https://animeav1.com/media/fx-senshi-kurumi-chan/",
-        "episodios": [
-            "https://animeav1.com/media/fx-senshi-kurumi-chan/2"
-        ]
-    },
-    {
-        "nombre": "Tensei Shitara Ken Deshita Ii",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4442.jpg",
-        "link": "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/2"
-        ]
-    },
-    {
-        "nombre": "Kikansha No Mahou Wa Tokubetsu Desu 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4485.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4485.jpg",
         "link": "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/",
         "episodios": [
-            "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/1"
+            "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
         ]
     },
     {
         "nombre": "Juuou Mujin Dandivine",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4484.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4484.jpg",
         "link": "https://animeav1.com/media/juuou-mujin-dandivine/",
         "episodios": [
-            "https://animeav1.com/media/juuou-mujin-dandivine/1"
+            "https://animeav1.com/media/juuou-mujin-dandivine"
         ]
     },
     {
-        "nombre": "Shin Tennis No Oujisama U 17 World Cup Kesshou Member Ketteisen",
+        "nombre": "Magic Knight Rayearth (2026)",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4443.jpg",
-        "link": "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/",
-        "episodios": [
-            "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/2"
-        ]
-    },
-    {
-        "nombre": "Magic Knight Rayearth 2026",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4483.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4483.jpg",
         "link": "https://animeav1.com/media/magic-knight-rayearth-2026/",
         "episodios": [
-            "https://animeav1.com/media/magic-knight-rayearth-2026/1"
+            "https://animeav1.com/media/magic-knight-rayearth-2026"
         ]
     },
     {
-        "nombre": "Sekai Saikyou No Majo Hajimemashita",
+        "nombre": "Sekai Saikyou no Majo, Hajimemashita",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4482.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4482.jpg",
         "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
         "episodios": [
-            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/1"
+            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita"
         ]
     },
     {
@@ -297,26 +347,6 @@
         "link": "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/",
         "episodios": [
             "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu"
-        ]
-    },
-    {
-        "nombre": "Tensei Goblin dakedo Shitsumon Aru?",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4471.jpg",
-        "link": "https://animeav1.com/media/tensei-goblin-dakedo-shitsumon-aru/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-goblin-dakedo-shitsumon-aru"
-        ]
-    },
-    {
-        "nombre": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4470.jpg",
-        "link": "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu/",
-        "episodios": [
-            "https://animeav1.com/media/mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu"
         ]
     }
 ]
