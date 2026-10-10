@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Keroro Gunsou",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4449.jpg",
+        "link": "https://animeav1.com/media/keroro-gunsou/",
+        "episodios": [
+            "https://animeav1.com/media/keroro-gunsou/2"
+        ]
+    },
+    {
         "nombre": "Uchi No Otouto Domo Ga Sumimasen",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -190,16 +200,6 @@
         ]
     },
     {
-        "nombre": "Tantei Wa Mou Shindeiru Season 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4480.jpg",
-        "link": "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/",
-        "episodios": [
-            "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/1"
-        ]
-    },
-    {
         "nombre": "Sasaki to Pii-chan Season 2",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -207,6 +207,16 @@
         "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
         "episodios": [
             "https://animeav1.com/media/sasaki-to-pii-chan-season-2"
+        ]
+    },
+    {
+        "nombre": "Tantei wa Mou, Shindeiru. Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4480.jpg",
+        "link": "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2"
         ]
     },
     {
