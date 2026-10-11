@@ -1,5 +1,55 @@
 [
     {
+        "nombre": "Seitokai Ni Mo Ana Wa Aru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4460.jpg",
+        "link": "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/",
+        "episodios": [
+            "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/2"
+        ]
+    },
+    {
+        "nombre": "Kashita Maryoku Wa Revo Barai De Kyousei Choushuu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4458.jpg",
+        "link": "https://animeav1.com/media/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/",
+        "episodios": [
+            "https://animeav1.com/media/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/2"
+        ]
+    },
+    {
+        "nombre": "Kyoufu Collector",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4491.jpg",
+        "link": "https://animeav1.com/media/kyoufu-collector/",
+        "episodios": [
+            "https://animeav1.com/media/kyoufu-collector/1"
+        ]
+    },
+    {
+        "nombre": "Ranma 2024 3Rd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4456.jpg",
+        "link": "https://animeav1.com/media/ranma-2024-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/ranma-2024-3rd-season/2"
+        ]
+    },
+    {
+        "nombre": "Magicalexplorer",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4453.jpg",
+        "link": "https://animeav1.com/media/magicalexplorer/",
+        "episodios": [
+            "https://animeav1.com/media/magicalexplorer/3"
+        ]
+    },
+    {
         "nombre": "Vertex Force",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -150,63 +200,23 @@
         ]
     },
     {
-        "nombre": "Tokyo Revengers Santen Sensou Hen",
+        "nombre": "Hyouken no Majutsushi ga Sekai wo Suberu II",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4446.jpg",
-        "link": "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/",
-        "episodios": [
-            "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/2"
-        ]
-    },
-    {
-        "nombre": "Shiguang Dailiren Iii",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4434.jpg",
-        "link": "https://animeav1.com/media/shiguang-dailiren-iii/",
-        "episodios": [
-            "https://animeav1.com/media/shiguang-dailiren-iii/10"
-        ]
-    },
-    {
-        "nombre": "Tetsuryou Meet With Tetsudou Musume",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4486.jpg",
-        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
-        "episodios": [
-            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/1"
-        ]
-    },
-    {
-        "nombre": "Hyouken No Majutsushi Ga Sekai Wo Suberu Ii",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4487.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4487.jpg",
         "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
         "episodios": [
-            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/1"
+            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
         ]
     },
     {
-        "nombre": "Tsuihou Sareta Tensei Juukishi Wa Game Chishiki De Musou Suru",
+        "nombre": "Tetsuryou! Meet with Tetsudou Musume",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4375.jpg",
-        "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
+        "imagen": "https://cdn.animeav1.com/covers/4486.jpg",
+        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
         "episodios": [
-            "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/15"
-        ]
-    },
-    {
-        "nombre": "Kyoufu Collector",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4491.jpg",
-        "link": "https://animeav1.com/media/kyoufu-collector/",
-        "episodios": [
-            "https://animeav1.com/media/kyoufu-collector"
+            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume"
         ]
     },
     {
