@@ -1,5 +1,35 @@
 [
     {
+        "nombre": "Psyren",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4473.jpg",
+        "link": "https://animeav1.com/media/psyren/",
+        "episodios": [
+            "https://animeav1.com/media/psyren/2"
+        ]
+    },
+    {
+        "nombre": "Tensei Goblin Dakedo Shitsumon Aru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4471.jpg",
+        "link": "https://animeav1.com/media/tensei-goblin-dakedo-shitsumon-aru/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-goblin-dakedo-shitsumon-aru/3"
+        ]
+    },
+    {
+        "nombre": "Doumo Suki Na Hito Ni Horegusuri Wo Irai Sareta Majo Desu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4472.jpg",
+        "link": "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/",
+        "episodios": [
+            "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/2"
+        ]
+    },
+    {
         "nombre": "Dark Summoner To Dekiteiru",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -173,30 +203,10 @@
         "nombre": "Kyoufu Collector",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4491.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4491.jpg",
         "link": "https://animeav1.com/media/kyoufu-collector/",
         "episodios": [
-            "https://animeav1.com/media/kyoufu-collector/1"
-        ]
-    },
-    {
-        "nombre": "Ranma 2024 3Rd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4456.jpg",
-        "link": "https://animeav1.com/media/ranma-2024-3rd-season/",
-        "episodios": [
-            "https://animeav1.com/media/ranma-2024-3rd-season/2"
-        ]
-    },
-    {
-        "nombre": "Magicalexplorer",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4453.jpg",
-        "link": "https://animeav1.com/media/magicalexplorer/",
-        "episodios": [
-            "https://animeav1.com/media/magicalexplorer/3"
+            "https://animeav1.com/media/kyoufu-collector"
         ]
     },
     {
