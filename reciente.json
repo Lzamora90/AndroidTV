@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Dark Summoner To Dekiteiru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4469.jpg",
+        "link": "https://animeav1.com/media/dark-summoner-to-dekiteiru/",
+        "episodios": [
+            "https://animeav1.com/media/dark-summoner-to-dekiteiru/2"
+        ]
+    },
+    {
         "nombre": "Kanata Kara",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -187,16 +197,6 @@
         "link": "https://animeav1.com/media/magicalexplorer/",
         "episodios": [
             "https://animeav1.com/media/magicalexplorer/3"
-        ]
-    },
-    {
-        "nombre": "Vertex Force",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4452.jpg",
-        "link": "https://animeav1.com/media/vertex-force/",
-        "episodios": [
-            "https://animeav1.com/media/vertex-force/2"
         ]
     },
     {
