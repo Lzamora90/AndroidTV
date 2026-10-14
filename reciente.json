@@ -1,5 +1,25 @@
 [
     {
+        "nombre": "Dark Machine The Animation",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4497.jpg",
+        "link": "https://animeav1.com/media/dark-machine-the-animation/",
+        "episodios": [
+            "https://animeav1.com/media/dark-machine-the-animation/1"
+        ]
+    },
+    {
+        "nombre": "Gensou Suikoden",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4459.jpg",
+        "link": "https://animeav1.com/media/gensou-suikoden/",
+        "episodios": [
+            "https://animeav1.com/media/gensou-suikoden/2"
+        ]
+    },
+    {
         "nombre": "Sora Wa Akai Kawa No Hotori",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -177,36 +197,6 @@
         "link": "https://animeav1.com/media/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku/",
         "episodios": [
             "https://animeav1.com/media/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku/1"
-        ]
-    },
-    {
-        "nombre": "Yowaki Max Reijou Nanoni Ratsuwan Konyakusha Sama No Kake Ni Notte Shimatta",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4466.jpg",
-        "link": "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/",
-        "episodios": [
-            "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/2"
-        ]
-    },
-    {
-        "nombre": "Tempal Item No Chikara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4439.jpg",
-        "link": "https://animeav1.com/media/tempal-item-no-chikara/",
-        "episodios": [
-            "https://animeav1.com/media/tempal-item-no-chikara/3"
-        ]
-    },
-    {
-        "nombre": "Dark Machine: The Animation",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4497.jpg",
-        "link": "https://animeav1.com/media/dark-machine-the-animation/",
-        "episodios": [
-            "https://animeav1.com/media/dark-machine-the-animation"
         ]
     },
     {
