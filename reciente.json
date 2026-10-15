@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "Kikansha No Mahou Wa Tokubetsu Desu 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4485.jpg",
+        "link": "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/2"
+        ]
+    },
+    {
+        "nombre": "Juuou Mujin Dandivine",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4484.jpg",
+        "link": "https://animeav1.com/media/juuou-mujin-dandivine/",
+        "episodios": [
+            "https://animeav1.com/media/juuou-mujin-dandivine/2"
+        ]
+    },
+    {
+        "nombre": "Tensei Shitara Ken Deshita Ii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4442.jpg",
+        "link": "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/3"
+        ]
+    },
+    {
+        "nombre": "Shin Tennis No Oujisama U 17 World Cup Kesshou Member Ketteisen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4443.jpg",
+        "link": "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/",
+        "episodios": [
+            "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/3"
+        ]
+    },
+    {
         "nombre": "Magic Knight Rayearth 2026",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -160,43 +200,13 @@
         ]
     },
     {
-        "nombre": "Doumo Suki Na Hito Ni Horegusuri Wo Irai Sareta Majo Desu",
+        "nombre": "Dragon Ball Super: Beerus",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4472.jpg",
-        "link": "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/",
-        "episodios": [
-            "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/2"
-        ]
-    },
-    {
-        "nombre": "Dark Summoner To Dekiteiru",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4469.jpg",
-        "link": "https://animeav1.com/media/dark-summoner-to-dekiteiru/",
-        "episodios": [
-            "https://animeav1.com/media/dark-summoner-to-dekiteiru/2"
-        ]
-    },
-    {
-        "nombre": "Kanata Kara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4468.jpg",
-        "link": "https://animeav1.com/media/kanata-kara/",
-        "episodios": [
-            "https://animeav1.com/media/kanata-kara/2"
-        ]
-    },
-    {
-        "nombre": "Dragon Ball Super Beerus",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4495.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4495.jpg",
         "link": "https://animeav1.com/media/dragon-ball-super-beerus/",
         "episodios": [
-            "https://animeav1.com/media/dragon-ball-super-beerus/1"
+            "https://animeav1.com/media/dragon-ball-super-beerus"
         ]
     },
     {
@@ -287,26 +297,6 @@
         "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
         "episodios": [
             "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume"
-        ]
-    },
-    {
-        "nombre": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4485.jpg",
-        "link": "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
-        ]
-    },
-    {
-        "nombre": "Juuou Mujin Dandivine",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4484.jpg",
-        "link": "https://animeav1.com/media/juuou-mujin-dandivine/",
-        "episodios": [
-            "https://animeav1.com/media/juuou-mujin-dandivine"
         ]
     }
 ]
