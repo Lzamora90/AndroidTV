@@ -1,5 +1,55 @@
 [
     {
+        "nombre": "Toaru Anbu No Item",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4488.jpg",
+        "link": "https://animeav1.com/media/toaru-anbu-no-item/",
+        "episodios": [
+            "https://animeav1.com/media/toaru-anbu-no-item/2"
+        ]
+    },
+    {
+        "nombre": "Kusuriya No Hitorigoto 3Rd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4447.jpg",
+        "link": "https://animeav1.com/media/kusuriya-no-hitorigoto-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/kusuriya-no-hitorigoto-3rd-season/3"
+        ]
+    },
+    {
+        "nombre": "Steel Ball Run Jojo No Kimyou Na Bouken",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/3833.jpg",
+        "link": "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/",
+        "episodios": [
+            "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/5"
+        ]
+    },
+    {
+        "nombre": "Tokyo Revengers Santen Sensou Hen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4446.jpg",
+        "link": "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/",
+        "episodios": [
+            "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/3"
+        ]
+    },
+    {
+        "nombre": "Shiguang Dailiren Iii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4434.jpg",
+        "link": "https://animeav1.com/media/shiguang-dailiren-iii/",
+        "episodios": [
+            "https://animeav1.com/media/shiguang-dailiren-iii/11"
+        ]
+    },
+    {
         "nombre": "Tetsuryou Meet With Tetsudou Musume",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -150,53 +200,13 @@
         ]
     },
     {
-        "nombre": "Sora Wa Akai Kawa No Hotori",
+        "nombre": "Chitose-kun wa Ramune Bin no Naka Part 2",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4412.jpg",
-        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
-        "episodios": [
-            "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/15"
-        ]
-    },
-    {
-        "nombre": "Mahou Shoujo Ikusei Keikaku Restart",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4474.jpg",
-        "link": "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/",
-        "episodios": [
-            "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/2"
-        ]
-    },
-    {
-        "nombre": "Chitose Kun Wa Ramune Bin No Naka Part 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4496.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4496.jpg",
         "link": "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2/",
         "episodios": [
-            "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2/1"
-        ]
-    },
-    {
-        "nombre": "Tsuihou Sareta Cheat Fuyo Majutsushi Wa Kimama Na Second Life Wo Ouka Suru Ore Wa Buki Dake Ja Naku Arayuru Mono Ni Kyouka Point Wo Fuyo Dekiru Shi Ore No Ishi De Itsudemo Kouka Wo Kaijo Dekiru Kedo Nokotta Hitotachi Daijoubu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4477.jpg",
-        "link": "https://animeav1.com/media/tsuihou-sareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-ouka-suru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hitotachi-daijoubu/",
-        "episodios": [
-            "https://animeav1.com/media/tsuihou-sareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-ouka-suru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hitotachi-daijoubu/2"
-        ]
-    },
-    {
-        "nombre": "Kyouran Reijou Nia Liston Byoujaku Reijou Ni Tensei Shita Kamigoroshi No Bujin No Karei Naru Musouroku",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4475.jpg",
-        "link": "https://animeav1.com/media/kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku/",
-        "episodios": [
-            "https://animeav1.com/media/kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku/2"
+            "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2"
         ]
     },
     {
@@ -267,16 +277,6 @@
         "link": "https://animeav1.com/media/hotaru-no-yomeiri/",
         "episodios": [
             "https://animeav1.com/media/hotaru-no-yomeiri"
-        ]
-    },
-    {
-        "nombre": "Toaru Anbu no Item",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4488.jpg",
-        "link": "https://animeav1.com/media/toaru-anbu-no-item/",
-        "episodios": [
-            "https://animeav1.com/media/toaru-anbu-no-item"
         ]
     },
     {
