@@ -1,5 +1,35 @@
 [
     {
+        "nombre": "Tetsuryou Meet With Tetsudou Musume",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4486.jpg",
+        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
+        "episodios": [
+            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/2"
+        ]
+    },
+    {
+        "nombre": "Hyouken No Majutsushi Ga Sekai Wo Suberu Ii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4487.jpg",
+        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
+        "episodios": [
+            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/2"
+        ]
+    },
+    {
+        "nombre": "Tsuihou Sareta Tensei Juukishi Wa Game Chishiki De Musou Suru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4375.jpg",
+        "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
+        "episodios": [
+            "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/16"
+        ]
+    },
+    {
         "nombre": "Koori No Jouheki 2Nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -170,36 +200,6 @@
         ]
     },
     {
-        "nombre": "Choujun Choujou Senpai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4478.jpg",
-        "link": "https://animeav1.com/media/choujun-choujou-senpai/",
-        "episodios": [
-            "https://animeav1.com/media/choujun-choujou-senpai/2"
-        ]
-    },
-    {
-        "nombre": "Battle Spirits Re Zekkai No Kuu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4479.jpg",
-        "link": "https://animeav1.com/media/battle-spirits-re-zekkai-no-kuu/",
-        "episodios": [
-            "https://animeav1.com/media/battle-spirits-re-zekkai-no-kuu/2"
-        ]
-    },
-    {
-        "nombre": "Shiotaiou No Satou San Ga Ore Ni Dake Amai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4476.jpg",
-        "link": "https://animeav1.com/media/shiotaiou-no-satou-san-ga-ore-ni-dake-amai/",
-        "episodios": [
-            "https://animeav1.com/media/shiotaiou-no-satou-san-ga-ore-ni-dake-amai/2"
-        ]
-    },
-    {
         "nombre": "Dragon Ball Super: Beerus",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -280,23 +280,23 @@
         ]
     },
     {
-        "nombre": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+        "nombre": "Battle Spirits [Re]: Zekkai no Kuu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4487.jpg",
-        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
+        "imagen": "https://cdn.animeav1.com/covers/4479.jpg",
+        "link": "https://animeav1.com/media/battle-spirits-re-zekkai-no-kuu/",
         "episodios": [
-            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
+            "https://animeav1.com/media/battle-spirits-re-zekkai-no-kuu"
         ]
     },
     {
-        "nombre": "Tetsuryou! Meet with Tetsudou Musume",
+        "nombre": "Choujun! Choujou-senpai",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4486.jpg",
-        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
+        "imagen": "https://cdn.animeav1.com/covers/4478.jpg",
+        "link": "https://animeav1.com/media/choujun-choujou-senpai/",
         "episodios": [
-            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume"
+            "https://animeav1.com/media/choujun-choujou-senpai"
         ]
     }
 ]
