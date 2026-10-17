@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "Keroro Gunsou",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4449.jpg",
+        "link": "https://animeav1.com/media/keroro-gunsou/",
+        "episodios": [
+            "https://animeav1.com/media/keroro-gunsou/3"
+        ]
+    },
+    {
+        "nombre": "Uchi No Otouto Domo Ga Sumimasen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4382.jpg",
+        "link": "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/",
+        "episodios": [
+            "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/15"
+        ]
+    },
+    {
+        "nombre": "Tougen Anki Nikko Kegon No Taki Hen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4448.jpg",
+        "link": "https://animeav1.com/media/tougen-anki-nikko-kegon-no-taki-hen/",
+        "episodios": [
+            "https://animeav1.com/media/tougen-anki-nikko-kegon-no-taki-hen/3"
+        ]
+    },
+    {
+        "nombre": "Hotaru No Yomeiri",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4489.jpg",
+        "link": "https://animeav1.com/media/hotaru-no-yomeiri/",
+        "episodios": [
+            "https://animeav1.com/media/hotaru-no-yomeiri/2"
+        ]
+    },
+    {
         "nombre": "Toaru Anbu No Item",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -160,43 +200,13 @@
         ]
     },
     {
-        "nombre": "Sekai Saikyou No Majo Hajimemashita",
+        "nombre": "Dark Machine: The Animation",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4482.jpg",
-        "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
-        "episodios": [
-            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/2"
-        ]
-    },
-    {
-        "nombre": "Sasaki To Pii Chan Season 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4481.jpg",
-        "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
-        "episodios": [
-            "https://animeav1.com/media/sasaki-to-pii-chan-season-2/2"
-        ]
-    },
-    {
-        "nombre": "Dark Machine The Animation",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4497.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4497.jpg",
         "link": "https://animeav1.com/media/dark-machine-the-animation/",
         "episodios": [
-            "https://animeav1.com/media/dark-machine-the-animation/1"
-        ]
-    },
-    {
-        "nombre": "Gensou Suikoden",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4459.jpg",
-        "link": "https://animeav1.com/media/gensou-suikoden/",
-        "episodios": [
-            "https://animeav1.com/media/gensou-suikoden/2"
+            "https://animeav1.com/media/dark-machine-the-animation"
         ]
     },
     {
@@ -270,13 +280,23 @@
         ]
     },
     {
-        "nombre": "Hotaru no Yomeiri",
+        "nombre": "Sekai Saikyou no Majo, Hajimemashita",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4489.jpg",
-        "link": "https://animeav1.com/media/hotaru-no-yomeiri/",
+        "imagen": "https://cdn.animeav1.com/covers/4482.jpg",
+        "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
         "episodios": [
-            "https://animeav1.com/media/hotaru-no-yomeiri"
+            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita"
+        ]
+    },
+    {
+        "nombre": "Sasaki to Pii-chan Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4481.jpg",
+        "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/sasaki-to-pii-chan-season-2"
         ]
     },
     {
