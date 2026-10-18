@@ -1,5 +1,95 @@
 [
     {
+        "nombre": "Seitokai Ni Mo Ana Wa Aru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4460.jpg",
+        "link": "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/",
+        "episodios": [
+            "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/3"
+        ]
+    },
+    {
+        "nombre": "Kashita Maryoku Wa Revo Barai De Kyousei Choushuu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4458.jpg",
+        "link": "https://animeav1.com/media/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/",
+        "episodios": [
+            "https://animeav1.com/media/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/3"
+        ]
+    },
+    {
+        "nombre": "Kyoufu Collector",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4491.jpg",
+        "link": "https://animeav1.com/media/kyoufu-collector/",
+        "episodios": [
+            "https://animeav1.com/media/kyoufu-collector/2"
+        ]
+    },
+    {
+        "nombre": "Ranma 2024 3Rd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4456.jpg",
+        "link": "https://animeav1.com/media/ranma-2024-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/ranma-2024-3rd-season/3"
+        ]
+    },
+    {
+        "nombre": "Magicalexplorer",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4453.jpg",
+        "link": "https://animeav1.com/media/magicalexplorer/",
+        "episodios": [
+            "https://animeav1.com/media/magicalexplorer/4"
+        ]
+    },
+    {
+        "nombre": "Vertex Force",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4452.jpg",
+        "link": "https://animeav1.com/media/vertex-force/",
+        "episodios": [
+            "https://animeav1.com/media/vertex-force/3"
+        ]
+    },
+    {
+        "nombre": "Marronnier Oukoku No Shichinin No Kishi",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4457.jpg",
+        "link": "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/",
+        "episodios": [
+            "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/3"
+        ]
+    },
+    {
+        "nombre": "Zombie Sagashitemasu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4455.jpg",
+        "link": "https://animeav1.com/media/zombie-sagashitemasu/",
+        "episodios": [
+            "https://animeav1.com/media/zombie-sagashitemasu/3"
+        ]
+    },
+    {
+        "nombre": "Black Clover 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4454.jpg",
+        "link": "https://animeav1.com/media/black-clover-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/black-clover-2nd-season/3"
+        ]
+    },
+    {
         "nombre": "Yasei No Last Boss Ga Arawareta 2Nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -110,96 +200,6 @@
         ]
     },
     {
-        "nombre": "Tokyo Revengers Santen Sensou Hen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4446.jpg",
-        "link": "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/",
-        "episodios": [
-            "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/3"
-        ]
-    },
-    {
-        "nombre": "Shiguang Dailiren Iii",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4434.jpg",
-        "link": "https://animeav1.com/media/shiguang-dailiren-iii/",
-        "episodios": [
-            "https://animeav1.com/media/shiguang-dailiren-iii/11"
-        ]
-    },
-    {
-        "nombre": "Tetsuryou Meet With Tetsudou Musume",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4486.jpg",
-        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
-        "episodios": [
-            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/2"
-        ]
-    },
-    {
-        "nombre": "Hyouken No Majutsushi Ga Sekai Wo Suberu Ii",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4487.jpg",
-        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
-        "episodios": [
-            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/2"
-        ]
-    },
-    {
-        "nombre": "Tsuihou Sareta Tensei Juukishi Wa Game Chishiki De Musou Suru",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4375.jpg",
-        "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
-        "episodios": [
-            "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/16"
-        ]
-    },
-    {
-        "nombre": "Koori No Jouheki 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4445.jpg",
-        "link": "https://animeav1.com/media/koori-no-jouheki-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/koori-no-jouheki-2nd-season/3"
-        ]
-    },
-    {
-        "nombre": "Fx Senshi Kurumi Chan",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4444.jpg",
-        "link": "https://animeav1.com/media/fx-senshi-kurumi-chan/",
-        "episodios": [
-            "https://animeav1.com/media/fx-senshi-kurumi-chan/3"
-        ]
-    },
-    {
-        "nombre": "Kikansha No Mahou Wa Tokubetsu Desu 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4485.jpg",
-        "link": "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/2"
-        ]
-    },
-    {
-        "nombre": "Juuou Mujin Dandivine",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4484.jpg",
-        "link": "https://animeav1.com/media/juuou-mujin-dandivine/",
-        "episodios": [
-            "https://animeav1.com/media/juuou-mujin-dandivine/2"
-        ]
-    },
-    {
         "nombre": "Dark Machine: The Animation",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -260,13 +260,43 @@
         ]
     },
     {
-        "nombre": "Kyoufu Collector",
+        "nombre": "Hyouken no Majutsushi ga Sekai wo Suberu II",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4491.jpg",
-        "link": "https://animeav1.com/media/kyoufu-collector/",
+        "imagen": "https://cdn.animeav1.com/covers/4487.jpg",
+        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
         "episodios": [
-            "https://animeav1.com/media/kyoufu-collector"
+            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
+        ]
+    },
+    {
+        "nombre": "Tetsuryou! Meet with Tetsudou Musume",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4486.jpg",
+        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
+        "episodios": [
+            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume"
+        ]
+    },
+    {
+        "nombre": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4485.jpg",
+        "link": "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season"
+        ]
+    },
+    {
+        "nombre": "Juuou Mujin Dandivine",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4484.jpg",
+        "link": "https://animeav1.com/media/juuou-mujin-dandivine/",
+        "episodios": [
+            "https://animeav1.com/media/juuou-mujin-dandivine"
         ]
     },
     {
