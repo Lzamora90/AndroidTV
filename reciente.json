@@ -1,5 +1,105 @@
 [
     {
+        "nombre": "Tank Chair",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4463.jpg",
+        "link": "https://animeav1.com/media/tank-chair/",
+        "episodios": [
+            "https://animeav1.com/media/tank-chair/3"
+        ]
+    },
+    {
+        "nombre": "Yowaki Max Reijou Nanoni Ratsuwan Konyakusha Sama No Kake Ni Notte Shimatta",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4466.jpg",
+        "link": "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/",
+        "episodios": [
+            "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/3"
+        ]
+    },
+    {
+        "nombre": "Tempal Item No Chikara",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4439.jpg",
+        "link": "https://animeav1.com/media/tempal-item-no-chikara/",
+        "episodios": [
+            "https://animeav1.com/media/tempal-item-no-chikara/4"
+        ]
+    },
+    {
+        "nombre": "Shinja Zero No Megami Sama To Hajimeru Isekai Kouryaku",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4494.jpg",
+        "link": "https://animeav1.com/media/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku/",
+        "episodios": [
+            "https://animeav1.com/media/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku/2"
+        ]
+    },
+    {
+        "nombre": "Ojisan Wa Kawaii Mono Ga Osuki",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4464.jpg",
+        "link": "https://animeav1.com/media/ojisan-wa-kawaii-mono-ga-osuki/",
+        "episodios": [
+            "https://animeav1.com/media/ojisan-wa-kawaii-mono-ga-osuki/3"
+        ]
+    },
+    {
+        "nombre": "Mezametara Saikyou Soubi To Uchuusenmochi Datta Node Ikkodate Mezashite Youhei Toshite Jiyuu Ni Ikitai",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4465.jpg",
+        "link": "https://animeav1.com/media/mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai/",
+        "episodios": [
+            "https://animeav1.com/media/mezametara-saikyou-soubi-to-uchuusenmochi-datta-node-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai/3"
+        ]
+    },
+    {
+        "nombre": "Ao Ashi Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4462.jpg",
+        "link": "https://animeav1.com/media/ao-ashi-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/ao-ashi-season-2/3"
+        ]
+    },
+    {
+        "nombre": "Diamond No Ace Act Ii Second Season Part 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4493.jpg",
+        "link": "https://animeav1.com/media/diamond-no-ace-act-ii-second-season-part-2/",
+        "episodios": [
+            "https://animeav1.com/media/diamond-no-ace-act-ii-second-season-part-2/2"
+        ]
+    },
+    {
+        "nombre": "Yozakura San Chi No Daisakusen 2Nd Season Part 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4492.jpg",
+        "link": "https://animeav1.com/media/yozakura-san-chi-no-daisakusen-2nd-season-part-2/",
+        "episodios": [
+            "https://animeav1.com/media/yozakura-san-chi-no-daisakusen-2nd-season-part-2/2"
+        ]
+    },
+    {
+        "nombre": "Ao No Hako Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4461.jpg",
+        "link": "https://animeav1.com/media/ao-no-hako-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/ao-no-hako-season-2/3"
+        ]
+    },
+    {
         "nombre": "Seitokai Ni Mo Ana Wa Aru",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -100,106 +200,6 @@
         ]
     },
     {
-        "nombre": "Tensei Shita Daiseijo Wa Seijo De Aru Koto Wo Hitakakusu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4451.jpg",
-        "link": "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/4"
-        ]
-    },
-    {
-        "nombre": "Romelia Senki",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4450.jpg",
-        "link": "https://animeav1.com/media/romelia-senki/",
-        "episodios": [
-            "https://animeav1.com/media/romelia-senki/3"
-        ]
-    },
-    {
-        "nombre": "Shuiro No Kamen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4490.jpg",
-        "link": "https://animeav1.com/media/shuiro-no-kamen/",
-        "episodios": [
-            "https://animeav1.com/media/shuiro-no-kamen/2"
-        ]
-    },
-    {
-        "nombre": "Keroro Gunsou",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4449.jpg",
-        "link": "https://animeav1.com/media/keroro-gunsou/",
-        "episodios": [
-            "https://animeav1.com/media/keroro-gunsou/3"
-        ]
-    },
-    {
-        "nombre": "Uchi No Otouto Domo Ga Sumimasen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4382.jpg",
-        "link": "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/",
-        "episodios": [
-            "https://animeav1.com/media/uchi-no-otouto-domo-ga-sumimasen/15"
-        ]
-    },
-    {
-        "nombre": "Tougen Anki Nikko Kegon No Taki Hen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4448.jpg",
-        "link": "https://animeav1.com/media/tougen-anki-nikko-kegon-no-taki-hen/",
-        "episodios": [
-            "https://animeav1.com/media/tougen-anki-nikko-kegon-no-taki-hen/3"
-        ]
-    },
-    {
-        "nombre": "Hotaru No Yomeiri",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4489.jpg",
-        "link": "https://animeav1.com/media/hotaru-no-yomeiri/",
-        "episodios": [
-            "https://animeav1.com/media/hotaru-no-yomeiri/2"
-        ]
-    },
-    {
-        "nombre": "Toaru Anbu No Item",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4488.jpg",
-        "link": "https://animeav1.com/media/toaru-anbu-no-item/",
-        "episodios": [
-            "https://animeav1.com/media/toaru-anbu-no-item/2"
-        ]
-    },
-    {
-        "nombre": "Kusuriya No Hitorigoto 3Rd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4447.jpg",
-        "link": "https://animeav1.com/media/kusuriya-no-hitorigoto-3rd-season/",
-        "episodios": [
-            "https://animeav1.com/media/kusuriya-no-hitorigoto-3rd-season/3"
-        ]
-    },
-    {
-        "nombre": "Steel Ball Run Jojo No Kimyou Na Bouken",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3833.jpg",
-        "link": "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/",
-        "episodios": [
-            "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/5"
-        ]
-    },
-    {
         "nombre": "Dark Machine: The Animation",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -230,33 +230,33 @@
         ]
     },
     {
-        "nombre": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+        "nombre": "Shuiro no Kamen",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4494.jpg",
-        "link": "https://animeav1.com/media/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku/",
+        "imagen": "https://cdn.animeav1.com/covers/4490.jpg",
+        "link": "https://animeav1.com/media/shuiro-no-kamen/",
         "episodios": [
-            "https://animeav1.com/media/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku"
+            "https://animeav1.com/media/shuiro-no-kamen"
         ]
     },
     {
-        "nombre": "Diamond no Ace: Act II Second Season Part 2",
+        "nombre": "Hotaru no Yomeiri",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4493.jpg",
-        "link": "https://animeav1.com/media/diamond-no-ace-act-ii-second-season-part-2/",
+        "imagen": "https://cdn.animeav1.com/covers/4489.jpg",
+        "link": "https://animeav1.com/media/hotaru-no-yomeiri/",
         "episodios": [
-            "https://animeav1.com/media/diamond-no-ace-act-ii-second-season-part-2"
+            "https://animeav1.com/media/hotaru-no-yomeiri"
         ]
     },
     {
-        "nombre": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+        "nombre": "Toaru Anbu no Item",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4492.jpg",
-        "link": "https://animeav1.com/media/yozakura-san-chi-no-daisakusen-2nd-season-part-2/",
+        "imagen": "https://cdn.animeav1.com/covers/4488.jpg",
+        "link": "https://animeav1.com/media/toaru-anbu-no-item/",
         "episodios": [
-            "https://animeav1.com/media/yozakura-san-chi-no-daisakusen-2nd-season-part-2"
+            "https://animeav1.com/media/toaru-anbu-no-item"
         ]
     },
     {
