@@ -1,5 +1,55 @@
 [
     {
+        "nombre": "Dark Summoner To Dekiteiru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4469.jpg",
+        "link": "https://animeav1.com/media/dark-summoner-to-dekiteiru/",
+        "episodios": [
+            "https://animeav1.com/media/dark-summoner-to-dekiteiru/3"
+        ]
+    },
+    {
+        "nombre": "Kanata Kara",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4468.jpg",
+        "link": "https://animeav1.com/media/kanata-kara/",
+        "episodios": [
+            "https://animeav1.com/media/kanata-kara/3"
+        ]
+    },
+    {
+        "nombre": "Dragon Ball Super Beerus",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4495.jpg",
+        "link": "https://animeav1.com/media/dragon-ball-super-beerus/",
+        "episodios": [
+            "https://animeav1.com/media/dragon-ball-super-beerus/2"
+        ]
+    },
+    {
+        "nombre": "Hotel Inhumans 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4467.jpg",
+        "link": "https://animeav1.com/media/hotel-inhumans-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/hotel-inhumans-2nd-season/3"
+        ]
+    },
+    {
+        "nombre": "Tensei Kizoku Kantei Skill De Nariagaru 3Rd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4440.jpg",
+        "link": "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/4"
+        ]
+    },
+    {
         "nombre": "Tank Chair",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -150,56 +200,6 @@
         ]
     },
     {
-        "nombre": "Vertex Force",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4452.jpg",
-        "link": "https://animeav1.com/media/vertex-force/",
-        "episodios": [
-            "https://animeav1.com/media/vertex-force/3"
-        ]
-    },
-    {
-        "nombre": "Marronnier Oukoku No Shichinin No Kishi",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4457.jpg",
-        "link": "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/",
-        "episodios": [
-            "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/3"
-        ]
-    },
-    {
-        "nombre": "Zombie Sagashitemasu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4455.jpg",
-        "link": "https://animeav1.com/media/zombie-sagashitemasu/",
-        "episodios": [
-            "https://animeav1.com/media/zombie-sagashitemasu/3"
-        ]
-    },
-    {
-        "nombre": "Black Clover 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4454.jpg",
-        "link": "https://animeav1.com/media/black-clover-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/black-clover-2nd-season/3"
-        ]
-    },
-    {
-        "nombre": "Yasei No Last Boss Ga Arawareta 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4438.jpg",
-        "link": "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/4"
-        ]
-    },
-    {
         "nombre": "Dark Machine: The Animation",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -217,16 +217,6 @@
         "link": "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2/",
         "episodios": [
             "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2"
-        ]
-    },
-    {
-        "nombre": "Dragon Ball Super: Beerus",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4495.jpg",
-        "link": "https://animeav1.com/media/dragon-ball-super-beerus/",
-        "episodios": [
-            "https://animeav1.com/media/dragon-ball-super-beerus"
         ]
     },
     {
