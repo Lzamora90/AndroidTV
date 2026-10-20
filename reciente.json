@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Mahou Shoujo Ikusei Keikaku Restart",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4474.jpg",
+        "link": "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/",
+        "episodios": [
+            "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/3"
+        ]
+    },
+    {
         "nombre": "Bleach Sennen Kessen Hen Kashin Tan",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -187,16 +197,6 @@
         "link": "https://animeav1.com/media/ao-no-hako-season-2/",
         "episodios": [
             "https://animeav1.com/media/ao-no-hako-season-2/3"
-        ]
-    },
-    {
-        "nombre": "Seitokai Ni Mo Ana Wa Aru",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4460.jpg",
-        "link": "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/",
-        "episodios": [
-            "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/3"
         ]
     },
     {
