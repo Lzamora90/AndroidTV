@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "Dark Machine The Animation",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4497.jpg",
+        "link": "https://animeav1.com/media/dark-machine-the-animation/",
+        "episodios": [
+            "https://animeav1.com/media/dark-machine-the-animation/2"
+        ]
+    },
+    {
+        "nombre": "Sora Wa Akai Kawa No Hotori",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4412.jpg",
+        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
+        "episodios": [
+            "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/16"
+        ]
+    },
+    {
+        "nombre": "Gensou Suikoden",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4459.jpg",
+        "link": "https://animeav1.com/media/gensou-suikoden/",
+        "episodios": [
+            "https://animeav1.com/media/gensou-suikoden/3"
+        ]
+    },
+    {
+        "nombre": "Chitose Kun Wa Ramune Bin No Naka Part 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4496.jpg",
+        "link": "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2/",
+        "episodios": [
+            "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2/2"
+        ]
+    },
+    {
         "nombre": "Tsuihou Sareta Cheat Fuyo Majutsushi Wa Kimama Na Second Life Wo Ouka Suru Ore Wa Buki Dake Ja Naku Arayuru Mono Ni Kyouka Point Wo Fuyo Dekiru Shi Ore No Ishi De Itsudemo Kouka Wo Kaijo Dekiru Kedo Nokotta Hitotachi Daijoubu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -147,66 +187,6 @@
         "link": "https://animeav1.com/media/hotel-inhumans-2nd-season/",
         "episodios": [
             "https://animeav1.com/media/hotel-inhumans-2nd-season/3"
-        ]
-    },
-    {
-        "nombre": "Tensei Kizoku Kantei Skill De Nariagaru 3Rd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4440.jpg",
-        "link": "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/4"
-        ]
-    },
-    {
-        "nombre": "Tank Chair",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4463.jpg",
-        "link": "https://animeav1.com/media/tank-chair/",
-        "episodios": [
-            "https://animeav1.com/media/tank-chair/3"
-        ]
-    },
-    {
-        "nombre": "Yowaki Max Reijou Nanoni Ratsuwan Konyakusha Sama No Kake Ni Notte Shimatta",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4466.jpg",
-        "link": "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/",
-        "episodios": [
-            "https://animeav1.com/media/yowaki-max-reijou-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta/3"
-        ]
-    },
-    {
-        "nombre": "Tempal Item No Chikara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4439.jpg",
-        "link": "https://animeav1.com/media/tempal-item-no-chikara/",
-        "episodios": [
-            "https://animeav1.com/media/tempal-item-no-chikara/4"
-        ]
-    },
-    {
-        "nombre": "Dark Machine: The Animation",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4497.jpg",
-        "link": "https://animeav1.com/media/dark-machine-the-animation/",
-        "episodios": [
-            "https://animeav1.com/media/dark-machine-the-animation"
-        ]
-    },
-    {
-        "nombre": "Chitose-kun wa Ramune Bin no Naka Part 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4496.jpg",
-        "link": "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2/",
-        "episodios": [
-            "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2"
         ]
     },
     {
