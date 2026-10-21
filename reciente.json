@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "Magic Knight Rayearth 2026",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4483.jpg",
+        "link": "https://animeav1.com/media/magic-knight-rayearth-2026/",
+        "episodios": [
+            "https://animeav1.com/media/magic-knight-rayearth-2026/3"
+        ]
+    },
+    {
+        "nombre": "Tantei Wa Mou Shindeiru Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4480.jpg",
+        "link": "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/3"
+        ]
+    },
+    {
+        "nombre": "Sekai Saikyou No Majo Hajimemashita",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4482.jpg",
+        "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
+        "episodios": [
+            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/3"
+        ]
+    },
+    {
+        "nombre": "Sasaki To Pii Chan Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4481.jpg",
+        "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/sasaki-to-pii-chan-season-2/3"
+        ]
+    },
+    {
         "nombre": "Dark Machine The Animation",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -150,43 +190,13 @@
         ]
     },
     {
-        "nombre": "Dark Summoner To Dekiteiru",
+        "nombre": "Dragon Ball Super: Beerus",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4469.jpg",
-        "link": "https://animeav1.com/media/dark-summoner-to-dekiteiru/",
-        "episodios": [
-            "https://animeav1.com/media/dark-summoner-to-dekiteiru/3"
-        ]
-    },
-    {
-        "nombre": "Kanata Kara",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4468.jpg",
-        "link": "https://animeav1.com/media/kanata-kara/",
-        "episodios": [
-            "https://animeav1.com/media/kanata-kara/3"
-        ]
-    },
-    {
-        "nombre": "Dragon Ball Super Beerus",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4495.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4495.jpg",
         "link": "https://animeav1.com/media/dragon-ball-super-beerus/",
         "episodios": [
-            "https://animeav1.com/media/dragon-ball-super-beerus/2"
-        ]
-    },
-    {
-        "nombre": "Hotel Inhumans 2Nd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4467.jpg",
-        "link": "https://animeav1.com/media/hotel-inhumans-2nd-season/",
-        "episodios": [
-            "https://animeav1.com/media/hotel-inhumans-2nd-season/3"
+            "https://animeav1.com/media/dragon-ball-super-beerus"
         ]
     },
     {
@@ -297,46 +307,6 @@
         "link": "https://animeav1.com/media/juuou-mujin-dandivine/",
         "episodios": [
             "https://animeav1.com/media/juuou-mujin-dandivine"
-        ]
-    },
-    {
-        "nombre": "Magic Knight Rayearth (2026)",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4483.jpg",
-        "link": "https://animeav1.com/media/magic-knight-rayearth-2026/",
-        "episodios": [
-            "https://animeav1.com/media/magic-knight-rayearth-2026"
-        ]
-    },
-    {
-        "nombre": "Sekai Saikyou no Majo, Hajimemashita",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4482.jpg",
-        "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
-        "episodios": [
-            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita"
-        ]
-    },
-    {
-        "nombre": "Sasaki to Pii-chan Season 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4481.jpg",
-        "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
-        "episodios": [
-            "https://animeav1.com/media/sasaki-to-pii-chan-season-2"
-        ]
-    },
-    {
-        "nombre": "Tantei wa Mou, Shindeiru. Season 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4480.jpg",
-        "link": "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/",
-        "episodios": [
-            "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2"
         ]
     }
 ]
