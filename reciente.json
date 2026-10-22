@@ -1,5 +1,25 @@
 [
     {
+        "nombre": "Koori No Jouheki 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4445.jpg",
+        "link": "https://animeav1.com/media/koori-no-jouheki-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/koori-no-jouheki-2nd-season/4"
+        ]
+    },
+    {
+        "nombre": "Fx Senshi Kurumi Chan",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4444.jpg",
+        "link": "https://animeav1.com/media/fx-senshi-kurumi-chan/",
+        "episodios": [
+            "https://animeav1.com/media/fx-senshi-kurumi-chan/4"
+        ]
+    },
+    {
         "nombre": "Kikansha No Mahou Wa Tokubetsu Desu 2Nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -177,16 +197,6 @@
         "link": "https://animeav1.com/media/cyberpunk-edgerunners-2/",
         "episodios": [
             "https://animeav1.com/media/cyberpunk-edgerunners-2/10"
-        ]
-    },
-    {
-        "nombre": "Mahou Shoujo Ikusei Keikaku Restart",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4474.jpg",
-        "link": "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/",
-        "episodios": [
-            "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/3"
         ]
     },
     {
