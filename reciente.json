@@ -1,5 +1,55 @@
 [
     {
+        "nombre": "Yasei No Last Boss Ga Arawareta 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4438.jpg",
+        "link": "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/yasei-no-last-boss-ga-arawareta-2nd-season/5"
+        ]
+    },
+    {
+        "nombre": "Tensei Shita Daiseijo Wa Seijo De Aru Koto Wo Hitakakusu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4451.jpg",
+        "link": "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu/5"
+        ]
+    },
+    {
+        "nombre": "Romelia Senki",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4450.jpg",
+        "link": "https://animeav1.com/media/romelia-senki/",
+        "episodios": [
+            "https://animeav1.com/media/romelia-senki/4"
+        ]
+    },
+    {
+        "nombre": "Shuiro No Kamen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4490.jpg",
+        "link": "https://animeav1.com/media/shuiro-no-kamen/",
+        "episodios": [
+            "https://animeav1.com/media/shuiro-no-kamen/3"
+        ]
+    },
+    {
+        "nombre": "Keroro Gunsou",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4449.jpg",
+        "link": "https://animeav1.com/media/keroro-gunsou/",
+        "episodios": [
+            "https://animeav1.com/media/keroro-gunsou/4"
+        ]
+    },
+    {
         "nombre": "Tokyo Revengers Santen Sensou Hen",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -150,56 +200,6 @@
         ]
     },
     {
-        "nombre": "Tensei Shitara Ken Deshita Ii",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4442.jpg",
-        "link": "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/4"
-        ]
-    },
-    {
-        "nombre": "Shin Tennis No Oujisama U 17 World Cup Kesshou Member Ketteisen",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4443.jpg",
-        "link": "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/",
-        "episodios": [
-            "https://animeav1.com/media/shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen/4"
-        ]
-    },
-    {
-        "nombre": "Magic Knight Rayearth 2026",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4483.jpg",
-        "link": "https://animeav1.com/media/magic-knight-rayearth-2026/",
-        "episodios": [
-            "https://animeav1.com/media/magic-knight-rayearth-2026/3"
-        ]
-    },
-    {
-        "nombre": "Tantei Wa Mou Shindeiru Season 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4480.jpg",
-        "link": "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/",
-        "episodios": [
-            "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/3"
-        ]
-    },
-    {
-        "nombre": "Sekai Saikyou No Majo Hajimemashita",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4482.jpg",
-        "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
-        "episodios": [
-            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/3"
-        ]
-    },
-    {
         "nombre": "Cyberpunk: Edgerunners 2",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -280,13 +280,23 @@
         ]
     },
     {
-        "nombre": "Shuiro no Kamen",
+        "nombre": "Magic Knight Rayearth (2026)",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4490.jpg",
-        "link": "https://animeav1.com/media/shuiro-no-kamen/",
+        "imagen": "https://cdn.animeav1.com/covers/4483.jpg",
+        "link": "https://animeav1.com/media/magic-knight-rayearth-2026/",
         "episodios": [
-            "https://animeav1.com/media/shuiro-no-kamen"
+            "https://animeav1.com/media/magic-knight-rayearth-2026"
+        ]
+    },
+    {
+        "nombre": "Sekai Saikyou no Majo, Hajimemashita",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4482.jpg",
+        "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
+        "episodios": [
+            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita"
         ]
     },
     {
@@ -297,6 +307,16 @@
         "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
         "episodios": [
             "https://animeav1.com/media/sasaki-to-pii-chan-season-2"
+        ]
+    },
+    {
+        "nombre": "Tantei wa Mou, Shindeiru. Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4480.jpg",
+        "link": "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/tantei-wa-mou-shindeiru-season-2"
         ]
     },
     {
