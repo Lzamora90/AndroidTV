@@ -1,5 +1,35 @@
 [
     {
+        "nombre": "Dark Machine The Animation",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4497.jpg",
+        "link": "https://animeav1.com/media/dark-machine-the-animation/",
+        "episodios": [
+            "https://animeav1.com/media/dark-machine-the-animation/3"
+        ]
+    },
+    {
+        "nombre": "Sora Wa Akai Kawa No Hotori",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4412.jpg",
+        "link": "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/",
+        "episodios": [
+            "https://animeav1.com/media/sora-wa-akai-kawa-no-hotori/17"
+        ]
+    },
+    {
+        "nombre": "Gensou Suikoden",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4459.jpg",
+        "link": "https://animeav1.com/media/gensou-suikoden/",
+        "episodios": [
+            "https://animeav1.com/media/gensou-suikoden/4"
+        ]
+    },
+    {
         "nombre": "Chitose Kun Wa Ramune Bin No Naka Part 2",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -160,26 +190,6 @@
         ]
     },
     {
-        "nombre": "Tensei Kizoku Kantei Skill De Nariagaru 3Rd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4440.jpg",
-        "link": "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-kizoku-kantei-skill-de-nariagaru-3rd-season/5"
-        ]
-    },
-    {
-        "nombre": "Tank Chair",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4463.jpg",
-        "link": "https://animeav1.com/media/tank-chair/",
-        "episodios": [
-            "https://animeav1.com/media/tank-chair/4"
-        ]
-    },
-    {
         "nombre": "Cyberpunk: Edgerunners 2",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -187,16 +197,6 @@
         "link": "https://animeav1.com/media/cyberpunk-edgerunners-2/",
         "episodios": [
             "https://animeav1.com/media/cyberpunk-edgerunners-2"
-        ]
-    },
-    {
-        "nombre": "Dark Machine: The Animation",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4497.jpg",
-        "link": "https://animeav1.com/media/dark-machine-the-animation/",
-        "episodios": [
-            "https://animeav1.com/media/dark-machine-the-animation"
         ]
     },
     {
