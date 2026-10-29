@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "Hyouken No Majutsushi Ga Sekai Wo Suberu Ii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4487.jpg",
+        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
+        "episodios": [
+            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/4"
+        ]
+    },
+    {
+        "nombre": "Tsuihou Sareta Tensei Juukishi Wa Game Chishiki De Musou Suru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4375.jpg",
+        "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
+        "episodios": [
+            "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/18"
+        ]
+    },
+    {
+        "nombre": "Koori No Jouheki 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4445.jpg",
+        "link": "https://animeav1.com/media/koori-no-jouheki-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/koori-no-jouheki-2nd-season/5"
+        ]
+    },
+    {
+        "nombre": "Fx Senshi Kurumi Chan",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4444.jpg",
+        "link": "https://animeav1.com/media/fx-senshi-kurumi-chan/",
+        "episodios": [
+            "https://animeav1.com/media/fx-senshi-kurumi-chan/5"
+        ]
+    },
+    {
         "nombre": "Tensei Shitara Ken Deshita Ii",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -160,46 +200,6 @@
         ]
     },
     {
-        "nombre": "Shiotaiou No Satou San Ga Ore Ni Dake Amai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4476.jpg",
-        "link": "https://animeav1.com/media/shiotaiou-no-satou-san-ga-ore-ni-dake-amai/",
-        "episodios": [
-            "https://animeav1.com/media/shiotaiou-no-satou-san-ga-ore-ni-dake-amai/4"
-        ]
-    },
-    {
-        "nombre": "Mahou Shoujo Ikusei Keikaku Restart",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4474.jpg",
-        "link": "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/",
-        "episodios": [
-            "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/4"
-        ]
-    },
-    {
-        "nombre": "Bleach Sennen Kessen Hen Kashin Tan",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4429.jpg",
-        "link": "https://animeav1.com/media/bleach-sennen-kessen-hen-kashin-tan/",
-        "episodios": [
-            "https://animeav1.com/media/bleach-sennen-kessen-hen-kashin-tan/10"
-        ]
-    },
-    {
-        "nombre": "Psyren",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4473.jpg",
-        "link": "https://animeav1.com/media/psyren/",
-        "episodios": [
-            "https://animeav1.com/media/psyren/4"
-        ]
-    },
-    {
         "nombre": "Watashi no Shiawase na Kekkon Special",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -297,16 +297,6 @@
         "link": "https://animeav1.com/media/toaru-anbu-no-item/",
         "episodios": [
             "https://animeav1.com/media/toaru-anbu-no-item"
-        ]
-    },
-    {
-        "nombre": "Hyouken no Majutsushi ga Sekai wo Suberu II",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4487.jpg",
-        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
-        "episodios": [
-            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
         ]
     },
     {
