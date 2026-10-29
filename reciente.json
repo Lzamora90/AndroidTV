@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Tensei Shitara Ken Deshita Ii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4442.jpg",
+        "link": "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/",
+        "episodios": [
+            "https://animeav1.com/media/tensei-shitara-ken-deshita-ii/5"
+        ]
+    },
+    {
         "nombre": "Kikansha No Mahou Wa Tokubetsu Desu 2Nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -187,16 +197,6 @@
         "link": "https://animeav1.com/media/psyren/",
         "episodios": [
             "https://animeav1.com/media/psyren/4"
-        ]
-    },
-    {
-        "nombre": "Tensei Goblin Dakedo Shitsumon Aru",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4471.jpg",
-        "link": "https://animeav1.com/media/tensei-goblin-dakedo-shitsumon-aru/",
-        "episodios": [
-            "https://animeav1.com/media/tensei-goblin-dakedo-shitsumon-aru/5"
         ]
     },
     {
