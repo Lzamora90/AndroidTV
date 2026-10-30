@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Tetsuryou Meet With Tetsudou Musume",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4486.jpg",
+        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
+        "episodios": [
+            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/4"
+        ]
+    },
+    {
         "nombre": "Hyouken No Majutsushi Ga Sekai Wo Suberu Ii",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -190,16 +200,6 @@
         ]
     },
     {
-        "nombre": "Choujun Choujou Senpai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4478.jpg",
-        "link": "https://animeav1.com/media/choujun-choujou-senpai/",
-        "episodios": [
-            "https://animeav1.com/media/choujun-choujou-senpai/4"
-        ]
-    },
-    {
         "nombre": "Watashi no Shiawase na Kekkon Special",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -297,16 +297,6 @@
         "link": "https://animeav1.com/media/toaru-anbu-no-item/",
         "episodios": [
             "https://animeav1.com/media/toaru-anbu-no-item"
-        ]
-    },
-    {
-        "nombre": "Tetsuryou! Meet with Tetsudou Musume",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4486.jpg",
-        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
-        "episodios": [
-            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume"
         ]
     }
 ]
