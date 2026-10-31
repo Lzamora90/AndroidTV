@@ -1,5 +1,25 @@
 [
     {
+        "nombre": "Keroro Gunsou",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4449.jpg",
+        "link": "https://animeav1.com/media/keroro-gunsou/",
+        "episodios": [
+            "https://animeav1.com/media/keroro-gunsou/5"
+        ]
+    },
+    {
+        "nombre": "Tokyo Revengers Santen Sensou Hen",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4446.jpg",
+        "link": "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/",
+        "episodios": [
+            "https://animeav1.com/media/tokyo-revengers-santen-sensou-hen/5"
+        ]
+    },
+    {
         "nombre": "Uchi No Otouto Domo Ga Sumimasen",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -180,26 +200,6 @@
         ]
     },
     {
-        "nombre": "Sasaki To Pii Chan Season 2",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4481.jpg",
-        "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
-        "episodios": [
-            "https://animeav1.com/media/sasaki-to-pii-chan-season-2/4"
-        ]
-    },
-    {
-        "nombre": "Dark Machine The Animation",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4497.jpg",
-        "link": "https://animeav1.com/media/dark-machine-the-animation/",
-        "episodios": [
-            "https://animeav1.com/media/dark-machine-the-animation/3"
-        ]
-    },
-    {
         "nombre": "Watashi no Shiawase na Kekkon Special",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -217,6 +217,16 @@
         "link": "https://animeav1.com/media/cyberpunk-edgerunners-2/",
         "episodios": [
             "https://animeav1.com/media/cyberpunk-edgerunners-2"
+        ]
+    },
+    {
+        "nombre": "Dark Machine: The Animation",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4497.jpg",
+        "link": "https://animeav1.com/media/dark-machine-the-animation/",
+        "episodios": [
+            "https://animeav1.com/media/dark-machine-the-animation"
         ]
     },
     {
@@ -287,6 +297,16 @@
         "link": "https://animeav1.com/media/shuiro-no-kamen/",
         "episodios": [
             "https://animeav1.com/media/shuiro-no-kamen"
+        ]
+    },
+    {
+        "nombre": "Sasaki to Pii-chan Season 2",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4481.jpg",
+        "link": "https://animeav1.com/media/sasaki-to-pii-chan-season-2/",
+        "episodios": [
+            "https://animeav1.com/media/sasaki-to-pii-chan-season-2"
         ]
     }
 ]
