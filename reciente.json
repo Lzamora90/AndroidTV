@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Dark Summoner To Dekiteiru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4469.jpg",
+        "link": "https://animeav1.com/media/dark-summoner-to-dekiteiru/",
+        "episodios": [
+            "https://animeav1.com/media/dark-summoner-to-dekiteiru/5"
+        ]
+    },
+    {
         "nombre": "Dragon Ball Super Beerus",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -187,16 +197,6 @@
         "link": "https://animeav1.com/media/vertex-force/",
         "episodios": [
             "https://animeav1.com/media/vertex-force/5"
-        ]
-    },
-    {
-        "nombre": "Marronnier Oukoku No Shichinin No Kishi",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4457.jpg",
-        "link": "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/",
-        "episodios": [
-            "https://animeav1.com/media/marronnier-oukoku-no-shichinin-no-kishi/5"
         ]
     },
     {
