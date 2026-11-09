@@ -1,5 +1,35 @@
 [
     {
+        "nombre": "Mahou Shoujo Ikusei Keikaku Restart",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4474.jpg",
+        "link": "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/",
+        "episodios": [
+            "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/6"
+        ]
+    },
+    {
+        "nombre": "Psyren",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4473.jpg",
+        "link": "https://animeav1.com/media/psyren/",
+        "episodios": [
+            "https://animeav1.com/media/psyren/5"
+        ]
+    },
+    {
+        "nombre": "Doumo Suki Na Hito Ni Horegusuri Wo Irai Sareta Majo Desu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4472.jpg",
+        "link": "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/",
+        "episodios": [
+            "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/6"
+        ]
+    },
+    {
         "nombre": "Dark Summoner To Dekiteiru",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -170,36 +200,6 @@
         ]
     },
     {
-        "nombre": "Kyoufu Collector",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4491.jpg",
-        "link": "https://animeav1.com/media/kyoufu-collector/",
-        "episodios": [
-            "https://animeav1.com/media/kyoufu-collector/5"
-        ]
-    },
-    {
-        "nombre": "Ranma 2024 3Rd Season",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4456.jpg",
-        "link": "https://animeav1.com/media/ranma-2024-3rd-season/",
-        "episodios": [
-            "https://animeav1.com/media/ranma-2024-3rd-season/6"
-        ]
-    },
-    {
-        "nombre": "Magicalexplorer",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4453.jpg",
-        "link": "https://animeav1.com/media/magicalexplorer/",
-        "episodios": [
-            "https://animeav1.com/media/magicalexplorer/7"
-        ]
-    },
-    {
         "nombre": "Demons' Crest",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -247,6 +247,16 @@
         "link": "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2/",
         "episodios": [
             "https://animeav1.com/media/chitose-kun-wa-ramune-bin-no-naka-part-2"
+        ]
+    },
+    {
+        "nombre": "Kyoufu Collector",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4491.jpg",
+        "link": "https://animeav1.com/media/kyoufu-collector/",
+        "episodios": [
+            "https://animeav1.com/media/kyoufu-collector"
         ]
     },
     {
