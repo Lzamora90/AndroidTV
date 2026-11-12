@@ -1,5 +1,55 @@
 [
     {
+        "nombre": "Tetsuryou Meet With Tetsudou Musume",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4486.jpg",
+        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
+        "episodios": [
+            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/6"
+        ]
+    },
+    {
+        "nombre": "Hyouken No Majutsushi Ga Sekai Wo Suberu Ii",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4487.jpg",
+        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
+        "episodios": [
+            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/6"
+        ]
+    },
+    {
+        "nombre": "Tsuihou Sareta Tensei Juukishi Wa Game Chishiki De Musou Suru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4375.jpg",
+        "link": "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/",
+        "episodios": [
+            "https://animeav1.com/media/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/20"
+        ]
+    },
+    {
+        "nombre": "Koori No Jouheki 2Nd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4445.jpg",
+        "link": "https://animeav1.com/media/koori-no-jouheki-2nd-season/",
+        "episodios": [
+            "https://animeav1.com/media/koori-no-jouheki-2nd-season/7"
+        ]
+    },
+    {
+        "nombre": "Fx Senshi Kurumi Chan",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4444.jpg",
+        "link": "https://animeav1.com/media/fx-senshi-kurumi-chan/",
+        "episodios": [
+            "https://animeav1.com/media/fx-senshi-kurumi-chan/7"
+        ]
+    },
+    {
         "nombre": "Kikansha No Mahou Wa Tokubetsu Desu 2Nd Season",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -150,56 +200,6 @@
         ]
     },
     {
-        "nombre": "Battle Spirits Re Zekkai No Kuu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4479.jpg",
-        "link": "https://animeav1.com/media/battle-spirits-re-zekkai-no-kuu/",
-        "episodios": [
-            "https://animeav1.com/media/battle-spirits-re-zekkai-no-kuu/6"
-        ]
-    },
-    {
-        "nombre": "Shiotaiou No Satou San Ga Ore Ni Dake Amai",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4476.jpg",
-        "link": "https://animeav1.com/media/shiotaiou-no-satou-san-ga-ore-ni-dake-amai/",
-        "episodios": [
-            "https://animeav1.com/media/shiotaiou-no-satou-san-ga-ore-ni-dake-amai/6"
-        ]
-    },
-    {
-        "nombre": "Mahou Shoujo Ikusei Keikaku Restart",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4474.jpg",
-        "link": "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/",
-        "episodios": [
-            "https://animeav1.com/media/mahou-shoujo-ikusei-keikaku-restart/6"
-        ]
-    },
-    {
-        "nombre": "Psyren",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4473.jpg",
-        "link": "https://animeav1.com/media/psyren/",
-        "episodios": [
-            "https://animeav1.com/media/psyren/5"
-        ]
-    },
-    {
-        "nombre": "Doumo Suki Na Hito Ni Horegusuri Wo Irai Sareta Majo Desu",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4472.jpg",
-        "link": "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/",
-        "episodios": [
-            "https://animeav1.com/media/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/6"
-        ]
-    },
-    {
         "nombre": "Demons' Crest",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -307,26 +307,6 @@
         "link": "https://animeav1.com/media/toaru-anbu-no-item/",
         "episodios": [
             "https://animeav1.com/media/toaru-anbu-no-item"
-        ]
-    },
-    {
-        "nombre": "Hyouken no Majutsushi ga Sekai wo Suberu II",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4487.jpg",
-        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
-        "episodios": [
-            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
-        ]
-    },
-    {
-        "nombre": "Tetsuryou! Meet with Tetsudou Musume",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4486.jpg",
-        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
-        "episodios": [
-            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume"
         ]
     }
 ]
