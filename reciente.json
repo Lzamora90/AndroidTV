@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Keroro Gunsou",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4449.jpg",
+        "link": "https://animeav1.com/media/keroro-gunsou/",
+        "episodios": [
+            "https://animeav1.com/media/keroro-gunsou/7"
+        ]
+    },
+    {
         "nombre": "Tokyo Revengers Santen Sensou Hen",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -190,16 +200,6 @@
         ]
     },
     {
-        "nombre": "Sekai Saikyou No Majo Hajimemashita",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4482.jpg",
-        "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
-        "episodios": [
-            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/6"
-        ]
-    },
-    {
         "nombre": "Watashi no Shiawase na Kekkon Special",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -297,6 +297,16 @@
         "link": "https://animeav1.com/media/shuiro-no-kamen/",
         "episodios": [
             "https://animeav1.com/media/shuiro-no-kamen"
+        ]
+    },
+    {
+        "nombre": "Sekai Saikyou no Majo, Hajimemashita",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4482.jpg",
+        "link": "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita/",
+        "episodios": [
+            "https://animeav1.com/media/sekai-saikyou-no-majo-hajimemashita"
         ]
     },
     {
