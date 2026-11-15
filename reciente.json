@@ -1,5 +1,45 @@
 [
     {
+        "nombre": "Seitokai Ni Mo Ana Wa Aru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4460.jpg",
+        "link": "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/",
+        "episodios": [
+            "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/7"
+        ]
+    },
+    {
+        "nombre": "Kashita Maryoku Wa Revo Barai De Kyousei Choushuu",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4458.jpg",
+        "link": "https://animeav1.com/media/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/",
+        "episodios": [
+            "https://animeav1.com/media/kashita-maryoku-wa-revo-barai-de-kyousei-choushuu/7"
+        ]
+    },
+    {
+        "nombre": "Kyoufu Collector",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4491.jpg",
+        "link": "https://animeav1.com/media/kyoufu-collector/",
+        "episodios": [
+            "https://animeav1.com/media/kyoufu-collector/6"
+        ]
+    },
+    {
+        "nombre": "Ranma 2024 3Rd Season",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4456.jpg",
+        "link": "https://animeav1.com/media/ranma-2024-3rd-season/",
+        "episodios": [
+            "https://animeav1.com/media/ranma-2024-3rd-season/7"
+        ]
+    },
+    {
         "nombre": "Magicalexplorer",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -160,43 +200,13 @@
         ]
     },
     {
-        "nombre": "Demons Crest",
+        "nombre": "Demons' Crest",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4500.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4500.jpg",
         "link": "https://animeav1.com/media/demons-crest/",
         "episodios": [
-            "https://animeav1.com/media/demons-crest/3"
-        ]
-    },
-    {
-        "nombre": "Steel Ball Run Jojo No Kimyou Na Bouken",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/3833.jpg",
-        "link": "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/",
-        "episodios": [
-            "https://animeav1.com/media/steel-ball-run-jojo-no-kimyou-na-bouken/9"
-        ]
-    },
-    {
-        "nombre": "Tetsuryou Meet With Tetsudou Musume",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4486.jpg",
-        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
-        "episodios": [
-            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/6"
-        ]
-    },
-    {
-        "nombre": "Hyouken No Majutsushi Ga Sekai Wo Suberu Ii",
-        "sinopsis": "Sin descripción disponible.",
-        "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4487.jpg",
-        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
-        "episodios": [
-            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/6"
+            "https://animeav1.com/media/demons-crest"
         ]
     },
     {
@@ -280,13 +290,23 @@
         ]
     },
     {
-        "nombre": "Kyoufu Collector",
+        "nombre": "Hyouken no Majutsushi ga Sekai wo Suberu II",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/covers/4491.jpg",
-        "link": "https://animeav1.com/media/kyoufu-collector/",
+        "imagen": "https://cdn.animeav1.com/covers/4487.jpg",
+        "link": "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii/",
         "episodios": [
-            "https://animeav1.com/media/kyoufu-collector"
+            "https://animeav1.com/media/hyouken-no-majutsushi-ga-sekai-wo-suberu-ii"
+        ]
+    },
+    {
+        "nombre": "Tetsuryou! Meet with Tetsudou Musume",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/covers/4486.jpg",
+        "link": "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume/",
+        "episodios": [
+            "https://animeav1.com/media/tetsuryou-meet-with-tetsudou-musume"
         ]
     },
     {
