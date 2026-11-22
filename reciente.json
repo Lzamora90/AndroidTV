@@ -1,5 +1,15 @@
 [
     {
+        "nombre": "Seitokai Ni Mo Ana Wa Aru",
+        "sinopsis": "Sin descripción disponible.",
+        "genero": "",
+        "imagen": "https://cdn.animeav1.com/thumbnails/4460.jpg",
+        "link": "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/",
+        "episodios": [
+            "https://animeav1.com/media/seitokai-ni-mo-ana-wa-aru/8"
+        ]
+    },
+    {
         "nombre": "Kashita Maryoku Wa Revo Barai De Kyousei Choushuu",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
@@ -190,13 +200,13 @@
         ]
     },
     {
-        "nombre": "Demons Crest",
+        "nombre": "Demons' Crest",
         "sinopsis": "Sin descripción disponible.",
         "genero": "",
-        "imagen": "https://cdn.animeav1.com/thumbnails/4500.jpg",
+        "imagen": "https://cdn.animeav1.com/covers/4500.jpg",
         "link": "https://animeav1.com/media/demons-crest/",
         "episodios": [
-            "https://animeav1.com/media/demons-crest/4"
+            "https://animeav1.com/media/demons-crest"
         ]
     },
     {
